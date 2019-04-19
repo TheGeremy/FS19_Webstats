@@ -162,10 +162,10 @@
 			<fr>PIG_TYPE_RED</fr>
 		</text>
 		<text name="CHICKEN_TYPE_ROOSTER">
-			<cz>Slepice</cz>
-			<en>Chicken</en>
+			<cz>Kohout</cz>
+			<en>Rooster</en>
 			<de>Hahn</de>
-			<fr>CHICKEN_TYPE_ROOSTER</fr>
+			<fr>Coq</fr>
 		</text>
 		<text name="CHICKEN_TYPE_WHITE">
 			<cz>Slepice (bílá)</cz>
