@@ -7,7 +7,7 @@
 			<button type="button" class="list-group-item list-group-item-dark">
 				<strong>{$stable.name}</strong>
 			</button>
-			{foreach $stable.animals as $animalI3dName => $animal} <a href="index.php?page={$page}&stable={$stableI3dName}&animal={$animalI3dName}" class="list-group-item list-group-item-action"> {$animal.name}{if $animal.isHorse}<br> <small>##DAY_RIDE##<span class="float-right">{$animal.ridingTimer|number_format:0:",":"."}
+			{foreach $stable.animals as $animalI3dName => $animal} <a href="index.php?page={$page}&stable={$stableI3dName}&animal={$animalI3dName}" class="list-group-item list-group-item-action"> {if $animal.isHorse}##HORSE##{/if} {$animal.name}{if $animal.isHorse}<br> <small>##DAY_RIDE##<span class="float-right">{$animal.ridingTimer|number_format:0:",":"."}
 						%</span></small>{else} {$animal.count}<br> <small>##PRODUCTIVITY## {$stable.productivity|number_format:0:",":"."} %</small>{/if}
 			</a> {/foreach} {/foreach}
 		</div>
@@ -16,6 +16,7 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<h4>
+					{if $stables.$currentStable.animals.$currentAnimal.isHorse}##HORSE##{/if}
 					{$stables.$currentStable.animals.$currentAnimal.name}<span class="float-right">{if $stables.$currentStable.animals.$currentAnimal.isHorse}€
 						{$stables.$currentStable.animals.$currentAnimal.value|number_format:0:",":"."}{else}{$stables.$currentStable.animals.$currentAnimal.count|number_format:0:",":"."}{/if}</span>
 				</h4>
