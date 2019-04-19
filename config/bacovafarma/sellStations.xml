@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<item name="sellingStationrailline" locationType="TipTrigger" position="433.341 91.819 -472.417" isSellingPoint="true" />
+    <item name="sellingStationhaynfeed" locationType="TipTrigger" position="421.8 91.601 -604.631" isSellingPoint="true" />
+	<item name="sellingStationdairy" position="368.396 92.281 -513.878" />
+	<item name="sellingStationhaynfeed2" position="469.207 91.604 -592.249" />
+	<item name="sellingStationWood" position="308.784 101.035 -396.215"/>
+	<item name="sellingStationWoodChips" position="382.011 102.019 -361.171" />
+	<item name="sellingStationWool" position="398.099 91.918 -596.183" />
+<!--<item name="sellingStationVehicles" position="414.742 91.935 -581.573" />-->
+    <item name="sellingStationBales" position="441.673 91.957 -619.952" />
+    <l10n>
+        <text name="sellingStationhaynfeed"> 
+            <de>BayHaynfeed</de>
+            <en>BHF Shop</en>
+            <fr>BayHaynfeed</fr>
+            <cz>Prodejna BHF</cz>
+        </text>
+        <text name="sellingStationhaynfeed2"> 
+            <de>BayHaynfeed II</de>
+            <en>Purchase of potatoes and beet</en>
+            <fr>BayHaynfeed II</fr>
+            <cz>Výkup brambor a řepy</cz>
+        </text>
+        <text name="sellingStationrailline"> 
+            <de>Railline</de>
+            <en>Rail line</en>
+            <fr>Rail line</fr>
+            <cz>Nádraží</cz>
+        </text>   
+        <text name="sellingStationdairy"> 
+            <de>Diary</de>
+            <en>Diary</en>
+            <fr>Diary</fr>
+            <cz>Mlékárna</cz>
+        </text>      
+    </l10n>
+</mapconfig>

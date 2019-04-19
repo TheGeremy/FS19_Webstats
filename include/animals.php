@@ -25,18 +25,29 @@ include ('./include/savegame/Animals.class.php');
 Animals::loadStables ( $savegame::$xml );
 $stables = Animals::getStables ();
 $smarty->assign ( 'stables', $stables );
+
 if (sizeof ( $stables ) > 0) {
 	$firstStable = array_keys ( $stables ) [0];
-	$firstAnimal = array_keys ( $stables [$firstStable] ['animals'] ) [0];
+	if(array_key_exists('animals', $stables [$firstStable] )) {
+    	//it exists
+	    $firstAnimal = array_keys ( $stables [$firstStable] ['animals'] );
+	} else{
+	    $firstAnimal = null;
+	};
 } else {
 	$firstStable = null;
 	$firstAnimal = null;
 }
+
 $currentStable = GetParam ( 'stable', 'G', $firstStable );
 $currentAnimal = GetParam ( 'animal', 'G', $firstAnimal );
-if (! isset ( $stables [$currentStable] ) || ! isset ( $stables [$currentStable] ['animals'] [$currentAnimal] )) {
-	$currentStable = $firstStable;
-	$currentAnimal = $firstAnimal;
+
+if ($firstStable != null && $firstAnimal != null) {
+	if (! isset ( $stables [$currentStable] ) || ! isset ( $stables [$currentStable] ['animals'] [$currentAnimal] )) {
+		$currentStable = $firstStable;
+		$currentAnimal = $firstAnimal;
+	}
 }
+
 $smarty->assign ( 'currentStable', $currentStable );
-$smarty->assign ( 'currentAnimal', $currentAnimal );
+$smarty->assign ( 'currentAnimal', $currentAnimal );	

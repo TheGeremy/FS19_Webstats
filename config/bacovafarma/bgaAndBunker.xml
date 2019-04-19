@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- na mape nie je ziadne BGA, toto je tym padom iba template -->
+<mapconfig>
+	<item name="BunkerSilo_silo001" locationType="bunker" position="-45 0 -548" />
+	<l10n>
+		<text name="BunkerSilo_silo001">
+			<en>Farm Silage Silo</en>
+			<de>BGA</de>
+			<cz>Siláž bunkr na farmě</cz>
+		</text>
+	</l10n>
+</mapconfig>

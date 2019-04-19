@@ -61,7 +61,7 @@ class Animals {
 											'fitnessScale' => floor ( $fitnessScale * 100 ),
 											'healthScale' => floor ( $healthScale * 100 ),
 											'dirtScale' => floor ( (1 - $dirtScale) * 100 ),
-											'ridingTimer' => floor ( floatval ( $animal ['ridingTimer'] ) * 100 ),
+											'ridingTimer' => floor ( (floatval ( $animal ['ridingTimer'] ) / 300000) * 100 ),
 											'value' => 49500 * $fitnessScale * $healthScale + 500 * (1 - $dirtScale),
 											'isHorse' => true,
 											'image' => $animalType 
@@ -110,7 +110,12 @@ class Animals {
 							$fillType = strtoupper ( $module ['name'] );
 							$fillCapacity = floatval ( $module ['fillCapacity'] );
 							$fillLevel = floatval ( $module->fillLevel ['fillLevel'] );
-							$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							if ($fillCapacity == 0 or !isset($fillCapacity)) {
+							    $factor = 0;
+							} else {
+								$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							};
+							
 							self::$stables [$stable] ['state'] [strval ( $module ['name'] )] = array (
 									'name' => translate ( 'STRAW' ),
 									'value' => floor ( $fillLevel ),
@@ -121,7 +126,11 @@ class Animals {
 						case 'water' :
 							$fillCapacity = floatval ( $module ['fillCapacity'] );
 							$fillLevel = floatval ( $module->fillLevel ['fillLevel'] );
-							$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							if ($fillCapacity == 0 or !isset($fillCapacity)) {
+							    $factor = 0;
+							} else {
+								$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							};																												
 							self::$stables [$stable] ['state'] ['water'] = array (
 									'name' => translate ( 'WATER' ),
 									'value' => floor ( $fillLevel ),
@@ -132,7 +141,11 @@ class Animals {
 						case 'manure' :
 							$fillCapacity = floatval ( $module ['fillCapacity'] );
 							$fillLevel = floatval ( $module ['manureToDrop'] );
-							$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							if ($fillCapacity == 0 or !isset($fillCapacity)) {
+							    $factor = 0;
+							} else {
+								$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							};														
 							self::$stables [$stable] ['product'] ['manure'] = array (
 									'name' => translate ( 'MANURE' ),
 									'value' => floor ( $fillLevel ),
@@ -143,7 +156,11 @@ class Animals {
 						case 'liquidManure' :
 							$fillCapacity = floatval ( $module ['fillCapacity'] );
 							$fillLevel = floatval ( $module->fillLevel ['fillLevel'] );
-							$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							if ($fillCapacity == 0 or !isset($fillCapacity)) {
+							    $factor = 0;
+							} else {
+								$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							};																
 							self::$stables [$stable] ['product'] ['liquidManure'] = array (
 									'name' => translate ( 'LIQUIDMANURE' ),
 									'value' => floor ( $fillLevel ),
@@ -154,7 +171,11 @@ class Animals {
 						case 'milk' :
 							$fillCapacity = floatval ( $module ['fillCapacity'] );
 							$fillLevel = floatval ( $module->fillLevel ['fillLevel'] );
-							$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							if ($fillCapacity == 0 or !isset($fillCapacity)) {
+							    $factor = 0;
+							} else {
+								$factor = floor ( $fillLevel / $fillCapacity * 100 );
+							};
 							self::$stables [$stable] ['product'] ['milk'] = array (
 									'name' => translate ( 'MILK' ),
 									'value' => floor ( $fillLevel ),

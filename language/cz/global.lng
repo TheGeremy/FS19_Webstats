@@ -246,6 +246,7 @@ REPRO_RATE=Rychlost reprodukce
 NEXT_ANIMAL=Další zvíře
 FOOD=Jídlo
 MANURE_HELP=Množství hnoje uloženého na stodole již není uloženo v paměti savegame od Farming Simulator 19. Namísto uloženého hnoje se zde zobrazuje hodnota "manureToDrop".
+DAY_RIDE=Denní jízdy
 
 //prices.tpl
 PRICES1000=Ceny / 1000 L
