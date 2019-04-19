@@ -206,34 +206,42 @@
 		<text name="HORSE_TYPE_GREY">
 			<en>HORSE_TYPE_GREY</en>
 			<de>Pferd (Schimmel)</de>
+			<cz>Kůň (šedý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BROWN_WHITE">
 			<en>HORSE_TYPE_BROWN_WHITE</en>
 			<de>Pferd (Schecke)</de>
+			<cz>Kůň (hnědobílý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BEIGE">
 			<en>HORSE_TYPE_BEIGE</en>
 			<de>Pferd (Isabell)</de>
+			<cz>Kůň (béžový)</cz>
 		</text>
 		<text name="HORSE_TYPE_BROWN">
 			<en>HORSE_TYPE_BROWN</en>
 			<de>Pferd (Fuchs)</de>
+			<cz>Kůň (hnědý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_RED_BROWN">
 			<en>HORSE_TYPE_RED_BROWN</en>
 			<de>Pferd (Brauner)</de>
+			<cz>Kůň (červenohnědý)</cz>				
 		</text>
 		<text name="HORSE_TYPE_BLACK">
 			<en>HORSE_TYPE_BLACK</en>
 			<de>Pferd (Rappe)</de>
+			<cz>Kůň (černý)</cz>				
 		</text>
 		<text name="HORSE_TYPE_DARK_BROWN">
 			<en>HORSE_TYPE_DARK_BROWN</en>
 			<de>Pferd (Schwarzbrauner)</de>
+			<cz>Kůň (tmavě hnědý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_LIGHT_BROWN">
 			<en>HORSE_TYPE_LIGHT_BROWN</en>
 			<de>Pferd (Falble)</de>
+			<cz>Kůň (bledě hnědý)</cz>			
 		</text>
 		<!-- Fruits -->
 		<text name="WHEAT">

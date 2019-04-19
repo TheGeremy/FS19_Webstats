@@ -11,6 +11,11 @@
 			<en>husbandryChickenLarge</en>
 			<de>Großer Hühnerstall</de>
 		</text>		
+		<text name="bunkerSiloSmall">
+			<cz>Silážní jáma na farmě</cz>		
+			<en>Bunker Silo Small</en>
+			<de>Bunker-Silo klein</de>
+		</text>			
 		<text name="husbandrySheepLarge">
 			<cz>Velká ovčírna</cz>				
 			<en>husbandrySheepLarge</en>

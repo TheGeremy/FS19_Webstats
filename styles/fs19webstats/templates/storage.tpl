@@ -18,8 +18,8 @@
 				</tr>
 				{if $commodity.overall>-1}
 				<tr class="collapse" id="collapse{$commodity.i3dName}">
-					<td colspan="3">
-						<table class="table" style="margin-bottom: 0px;">
+					<td colspan="3" class="bg-dark">
+						<table class="table diffcolor" style="margin-bottom: 0px;">
 							<thead>
 								<tr>
 									<th>##PLACE##</th>
