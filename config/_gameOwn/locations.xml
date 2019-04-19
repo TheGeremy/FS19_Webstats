@@ -31,5 +31,8 @@
 			<de>Schweinestall</de>
 			<fr>Cochons</fr>
 		</text>
+		<text name="Strohlager">
+			<cz>Seník na farmě</cz>
+		</text>		
 	</l10n>
 </mapconfig>

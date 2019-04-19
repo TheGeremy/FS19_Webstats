@@ -4,10 +4,12 @@
 	<item name="railroadSilo02" locationType="storage" position="329 0 -576" />
 	<l10n>
 		<text name="railroadSilo01">
+			<cz>Železniční silo západ</cz>		
 			<en>railroadSilo01</en>
 			<de>Bahnsilo Ost</de>
 		</text>
 		<text name="railroadSilo02">
+			<cz>Železniční silo východ</cz>				
 			<en>railroadSilo02</en>
 			<de>Bahnsilo West</de>
 		</text>

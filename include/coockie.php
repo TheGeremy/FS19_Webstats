@@ -32,20 +32,20 @@ if (isset ( $_COOKIE ['fs19webstats'] )) {
 }
 if (! isset ( $options ['general'] )) {
 	$options ['version'] = $cookieVersion;
-	$options ['general'] ['reload'] = true;
+	$options ['general'] ['reload'] = false;
 	$options ['general'] ['language'] = $defaultLanguage;
 	$options ['general'] ['style'] = $defaultStyle;
 	$options ['general'] ['hideFooter'] = 0;
-	$options ['general'] ['farmId'] = 0;
+	$options ['general'] ['farmId'] = 1;
 }
 
 if (! isset ( $options ['storage'] )) {
 	$options ['storage'] ['sortByName'] = true;
-	$options ['storage'] ['showZero'] = true;
+	$options ['storage'] ['showZero'] = false;
 	$options ['storage'] ['showVehicles'] = true;
 	$options ['storage'] ['onlyPallets'] = false;
 	$options ['storage'] ['3column'] = true;
-	$options ['storage'] ['hideAnimalsInStorage'] = false;
+	$options ['storage'] ['hideAnimalsInStorage'] = true;
 }
 
 if (! isset ( $options ['production'] )) {

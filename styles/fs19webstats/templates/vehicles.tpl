@@ -7,7 +7,6 @@
 				<tr>
 					<!-- <th class="text-center">##VEH_BRAND##</th> -->
 					<th class="text-center">##VEH_NAME##</th>
-					<th class="text-center">##VEH_CATEGORY##</th>
 					<th class="text-center">##VEH_AGE##</th>
 					<th class="text-center">##VEH_WEAR##</th>
 					<th class="text-center">##VEH_OTIME##</th>
@@ -22,9 +21,8 @@
 				<tr>
 					<!-- <td>{$vehicle.brand}</td> -->
 					<td>{$vehicle.brand} {$vehicle.name}</td>
-					<td>{$vehicle.category}</td>
 					<td class="text-right pr-3">{$vehicle.age}</td>
-					<td class="text-right pr-3">{$vehicle.wear|number_format:0} %</td>
+					<td class="text-right pr-3">{$vehicle.wear|number_format:0}%</td>
 					<td data-order="{$vehicle.operatingTime|number_format:0:" ,":"."}" class="text-right pr-3">{$vehicle.operatingTimeString}</td>
 					<td data-order="{if $vehicle.propertyState==1}{$vehicle.resale}{else}0{/if}" class="text-right pr-3">{if $vehicle.propertyState==1}{$vehicle.resale|number_format:0:",":"."}{elseif $vehicle.propertyState==3}Mission{/if}</td>
 					<td class="text-right pr-3">{if $vehicle.propertyState==2}{$vehicle.dayLeasingCost|number_format:0:",":"."}{/if}</td>
@@ -42,8 +40,8 @@
 		$(document).ready(function() {
 		    var table = $('#vehicles').DataTable( {
 		    	//"pageLength": rw,
-		    	scrollY:        th,
-			scrollX:        true, 				
+		    	scrollY:        true,
+				scrollX:        true, 					
         		scrollCollapse: true,
        			paging:         false,
 		    	stateSave:		true,
@@ -90,7 +88,7 @@
 		$(document).ready(function() {
 		    var table = $('#buildings').DataTable( {
 		    	//"pageLength": rw,
-		    	scrollY:        th,
+		    	scrollY:        true,
         		scrollCollapse: true,
        			paging:         false,
 		    	stateSave:		true,

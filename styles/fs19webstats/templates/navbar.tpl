@@ -31,6 +31,6 @@
 			{/if}
 		{/foreach}
 		</ul>
-		<span class="navbar-text  bg-secondary text-white px-3 text-right font-weight-bold text-nowrap">##DAY## {$currentDay}, {$dayTime}{if $money !== false} | {$money|number_format:0:",":"."}{/if}</span>
+		<span class="navbar-text  bg-secondary text-white px-3 text-right font-weight-bold text-nowrap">##DAY## {$currentDay} | Čas {$dayTime}{if $money !== false} | {$money|number_format:0:",":"."} €{/if}</span>
 	</div>
 </nav>

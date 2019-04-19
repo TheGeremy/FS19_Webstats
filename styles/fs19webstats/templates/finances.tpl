@@ -1,4 +1,4 @@
-{$mode = GetParam('subPage','G','balance')} {if $mode == 'balance'}
+{$mode = GetParam('subPage','G','5dayhistory')} {if $mode == 'balance'}
 <h3 class="my-3">##BS_HEAD_MAIN## "{$farmName}"</h3>
 <div class="row">
 	<div class="col-md-6 order-1 border-right border-dark mt-3">
@@ -257,43 +257,46 @@
 					<th class="text-right">##{$weekdays[($currentDay-3)%7]}##</th>
 					<th class="text-right">##{$weekdays[($currentDay-2)%7]}##</th>
 					<th class="text-right">##{$weekdays[($currentDay-1)%7]}##</th>
-					<th class="text-right">##TODAY##</th>
+                    <th class="text-right">##TODAY##</th>
 				</tr>
 			</thead>
 			<tbody>
 				{foreach $financeElements as $element => $category}
 				<tr>
 					<td>##{$element|strtoupper}##</td> {for $day = 4 to 0 step -1}
-					<td class="text-right" style="width: 13%">{$financeHistory.$day.$element|number_format:0:",":"."}</td> {/for}
+					<td class="text-right w-13">{$financeHistory.$day.$element|number_format:0:",":"."}</td> {/for}
 				</tr>
 				{/foreach}
 			</tbody>
 			<tfoot>
 				<tr>
-					<th>##TOTAL##</th> {for $day = 4 to 0 step -1}
-					<th class="text-right" style="width: 13%">{$financeHistory.$day.total|number_format:0:",":"."}</th> {/for}
-				</tr>
-				<tr>
-					<td colspan="4"><strong>##BALANCE1##</strong></td>
-					<td class="text-right" colspan="2"><strong>{$money|number_format:0:",":"."}</strong></td>
-				</tr>
-				<tr>
-					<td colspan="4"><strong>##BALANCE2##</strong></td>
-					<td class="text-right {if $money-$loan < 0}text-danger{else}text-success{/if}" colspan="2"><strong>(##LOAN##: {{$loan|number_format:0:",":"."}}) {($money-$loan)|number_format:0:",":"."}</strong></td>
-				</tr>
+					<th>##TOTAL## </th> {for $day = 4 to 0 step -1}
+					<th class="text-right w-13">{$financeHistory.$day.total|number_format:0:",":"."} €</th> {/for}
+				</tr>		
 			</tfoot>
 		</table>
+		<table class="table table-sm table-hover table-bordered table-striped w-100">
+				<tr>
+					<td class="text-right w-50"><strong>##BALANCE1##:</strong></td>
+					<td class="text-center w-50"><strong>{$money|number_format:0:",":"."} €</strong></td>
+				</tr>
+				<tr>
+					<td class="text-right w-50"><strong>##BALANCE2##:</strong></td>
+					<td class="text-center w-50 {if $money-$loan < 0}text-danger{else}text-success{/if}"><strong>{($money-$loan)|number_format:0:",":"."} € <br>(##LOAN##: {{$loan|number_format:0:",":"."}} €)</strong></td>
+				</tr>		
+        </table>
 		<script>
 		var rows = parseInt(($( window ).height() - 250) / 36)
 		$(document).ready(function() {
 		    var table = $('#finances').DataTable( {
-		        scrollY:        "55vh",
+		        scrollY:        false,
 		        "ordering": false,
 		        "dom":"<'row'<'col-sm-12'tr>>",
 		        scrollX:        true,
 		        scrollCollapse: true,
 		        paging:         false,
-		        fixedColumns:   true
+		        fixedColumns:   true,
+				overflow: hidden,
 		    } );
 		    var table = $('#bestPrices').DataTable( {
 		    	"pageLength": rows,

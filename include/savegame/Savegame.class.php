@@ -153,16 +153,16 @@ class Savegame {
 				$ftp_conn = ftp_connect ( $this->ftp ['server'], $this->ftp ['port'], 10 );
 			}
 			if (! $ftp_conn) {
-				echo ("Verbindung fehlgeschlagen<br>\r\n");
+				echo ("Připojení se nezdařilo<br>\r\n");
 			} else {
 				if (! ftp_login ( $ftp_conn, $this->ftp ['user'], $this->ftp ['pass'] )) {
-					echo ("Login fehlgeschlagen<br>\r\n");
+					echo ("Přihlášení se nezdařilo<br>\r\n");
 				} else {
 					if (! ftp_pasv ( $ftp_conn, true )) {
-						echo ("Umschalten in passiven Modus fehlgeschlagen<br>\r\n");
+						echo ("Přechod na pasivní režim selhal<br>\r\n");
 					} else {
 						if (! ftp_get ( $ftp_conn, $local_file, $server_file, FTP_ASCII )) {
-							echo ("Download von '$server_file' fehlgeschlagen<br>\r\n");
+							echo ("Stahování z '$server_file' neúspěšný<br>\r\n");
 						}
 					}
 				}
@@ -175,7 +175,7 @@ class Savegame {
 			rename ( $this->cache . $file . '.temp', $this->cache . $file );
 		} else {
 			// The XML file propably could not be loaded correctly.
-			echo ("Fehler beim Laden der Datei: $file<br>");
+			echo ("Chyba při načítání souboru: $file<br>");
 		}
 		libxml_use_internal_errors ( false );
 	}

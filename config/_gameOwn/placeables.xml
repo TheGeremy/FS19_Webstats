@@ -32,8 +32,23 @@
 			<cz>Seník na farmě</cz>			
 		</text>		
 		<text name="bunkerSiloMediumDouble">
-			<cz>Senážní silo</cz>			
-		</text>				
+			<cz>Silážní jáma dvojitá</cz>			
+		</text>	
+		<text name="bunkerSiloLarge">
+			<cz>Silážní jáma velká</cz>			
+		</text>			
+		<text name="sellingStationBales">
+			<cz>Seník</cz>			
+		</text>	
+		<text name="bga">
+			<cz>Bioplynka</cz>			
+		</text>	
+		<text name="sellingStationWool">
+			<cz>Vlnarna</cz>			
+		</text>	
+		<text name="sellingStationWoodChips">
+			<cz>Dřevárna</cz>			
+		</text>			
 	</l10n>
 </mapconfig>
 

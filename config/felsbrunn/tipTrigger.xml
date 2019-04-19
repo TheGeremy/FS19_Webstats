@@ -10,34 +10,42 @@
 	<item name="sellingStationWoodChips" locationType="TipTrigger" position="834 0 820" isSellingPoint="true" />
 	<l10n>
 		<text name="sellingStationMill02">
+			<cz>Prodejna mléka</cz>		
 			<en>sellingStationMill02</en>
 			<de>Getreidemühle</de>
 		</text>
 		<text name="sellingStationPort02">
+			<cz>Přístav</cz>				
 			<en>sellingStationPort02</en>
 			<de>Hafen (Nord)</de>
 		</text>
 		<text name="trainStationMill">
+			<cz>Mlýn</cz>				
 			<en>trainStationMill</en>
 			<de>Bahnstation Mühle</de>
 		</text>
 		<text name="sellingStationWool">
+			<cz>Prodejna vlny</cz>				
 			<en>sellingStationWool</en>
 			<de>Spinnerei</de>
 		</text>
 		<text name="sellingStationPort01">
+			<cz>Vlak prodej II.</cz>				
 			<en>sellingStationPort01</en>
 			<de>Hafen (Süd)</de>
 		</text>
 		<text name="sellingStationBales">
+			<cz>Seník</cz>				
 			<en>sellingStationBales</en>
 			<de>Scheune</de>
 		</text>
 		<text name="grainElevatorEast">
+			<cz>Prodejna</cz>				
 			<en>grainElevatorEast</en>
 			<de>Getreidespeicher Ost</de>
 		</text>
 		<text name="sellingStationWoodChips">
+			<cz>Truhlárna</cz>				
 			<en>sellingStationWoodChips</en>
 			<de>Sägewerk</de>
 		</text>

@@ -1,29 +1,28 @@
-<h3 class="my-3">##FARMS##</h3>
 <div class="row">
-	<div class="col">
+	<div class="col padtop">
 		<div class="table-responsive">
 			<table class="table table-borderless">
 				<thead>
 					<tr class="d-flex">
 						{foreach $farms as $farmId => $farm}
-						<th class="col-3"><h4>{$farm.name}</h4></th> {/foreach}
+						<th class="col"><h4>{$farm.name}</h4></th> {/foreach}
 					</tr>
 				</thead>
 				<tbody>
 					<tr class="d-flex">
 						{foreach $farms as $farmId => $farm}
-						<td class="col-3"><strong>##FINANCES##: <span class="float-right">{$farm.money|number_format:0:",":"."}</span></strong></td> {/foreach}
+						<td class="col"><strong>##FINANCES##: {$farm.money|number_format:0:",":"."} €</strong></td> {/foreach}
 					</tr>
 					<tr class="d-flex">
 						{foreach $farms as $farmId => $farm}
-						<td class="col-3"><strong>##PLAYER##</strong><br> {foreach $farm.players as $player}
+						<td class="col"><strong>##PLAYER##</strong><br> {foreach $farm.players as $player}
 							<p class="my-1">
-								{$player.name|truncate:10:"...":true}{if $player.isFarmManager}<span class="float-right">##FARMMANAGER##</span>{/if}
+								{$player.name|truncate:10:"...":true}{if $player.isFarmManager}  -  ##FARMMANAGER##{/if}
 							</p>{/foreach}</td> {/foreach}
 					</tr>
 					<tr class="d-flex">
 						{foreach $farms as $farmId => $farm}
-						<td class="col-3">{if ($farm.contractFrom|@count) + ($farm.contractWith|@count)>0} <strong>##CONTRACTS##</strong>
+						<td class="col">{if ($farm.contractFrom|@count) + ($farm.contractWith|@count)>0} <strong>##CONTRACTS##</strong>
 							<ul class="list-unstyled mt-1">
 								{if $farm.contractFrom|@count>0}
 								<li>##WORKSFOR##
@@ -39,11 +38,6 @@
 									</ul>
 								</li>{/if}
 							</ul> {/if}
-						</td> {/foreach}
-					</tr>
-					<tr class="d-flex">
-						{foreach $farms as $farmId => $farm}
-						<td class="col-3">{if $selectedFarm == $farmId} <a href="index.php?page={$page}&leave_farm={$farmId}" class="btn btn-danger btn-sm btn-block" role="button">##LEAVE_FARM##</a> {else} <a href="index.php?page={$page}&join_farm={$farmId}" class="btn btn-primary btn-sm btn-block" role="button">##JOIN_FARM##</a>{/if}
 						</td> {/foreach}
 					</tr>
 				</tbody>

@@ -21,6 +21,21 @@ li.nostyle {
 .card-columns {
 	column-count: 2;
 }
+
+.col-30{-ms-flex:0 0 17%;flex:0 0 17%;max-width:25%;padding-top: 30px;}
+
+.col-lg-6{padding:30px}
+
+.list-group-item{padding:.50rem .50rem;}
+
+.w-13{width: 13%;}
+.w-17{width: 17%;}
+.w-9{width: 9%;}
+.w-100{width: 100%;}
+.w-50{width: 50%;}
+.iframe1{overflow: visible; border: none; width: 600px; height: 1250px; float: right; padding-left: 10px;}
+.padtop{padding-top: 60px;}
+
 /*
 .custom-select {
 	color: #fff;

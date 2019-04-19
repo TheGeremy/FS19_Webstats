@@ -26,7 +26,7 @@ $languageFromBrowser = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
 if (file_exists ( './language/' . $languageFromBrowser . '/global.lng' )) {
 	$defaultLanguage = $languageFromBrowser;
 } else {
-	$defaultLanguage = 'en'; // if you change the default language make sure the language file exists
+	$defaultLanguage = 'cz'; // if you change the default language make sure the language file exists
 }
 //setlocale ( LC_ALL, 'de_DE@euro', 'de_DE', 'de', 'ge' );
 

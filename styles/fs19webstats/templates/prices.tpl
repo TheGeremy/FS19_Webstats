@@ -7,7 +7,7 @@
 			<thead>
 				<tr>
 					<th class="">##SELLTRIGGER##</th> {foreach $prices as $fillType => $fillTypeData}
-					<th class="text-center">{$fillType|truncate:4:""}</th> {/foreach}
+					<th class="text-center">{$fillType}</th> {/foreach}
 				</tr>
 			</thead>
 			<tbody>
@@ -65,7 +65,7 @@
 			$('#allPrices').DataTable( {
 				"fixedColumns": true,
 				columnDefs: [
-			        { "width": "150px", "targets": [0] },       
+			        { "width": "115px", "targets": [0] },       
 			        { "width": "45px", "targets": cols }
 			      ],
 				"bFilter": false,
@@ -73,7 +73,7 @@
 		    	"autoWidth": true,
 		    	"info": false,
 		    	"scrollX": true,
-		    	"scrollY":th,
+		    	"scrollY": true,
 		        "scrollCollapse": true,
 		        "language": {
 		    		"url": "./language/{$smarty.session.language}/dataTables.lang"
@@ -90,29 +90,29 @@
 		<table class="table table-sm table-hover table-bordered table-striped" id="bestPrices">
 			<thead>
 				<tr>
-					<th class="text-center">##STOCK##</th>
-					<th class="text-center">##SELLTRIGGER##</th>
-					<th class="text-center">##MIN_PRICE##</th>
-					<th class="text-center">##MAX_PRICE##</th>
-					<th class="text-center">##BEST_PRICE##</th>
+					<th class="text-left">##STOCK##</th>
+					<th class="text-left">##SELLTRIGGER##</th>
+					<th class="text-left">##MIN_PRICE##</th>
+					<th class="text-left">##MAX_PRICE##</th>
+					<th class="text-left">##BEST_PRICE##</th>
 					<th class="text-center">##PERCENT##</th> {if $options['farmId']>0}
-					<th class="text-center">##STOCKS##</th>
-					<th class="text-center">##PROCEEDS##</th> {/if}
+					<th class="text-left">##STOCKS##</th>
+					<th class="text-left">##PROCEEDS##</th> {/if}
 				</tr>
 			</thead>
 			<tbody>
 				{foreach $prices as $fillType => $fillTypeData} {math equation="round(100 / max * current)" max=$fillTypeData.maxPrice-$fillTypeData.minPrice+0.0001 current=$fillTypeData.bestPrice-$fillTypeData.minPrice+0.0001 assign="percent"}
 				<tr>
-					<td>{$fillType}</td>
-					<td>{$fillTypeData.bestLocation}</td>
-					<td class="text-right col-1 pr-3">{$fillTypeData.minPrice|number_format:0:",":"."}</td>
-					<td class="text-right col-1 pr-3">{$fillTypeData.maxPrice|number_format:0:",":"."}</td>
-					<td class="text-right col-1 pr-3 {if $fillTypeData.greatDemand}text-info{elseif $percent>=60}text-success{elseif $percent<=40}text-danger{/if}">{$fillTypeData.bestPrice|number_format:0:",":"."} {if $fillTypeData.priceTrend == 1} <i class="fas fa-caret-up text-success"></i> {elseif
+					<td class="text-left col-1 pr-3 w-13">{$fillType}</td>
+					<td class="text-left col-1 pr-3 w-13">{$fillTypeData.bestLocation}</td>
+					<td class="text-left col-1 pr-3 w-13">{$fillTypeData.minPrice|number_format:0:",":"."}</td>
+					<td class="text-left col-1 pr-3 w-13">{$fillTypeData.maxPrice|number_format:0:",":"."}</td>
+					<td class="text-left col-1 pr-3 w-13 {if $fillTypeData.greatDemand}text-info{elseif $percent>=60}text-success{elseif $percent<=40}text-danger{/if}">{$fillTypeData.bestPrice|number_format:0:",":"."} {if $fillTypeData.priceTrend == 1} <i class="fas fa-caret-up text-success"></i> {elseif
 						$fillTypeData.priceTrend == -1} <i class="fas fa-caret-down text-danger"></i> {else} <i class="fas fa-caret-down" style="visibility: hidden"></i> {/if}
 					</td>
-					<td class="text-center text-nowrap">{$percent|number_format:0:",":"."} %</td> {if $options['farmId']>0}{if isset($commodities.$fillType) && $commodities.$fillType.overall > 0}
-					<td class="text-right col-1 pr-3">{$commodities.$fillType.overall|number_format:0:",":"."}</td> {math equation="overall * bestPrice / 1000" overall=$commodities.$fillType.overall bestPrice=$fillTypeData.bestPrice assign="proceeds"}
-					<td class="text-right col-1 pr-3">{$proceeds|number_format:0:",":"."}</td> {else}
+					<td class="text-left col-1 pr-3 w-9">{$percent|number_format:0:",":"."} %</td> {if $options['farmId']>0}{if isset($commodities.$fillType) && $commodities.$fillType.overall > 0}
+					<td class="text-left col-1 pr-3 w-13">{$commodities.$fillType.overall|number_format:0:",":"."}</td> {math equation="overall * bestPrice / 1000" overall=$commodities.$fillType.overall bestPrice=$fillTypeData.bestPrice assign="proceeds"}
+					<td class="text-left col-1 pr-3 w-13">{$proceeds|number_format:0:",":"."}</td> {else}
 					<td></td>
 					<td></td> {/if}{/if}
 				</tr>
@@ -131,8 +131,8 @@
 			$(document).ready(function() { 
 				var table = $('#bestPrices').DataTable( { 
 					//"pageLength": rw, 
-					scrollY: th,
-					scrollX: "98%",					
+					scrollY: true, 
+					scrollX: "98%", 					
 					scrollCollapse: true, 
 					paging:	false, 
 					stateSave: true, 

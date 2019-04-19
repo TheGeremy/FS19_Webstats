@@ -1,11 +1,11 @@
 <h3 class="my-3">##MISSIONS##</h3>
 <div class="row">
 	<div class="col-sm-12">
-		<table class="table table-sm table-hover table-bordered table-striped" id="missions">
+		<table class="table table-sm table-hover table-bordered table-striped" id="missions" width="100%">
 			<thead>
 				<tr>
-					<th class="text-center col-1">##FIELD##</th>
-					<th class="text-center col-1">##FIELDSIZE##</th>
+					<th class="text-center">##FIELD##</th>
+					<th class="text-center">##FIELDSIZE##</th>
 					<th class="text-center">##TYPE##</th>
 					<th class="text-center">##REWARD##</th>
 					<th class="text-center">##VEHICLEUSECOST##</th>
@@ -16,13 +16,13 @@
 			<tbody>
 				{foreach $missions as $mission}
 				<tr>
-					<td class="text-right pr-3">{if isset($mission.field)}{$mission.field}{/if}</td>
-					<td class="text-right pr-3">{if isset($mission.field)}{$mission.fieldSize|number_format:2:",":"."}{/if}</td>
-					<td>{$mission.type}{if $mission.type=='##MIS_HARVEST##' || $mission.type=='##MIS_MOW_BALE##'} ({$mission.fruitTypeName}){/if}</td>
-					<td class="text-right pr-3">{$mission.reward|number_format:0:",":"."}</td>
-					<td class="text-right pr-3">{if isset($mission.field)}{$mission.vehicleUseCost|number_format:0:",":"."}{/if}</td>
-					<td class="col-2">{if isset($mission.farmId)}{$farms[$mission.farmId].name}{/if}</td>
-					<td>{if $mission.success}abgeschlossen{elseif $mission.status}##ACTIVE##{/if}</td>
+					<td class="text-center w-13">{if isset($mission.field)}{$mission.field}{/if}</td>
+					<td class="text-center w-17">{if isset($mission.field)}{$mission.fieldSize|number_format:2:",":"."}{/if}</td>
+					<td class="text-center w-17">{$mission.type}{if $mission.type=='##MIS_HARVEST##' || $mission.type=='##MIS_MOW_BALE##'} ({$mission.fruitTypeName}){/if}</td>
+					<td class="text-center w-13">{$mission.reward|number_format:0:",":"."}</td>
+					<td class="text-center w-13">{if isset($mission.field)}{$mission.vehicleUseCost|number_format:0:",":"."}{/if}</td>
+					<td class="text-center w-13">{if isset($mission.farmId)}{$farms[$mission.farmId].name}{/if}</td>
+					<td class="text-center w-13">{if $mission.success}##ABGESCHLOSSEN##{elseif $mission.status}##ACTIVE##{/if}</td>
 				</tr>
 				{/foreach}
 			</tbody>
@@ -36,7 +36,7 @@
 		    var table = $('#missions').DataTable( {
 		    	//"pageLength": rw,
 		    	order: 			[[ 3, "desc" ]],
-		    	scrollY:        th,
+		    	scrollY:        true,
 		    	scrollX:        true,				
         		scrollCollapse: true,
        			paging:         false,

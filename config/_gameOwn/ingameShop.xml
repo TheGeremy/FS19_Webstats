@@ -280,5 +280,65 @@
 			<en></en>
 			<de>Diverses</de>
 		</text>
+		<text name="maestro12SWpotato">
+			<cz>Sečka Maestro 12SW bram</cz>			
+		</text>		
+		<text name="elmerstrailer">
+			<cz>Přívěs na lištu kombajnu</cz>			
+		</text>	
+		<text name="holmerHR12potato">
+			<cz>Holmer adaptér na brambory</cz>			
+		</text>		
+		<text name="jacobsens_black">
+			<cz>Černé závaží Jacobsens</cz>			
+		</text>	
+		<text name="Laumetris">
+			<cz>Plaťák Laumetris</cz>			
+		</text>		
+		<text name="Lexion795">
+			<cz>Monster kombajn</cz>			
+		</text>	
+		<text name="terraDosT4_40potato">
+			<cz>Holmer TerraDosT4 brambory/řepa</cz>			
+		</text>	
+		<text name="Vario1350">
+			<cz>Claas Vario 1350</cz>			
+		</text>	
+		<text name="vertiMix10002">
+			<cz>Krmný vůz VertiMix</cz>			
+		</text>
+		<text name="tempoL16potato">
+			<cz>Sečka TempoL16 bram</cz>			
+		</text>		
+		<text name="easyShed01">
+			<cz>Přístavek malý</cz>			
+		</text>	
+		<text name="easyShed03">
+			<cz>Přístavek velky</cz>			
+		</text>	
+		<text name="fertilizerStation">
+			<cz>Silo na hnojivo</cz>			
+		</text>	
+		<text name="gasStationPump">
+			<cz>Benzínka</cz>			
+		</text>	
+		<text name="kaercherHDS918-4M">
+			<cz>Karcher vapka</cz>			
+		</text>	
+		<text name="limeStation">
+			<cz>Silo na vápno</cz>			
+		</text>
+		<text name="seedStation">
+			<cz>Silo na osivo</cz>			
+		</text>
+		<text name="workshop">
+			<cz>Servis</cz>			
+		</text>	
+		<text name="LW_Bucket">
+			<cz>Velká lžice na NH</cz>			
+		</text>	
+		<text name="compositeHall6">
+			<cz>Garáž</cz>			
+		</text>		
 	</l10n>
 </ingameShop>

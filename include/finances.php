@@ -25,7 +25,7 @@ if (! defined ( 'IN_FS19WS' )) {
 include ('./include/savegame/Farm.class.php');
 Farm::extractXML ( $savegame::$xml );
 
-$mode = GetParam ( 'subPage', 'G', 'balance' );
+$mode = GetParam ( 'subPage', 'G', '5dayhistory' );
 switch ($mode) {
 	case 'ratios' :
 	case 'balance' :

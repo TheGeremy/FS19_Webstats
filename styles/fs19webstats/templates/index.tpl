@@ -1,5 +1,5 @@
 {config_load file='../style.cfg'}
-<html lang="de">
+<html lang="cs-CZ">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -39,7 +39,7 @@
 	{if !$hideFooter}
 	<div class="navbar navbar-default navbar-fixed-bottom hidden-xs">
 		<div class="container">
-			<p class="navbar-text text-center">{$onlineUser} ##USER_ONLINE##</p>
+			<p class="navbar-text text-center">##USER_ONLINE##: {$onlineUser} | web: <a href="https://www.fs19.cz">www.fs19.cz</a></p>
 			<p class="navbar-text pull-right">
 				&copy; 2018-2019 FS19 Web Stats by John Hawk
 			</p>

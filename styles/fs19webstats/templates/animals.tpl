@@ -1,14 +1,14 @@
 <h3 class="my-3">##ANIMALS##</h3>
 {if $stables|@count}
 <div class="row">
-	<div class="col-3">
+	<div class="col-30">
 		<div class="list-group">
 			{foreach $stables as $stableI3dName => $stable}
 			<button type="button" class="list-group-item list-group-item-dark">
 				<strong>{$stable.name}</strong>
 			</button>
 			{foreach $stable.animals as $animalI3dName => $animal} <a href="index.php?page={$page}&stable={$stableI3dName}&animal={$animalI3dName}" class="list-group-item list-group-item-action"> {$animal.name}{if $animal.isHorse}<br> <small>Tägliches Reiten<span class="float-right">{$animal.ridingTimer|number_format:0:",":"."}
-						%</span></small>{else}<span class="float-right">{$animal.count}</span><br> <small>##PRODUCTIVITY##<span class="float-right">{$stable.productivity|number_format:0:",":"."} %</span></small>{/if}
+						%</span></small>{else} {$animal.count}<br> <small>##PRODUCTIVITY## {$stable.productivity|number_format:0:",":"."} %</small>{/if}
 			</a> {/foreach} {/foreach}
 		</div>
 	</div>
@@ -107,9 +107,6 @@
 				</div>
 				{/foreach}
 			</div>
-		</div>
-		<div class="row">
-			<div class="col">{if isset($stables.$currentStable.product.manure)}##MANURE_HELP##{/if}</div>
 		</div>
 	</div>
 </div>

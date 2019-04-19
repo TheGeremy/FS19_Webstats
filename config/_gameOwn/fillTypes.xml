@@ -10,7 +10,7 @@
 		<fillType name="LIQUIDFERTILIZER" pricePerLiter="1.600" balanceSheet="CI1" />
 		<fillType name="PIGFOOD" pricePerLiter="1.000" balanceSheet="CI1" />
 		<fillType name="PIG_TYPE_RED" pricePerLiter="1000.000" isAnimal="true" balanceSheet="B3" />
-		<fillType name="SHEEP_TYPE_BROWN" pricePerLiter="1000.000" isAnimal="true" balanceSheet="B4" />
+		<fillType name="SHEEP_TYPE_WHITE" pricePerLiter="1000.000" isAnimal="true" balanceSheet="B4" />
 		<fillType name="COW_TYPE_BLACK_WHITE" pricePerLiter="2000.000" isAnimal="true" balanceSheet="B2" />
 		<fillType name="CHICKEN_TYPE_WHITE" pricePerLiter="25.000" isAnimal="true" balanceSheet="B5" />
 		<fillType name="CHICKEN_TYPE_BLACK" pricePerLiter="25.000" isAnimal="true" balanceSheet="B5" />
@@ -131,7 +131,7 @@
 			<fr>Pommes de terre</fr>
 		</text>
 		<text name="palletSugarBeet">
-			<cz>Cukrová řepa</cz>
+			<cz>Řepa</cz>
 			<en>Sugar beet</en>
 			<de>Zuckerrüben</de>
 			<fr>Betterave à sucre</fr>
@@ -143,20 +143,20 @@
 			<fr>Semence</fr>
 		</text>
 		<text name="woolPallet">
-			<cz>Bavlna</cz>
+			<cz>Vlna</cz>
 			<en>Wool</en>
 			<de>Wolle</de>
 			<fr>Laine</fr>
 		</text>
 		<!-- Animals -->
 		<text name="COW_TYPE_BLACK_WHITE">
-			<cz>Černobílé krávy</cz>
+			<cz>Kráva (černobílá)</cz>
 			<en>Cows</en>
 			<de>Kuh (Schwarz &amp; Weiß)</de>
 			<fr>Vache</fr>
 		</text>
 		<text name="PIG_TYPE_RED">
-			<cz>Růžová prasata</cz>
+			<cz>Prase (růžové)</cz>
 			<en>PIG_TYPE_RED</en>
 			<de>Schwein (Rosa)</de>
 			<fr>PIG_TYPE_RED</fr>
@@ -168,31 +168,37 @@
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="CHICKEN_TYPE_WHITE">
-			<cz>Bílá slepice</cz>
+			<cz>Slepice (bílá)</cz>
 			<en>Chicken</en>
 			<de>Huhn (Weiß)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="CHICKEN_TYPE_BROWN">
-			<cz>Hnědá slepice</cz>
+			<cz>Slepice (hnědá)</cz>
 			<en>Chicken</en>
 			<de>Huhn (Braun)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="CHICKEN_TYPE_BLACK">
-			<cz>Černá slepice</cz>
+			<cz>Slepice (černá)</cz>
 			<en>Chicken</en>
 			<de>Huhn (Schwarz)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="SHEEP_TYPE_BLACK_WHITE">
-			<cz>Ovce</cz>
+			<cz>Ovce (černobílá)</cz>
 			<en>Sheep</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
 		</text>
+		<text name="SHEEP_TYPE_WHITE">
+			<cz>Ovce (bílá)</cz>
+			<en>Sheep</en>
+			<de>Schaf (Schwarz &amp; Weiß)</de>
+			<fr>Mouton</fr>
+		</text>		
 		<text name="SHEEP_TYPE_BROWN">
-			<cz>Hnědé ovce</cz>
+			<cz>Ovce (hnědá)</cz>
 			<en>Sheep</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
@@ -279,7 +285,7 @@
 			<fr>Pommes de terre</fr>
 		</text>
 		<text name="SUGARBEET">
-			<cz>Cukrová řepa</cz>
+			<cz>Řepa</cz>
 			<en>Sugar beet</en>
 			<de>Zuckerrüben</de>
 			<fr>Betterave à sucre</fr>
@@ -341,7 +347,7 @@
 			<fr></fr>
 		</text>
 		<text name="WOOL">
-			<cz>Bavlna</cz>
+			<cz>Vlna</cz>
 			<en>Wool</en>
 			<de>Wolle</de>
 			<fr>Laine</fr>
