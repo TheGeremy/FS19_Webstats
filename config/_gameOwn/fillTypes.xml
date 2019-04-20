@@ -349,7 +349,7 @@
 			<fr>Maïs</fr>
 		</text>
 		<text name="POTATO">
-			<sk>Zemiaky (bandurky)</sk>
+			<sk>Zemiaky</sk>
 			<cz>Brambory</cz>
 			<en>Potatoes</en>
 			<de>Kartoffeln</de>
@@ -534,7 +534,7 @@
 			<fr>Colza, Tournesols, Soja</fr>
 		</text>
 		<text name="potato_sugarBeet_pigFood">
-			<sk>Zemiaky (bandurky), Cukrová repa</sk>
+			<sk>Zemiaky, Cukrová repa</sk>
 			<cz>Brambory, Cukrová řepa</cz>
 			<en>Potatoes, sugar beet</en>
 			<de>Kartoffeln, Zuckerrüben</de>
