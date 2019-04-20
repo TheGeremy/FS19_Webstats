@@ -51,14 +51,7 @@
             <fr>Scierie</fr>
             <cz>Pila</cz>
             <sk>Píla</sk>
-        </text>  
-        <text name="sellingStationWoodChips"> 
-            <de>Sägewerk</de>
-            <en>Sawmill</en>
-            <fr>Scierie</fr>
-            <cz>Pila</cz>
-            <sk>Píla</sk>
-        </text>   
+        </text>    
         <text name="sellingStationWool"> 
             <de>Wäscherei</de>
             <en>Laundry</en>

@@ -14,7 +14,7 @@
 			<de>Großer Hühnerstall</de>
 		</text>		
 		<text name="bunkerSiloSmall">
-			<cz>Malá silážna jama</cz>
+			<sk>Malá silážna jama</sk>
 			<cz>Silážní jáma na farmě</cz>		
 			<en>Bunker Silo Small</en>
 			<de>Bunker-Silo klein</de>
@@ -26,50 +26,67 @@
 			<de>Großer Schafweide</de>
 		</text>
 		<text name="husbandrySheep">
+			<sk>Salaš</sk>			
 			<cz>Ovčírna</cz>				
 			<en>Husbandry Sheep Large</en>
 			<de>Großer Schafweide</de>
 		</text>		
 		<text name="husbandryHorseLarge">
+			<sk>Veľké stajne</sk>
 			<cz>Velká konírna</cz>				
 			<en>husbandryHorseLarge</en>
 			<de>Großer Pferdestall</de>
 		</text>
 		<text name="husbandryCowLarge">
+			<sk>Veľký ošipáreň</sk>
 			<cz>Velký kravín</cz>			
 		</text>	
 		<text name="husbandryCow">
+			<sk>Kravín</sk>
 			<cz>Kravín</cz>			
 		</text>			
 		<text name="husbandryPigLarge">
+			<sk>Veľký kravín</sk>
 			<cz>Velký prasečák</cz>			
 		</text>	
 		<text name="farmSiloLarge">
+			<sk>Silo na farme</sk>
 			<cz>Silo na farmě</cz>			
 		</text>			
 		<text name="siloExtension">
+			<sk>Silo na farme</sk>
 			<cz>Silo na farmě</cz>			
 		</text>		
 		<text name="hayLoft">
+			<sk>Senník na farme</sk>
 			<cz>Seník na farmě</cz>			
 		</text>		
 		<text name="bunkerSiloMediumDouble">
+			<sk>Silážna jama dvojitá</sk>
 			<cz>Silážní jáma dvojitá</cz>			
 		</text>	
 		<text name="bunkerSiloLarge">
+			<sk>Veľká silážna jama</sk>
 			<cz>Silážní jáma velká</cz>			
 		</text>			
 		<text name="sellingStationBales">
+			<sk>Senník</sk>
 			<cz>Seník</cz>			
 		</text>	
 		<text name="bga">
+			<sk>Bioplyn</sk>
 			<cz>Bioplynka</cz>			
 		</text>	
 		<text name="sellingStationWool">
+			<sk>Výkup vlny</sk>
 			<cz>Vlnarna</cz>			
 		</text>	
 		<text name="sellingStationWoodChips">
-			<cz>Dřevárna</cz>			
+            <de>Sägewerk</de>
+            <en>Sawmill</en>
+            <fr>Scierie</fr>
+            <cz>Pila</cz>
+            <sk>Píla</sk>		
 		</text>			
 	</l10n>
 </mapconfig>
