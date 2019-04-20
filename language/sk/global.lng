@@ -1,0 +1,395 @@
+//global
+CLOSE=Zatvoriť
+SAVE=Uložiť
+SUBMIT=Potvrdiť
+RESET=Predvolené
+SAVETIME=Čas v hre
+DAY=deň
+COMMODITY=Komodita
+COMMODITIES=Komodity
+PLANT=Výrobný závod
+PLANTS=Výrobné závody
+SETTINGS=Nastavenia
+STOCK=Zásoby
+STOCKS=Zásoby
+PRICES=Predajné ceny
+ON=Zapnuté
+OFF=Vypnuté
+
+//install.tpl
+CHANGE_BUTTON=Zmeniť
+CHOOSE_LANGUAGE_LABEL=Výber jazyka
+CHOOSE_LANGUAGE=Vybrať
+CONFIG_SAVED=Nastavenia boli úspešne uložené.
+CONTINUE=Prejsť na prehľad
+DESCRIPTON=Farming Simulator 19 herné štatistiky vám poskytnú celkový prehľad hráčov, strojov, zásob a hotovej výroby výrobných závodov. Taktiež vám zobrazia informácie ak vo výrobých závodoch chýbajú zdroje na výrobu alebo sú plné sklady hotovej výroby. 
+INSTALL_TITLE=Inštalácia
+DEDICATED=Server FS19
+LOCAL=štatistiky z priečinku
+DS_LABEL1=IP adresa servera
+DS_PLACEHOLDE1=zadaj IP adresu servera
+DS_HELP_BLOCK1=IP adresa servera FS19
+DS_LABEL2=Port servera
+DS_PLACEHOLDE2=zadaj port servera
+DS_HELP_BLOCK2=Port webového rozhrania API (nie port servera hry)
+DS_LABEL3=Kód servera
+DS_PLACEHOLDE3=zadaj kód servera
+DS_HELP_BLOCK3=Kód prístupu k API
+DS_LABEL4=Mapa FS
+DS_HELP_BLOCK4=vyber mapu nainštalovanú na serveri
+DS_LABEL5=WebStats heslo
+DS_PLACEHOLDE5=sem zadaj heslo
+DS_PLACEHOLDE6=Potvrdiť heslo
+DS_HELP_BLOCK5=S heslom je možné neskôr zmeniť nastavenie servera a inštalovanej mapy na serveri.
+NO_INSTALL_1=Aplikácia WebStats nepodporuje daný server Farming Simulator 19 pretože nepodporuje funkciu <code>fsockopen()</ code>.
+NO_INSTALL_2=Kontaktujte prosím vášho poskytovateľa hostingu a zistite, či je možné túto funkciu aktivovať v konfiguračnom súbore <code>php.ini</code>.
+INTRO1=Aby bolo možné zobraziť aktuálne štatistiky z vášho servera FS19, je treba aby daná hra bola uložená. Môžete si nainštalovať 
+INTRO2=Autosave mod pre automatické ukladanie hry na servery každých 5 minút.
+LINK_TEXT=Autosave mod
+LS_LABEL1=Cesta k štatistikám
+LS_PLACEHOLDE1=Cesta
+LS_HELP_BLOCK1=Štandardne Farming Simulator 19 ukladá hru do tohto priečinka: <br><code>%USERPROFILE%\Documents\My Games\FarmingSimulator2017\savegame[n]</code>
+LS_LABEL2=FS mapa
+LS_HELP_BLOCK2=vyber FS mapu na serveri
+SAVE_CONFIG=Ulož nastavenia
+ERROR_CODE=Kód nie je správny.
+ERROR_PORT=Port nie je správny.
+ERROR_IP=IP adresa nie je správna.
+ERROR_MAP=Mapa FS nie je správna.
+ERROR_OFFLINE=Server nie je aktívny alebo IP adresa nie je správna.
+ERROR_SAVEGAME=Na danom mieste neboli nájdené žiadne herné štatistiky.
+PASSWORD_MATCH=Heslá sa nezhodujú.
+PASSWORD_SHORT=Heslo musí byť dlhé minimálne šesť znakov.
+ERROR=Chyba!
+
+//index.tpl
+TPL_ERROR_1=Chyba pri načitaní stránky
+TPL_ERROR_2=Súbor
+TPL_ERROR_3=neexistuje.
+CON_ERROR_1=Chyba pripojenia
+CON_ERROR_2=Nie je možné získať údaje z FS servera. Prosím skontrolujte IP adresu servera alebo internetové pripojenie. Funkcia <code>fsockopen()</code> musí byť aktivovaná na serveri.
+USER_ONLINE=Počet návštevníkov na stránke
+INFO_1=Stránka zobrazuje stav servera a zásoby zdrojov výroby, či zásoby hotovej výroby v produkčných závodoch.
+INFO_2=Typy a návrhy na zlepšenie
+LICENSE=Informácie o licencii.
+
+//navbar.tpl
+TOGGLE=Prepni navigáciu
+SERVER=Server
+STORAGE=Zásoby
+PRODUCTION=Produkcia
+FACTORY=Závod
+INFO=Informácie
+BESTPRICES=Trhové ceny - Analýza
+ALLPRICES=Trhové ceny - Prehľad
+VEHICLES=Majetok - Vozidla a stroje
+BUILDINGS=Majetok - Budovy
+FINANCES5DAYS=Financie - Prehľad
+BALANCESHEET=Financie - Súvaha
+RATIOS=Financie - Ukazovatele
+
+//finances.tpl
+//ratios
+BUSINESS_RATIOS=Pomerové finančné ukazovatele
+BWL_ADG=Pomer aktív
+BWL_EK=Vlastný kapitál
+BWL_AV=Dlhodobý majetok
+BWL_GK=Celkový kapitál
+BWL_G=Zisk
+BWL_FK=Úver
+BWL_AAV=Odpisovateľný investičný majetok
+BWL_TV=Zvieratá
+BWL_UV=Obežné aktíva
+BWL_KZ=Úrokové sadzby
+BWL_ADG_P1=Pomer krytia majetku stanovuje vlastné imanie vo vzťahu k fixnému majetku farmy. Fixné aktíva sú stroje, budovy a pozemky.
+BWL_ADG_P2=Vysoký stupeň krytia aktív znamená, že veľká časť aktív je financovaná vlastným imaním a nie úverom „na mieste“.
+BWL_EKQ=Akciový podiel
+BWL_EKQ_P1=Podiel vlastného imania označuje podiel vlastného imania na celkovom kapitáli.
+BWL_EKQ_P2=Vysoký podiel vlastného imania sa považuje za pozitívny: poľnohospodársky podnik je financovaný predovšetkým z vlastných zdrojov a nemusí sa uchyľovať k pôžičkám.
+BWL_EKR=Rentabilita vlastného kapitálu
+BWL_EKR_P1=Súdy často čelia rozhodnutiu investovať alebo investovať kapitál. Návratnosť vlastného kapitálu naznačuje, či bola investícia zisková.
+BWL_EKR_P2=Ak je návratnosť vlastného kapitálu nad súčasnou úrokovou sadzbou, investícia do vlastného lodenice sa oplatila.
+BWL_FKQ=Pomer dlhu
+BWL_FKQ_P1=Pomer dlhového kapitálu je stanovený vo vzťahu k celkovému kapitálu:
+BWL_FKQ_P2=Čím nižší je podiel dlhu na celkovom kapitáli, tým je súd finančne nezávislejší. Potom sa financuje predovšetkým zo svojich vlastných kapitálových rezerv (vlastného kapitálu).
+BWL_FKD=Dlhové krytie 
+BWL_FKD_P1=
+BWL_FKD_P2=Vysoký pákový efekt znamená, že veľké časti alebo celý dlh môžu byť repatriované prostredníctvom rýchlo disponibilných aktív.
+BWL_L=Likvidita
+BWL_L_P1=Likvidita opisuje schopnosť Dvora audítorov vyrovnať dlhy s dostupnými finančnými prostriedkami.
+BWL_L_P2=Čím vyššia je likvidita, tým lepšia je platobná schopnosť farmy. Likvidita sa preto považuje aj za opatrenie hroziacej platobnej neschopnosti.
+BWL_GKR=Rentabilita aktív
+BWL_GKR_P1=Na výpočet celkového výnosu (výnos z celkového kapitálu) sa zisk a úroky z dlhového kapitálu stanovujú vo vzťahu k vlastnému imaniu.
+BWL_GKR_P2=Návratnosť celkového kapitálu poskytuje informácie o tom, aký vysoký bude príjem z investovaného kapitálu.
+BWL_COPYRIGHT=Vzorce a definície z:
+//balancesheet
+BS_HEAD_MAIN=Súvaha
+BS_HEAD_LEFT=Aktíva
+BS_HEAD_RIGHT=Pasíva
+BS_FIXED=A. Fixné aktíva
+BS_LAND=Pôda
+BS_BUILDINGS=Budovy
+BS_VEHICLES=Vozidlá a stroje
+BS_SUM_FIXED=Fixné aktíva spolu
+BS_ANIMAL=B. Zvieracie bohatstvo
+BS_HORSES=Kone
+BS_COWS=Dobytok
+BS_PIGS=Ošípané
+BS_SHEEPS=Ovce
+BS_CHICKEN=Hydina
+BS_SUM_ANIMAL=Celkové bohatstvo zvierat
+BS_CURRENT=C. Obežné aktíva
+BS_INVENTORY=I. Zásoby
+BS_SUPPLIES=Spotrebný materiál
+BS_STORAGE=Hotové výrobky
+BS_ACCRECEIV=II. Pohľadávky
+BS_CASH=III. Bankové vklady
+BS_SUM_CURRENT=Obežné aktíva spolu
+BS_SHAREHOLDERS_EQUITY=A. Vlastné imanie
+BS_INITIAL=Počiatočný kapitál
+BS_PROFIT=Zisk
+BS_SUM_SHAREHOLDERS_EQUITY=Vlastné imanie celkom
+BS_LIABILITIES=B. Záväzky
+BS_BANKDEBT=Dlhodobé bankové úvery
+BS_BANKOPCREDIT=Krátkodobé bankové úvery
+BS_SUM_LIABILITIES=Záväzky spolu
+BS_TOTAL_LEFT=Celkové aktíva
+BS_TOTAL_RIGHT=Celkové pasíva
+
+//finances5days
+FINANCES_SUM=Päťdňový prehľad finančných pohybov
+MONDAY=Pondelok
+TUESDAY=Utorok
+WEDNESDAY=Streda
+THURSDAY=Štvrtok
+FRIDAY=Piatok
+SATURDAY=Sobota
+SUNDAY=Nedeľa
+TODAY=Dnes
+INCOME_EXPENDITURE=Náklady / Výnosy
+NEWVEHICLESCOST=Náklady na nové vozidla a zariadenia
+SOLDVEHICLES=Výnosy z predaja vozidiel a zariadení
+NEWANIMALSCOST=Náklady na nákup zvierat
+SOLDANIMALS=Výnosy z predaja zvierat
+CONSTRUCTIONCOST=Náklady na povrchové úpravy
+SOLDBUILDINGS=Výnosy z predaja budov
+FIELDPURCHASE=Náklady na obstaranie polí
+FIELDSELLING=Výnosy z predaja polí
+VEHICLERUNNINGCOST=Náklady na prevádzku vozidiel a zariadení
+VEHICLELEASINGCOST=Náklady na prenájom vozidiel a zariadení
+ANIMALUPKEEP=Náklady na chov zvierat
+PROPERTYMAINTENANCE=Náklady na údržbu majetku
+PROPERTYINCOME=Výnosy z majetku
+SOLDWOOD=Výnosy z predaja dreva
+SOLDBALES=Výnosy z predaja balíkov
+SOLDWOOL=Výnosy z predaja vlny
+SOLDMILK=Výnosy z predaja mlieka
+PURCHASEFUEL=Náklady na nákup nafty
+PURCHASESEEDS=Náklady na nákup osiva
+PURCHASEFERTILIZER=Náklady na nákup hnojiva
+PURCHASESAPLINGS=Náklady na nákup sadeníc
+PURCHASEWATER=Náklady na vodné a stočné
+HARVESTINCOME=Výnosy z predaja úrody
+INCOMEBGA=Výnosy z predaja siláže
+MISSIONINCOME=Výnosy z objednávok
+WAGEPAYMENT=Náklady na mzdy
+OTHER=Náklady ostatné
+LOANINTEREST=Náklady na splátky úveru
+TOTAL=Spolu
+BALANCE1=Účtovný zostatok
+BALANCE2=Saldo
+LOAN=Úver
+
+//prices.tpl
+//bestprices
+PRICES1000=Analýza trhových cien
+MIN_PRICE=Cena (Max)
+MAX_PRICE=Cena (Min)
+BEST_PRICE=Aktuálna cena
+PERCENT=Výhodnosť
+PROCEEDS=Možný výnos
+//allprices
+ALLPRICES_LABEL=Prehľad trhových cien
+SELLTRIGGER=Miesto
+PRICE_INFO=POZOR: Predajné ceny nemusia byť aktuálne!
+
+//vehicles.tpl
+VEH_VEHICLES=Prehľad vozidiel a strojov
+VEH_BRAND=Značka
+VEH_NAME=Vozidlo
+VEH_CATEGORY=Kategória
+VEH_AGE=Vek
+VEH_OTIME=Hodiny
+VEH_PRICE=Kúpna cena
+VEH_WEAR=Stav
+VEH_LPDAY=Prenájom</br>Deň
+VEH_LPHOUR=Pronájom</br>Hodina
+VEH_LCOST=Pronájom</br>Spolu
+VEH_RESALE=Zostatková cena
+VEH_BUILDINGS=Prehľad budou
+VEH_BNAME=Budova
+
+//overview.tpl
+//page=farms
+PLAYER=Hráči
+UPTIME=Doba prevádzky
+ISADMIN=je správca
+POSITION=Pozícia
+INVEHICLE=Vo vozidle
+NOPLAYER=Momentálne nie je prítomný žiadny hráč.
+FINANCES=Finančné zdroje
+FARMMANAGER=manažér
+
+//commodity.tpl
+DETAILVIEW=detailné zobrazenie
+CHOOSE_COMMODITY=Vyber komoditu
+PLACE=Umiestnenie zásob
+AMOUNT=Množstvo
+NO_STOCK=žiadne zásoby
+WHOLE_AMOUNT=zelkové zásoby
+DEMAND=dopyt
+WHOLE_DEMAND=celkový dopyt
+ITEM_POSITIONS=Poloha paliet/balíkov
+
+//factories.tpl
+CHOOSE_PLANT=Vyber výrobný závod
+REQUIRED=Požadované suroviny
+CAPACITY=Kapacita
+REQUIRE_HOUR=Spotreba za hodinu
+REQUIRE_DAY=Spotreba za deň
+PRODUCED_GOODS=Produkt
+PRODUCT_HOUR=Hodinová produkcia
+PRODUCT_DAY=Denná produkcia
+
+//production.tpl
+PRODUCTION_OVERVIEW=Prehľad výroby
+RAW_MATERIALS=Vstupy
+PRODUCTS=Výrobky
+MORE_DETAILS=viac detailov
+
+//storage.tpl
+CAUTION=Pozor
+DETAILS=Detail
+PALLET=Paleta
+PALETTES=Palety
+BALE=Balík
+BALES=Balíky
+INCORRECT_POSITIONS_TITLE=Neplatna poloha paliet a balíkov
+INCORRECT_POSITIONS_TEXT=Poloha balíkov/paliet <code>vehicle.xml</code> je neplatná:
+INCORRECT_POSITION=neplatná poloha
+SUGGESTION_POSITION=navrhovaná poloha
+QUANTITY=Množstvo
+
+//options.tpl
+GENERAL=Všeobecné
+CHOOSE_STYLE=Výber štýlu
+HIDE_FOOTER=Zobrazenie päty
+AUTO_RELOAD=Automatická obnova
+SORT_ORDER=Zoradenie
+ALPHABETICALLY=abecedne
+FILL_LEVEL=podľa úrovne naplnenia
+SHOW=zobraziť
+HIDE=skryť
+VEHICLE_LOAD=Stroje
+ONLY_PALETTS=Zobraz iba palety
+TOOLTIP=Zobraz popisky pri zásobách
+TOOLTIP_HELP=Popiska zobrazí celkové zásoby z produkcie a skladov.
+YES=áno
+NO=nie
+SHOW_ZERO_STOCK=Zobraziť nulové zásoby
+HIDE_ANIMALS=Zobraziť zvieratá
+FULL_PRODUCT_STORAGE=Plné sklady v produkcií
+SORT_FULL_PRODUCTS=zober v úvahu pri zoradení
+IGNORE_FULL_PRODUCTS=ignoruj pri zoradení
+SHOW_HIDDEN_PLANTS=Zobraz výrobné závody
+HIDE_NOT_USED=Automaticky skryť
+HIDE_NOT_USED_HELP=Automaticky skryť výrobné závody bez výrobých zdrojov, či zásob hotovej výroby. 
+MOD_MAP=Upravená mapa
+LAYOUT=Rozmiestnenie
+3COLUMN=3 stĺpce
+4COLUMN=4 stĺpce
+SERVER_SETTINGS=Zmazať nastavenia servera
+ADMIN_AREA=Správa servera
+ADMIN_DESCRIPTION=Upozornenie! Po zadaní hesla budú nastavenia servera zmazané! FS19 WebStats je možné potom znovu nastaviť.
+ENTER_PASSWORD=Heslo
+HIDE_ANIMALS_HELP=Zvieratá sa budú zobrazovať v prehľade zásob.
+AUTO_RELOAD_HELP=Automatická obnova obsahu webovej stránky.
+VEHICLE_LOAD_HELP=Zobrazenie strojov v prehľade zásob.
+SHOWZERO_HELP=Zobrazenie nulových položiek v prehľade zasob.
+
+//animals.tpl
+ANIMALS=Zvieratá
+SHEEP_COUNT=Počet ovcí
+PIG_COUNT=Počet prasiat
+COW_COUNT=Počet kráv
+PRODUCTIVITY=Produktivita
+REPRO_RATE=Reprodukčný čas
+NEXT_ANIMAL=Ďalší prírastok o
+CLEANLINESS=Čistota
+HORSE=Kôň
+HEALTH=Zdravie
+FITNESS=Kondícia
+DAY_RIDE=Povinná denná jazda
+FOOD=Strava
+STABLE_STATE=Ohrada
+STABLE_INFO=Prehľad potrieb zvieraťa
+
+//info.tpl
+//page=info
+VERSION=Verzia
+COPYRIGHT=Práva
+3RDPARTY=Aplikácie tretích strán:
+
+//missions.tpl
+//page=missions
+MISSIONS=Objednávky
+FIELD=Poľe
+FIELDSIZE=Rozloha (ha)
+TYPE=Typ úlohy
+REWARD=Odmena
+VEHICLEUSECOST=Prenájom strojov
+FARM=Farma
+STATUS=Stav
+ACTIVE=aktívna
+MIS_HARVEST=Žatva
+MIS_FERTILIZE=Hnojenie
+MIS_TRANSPORT=Preprava
+MIS_SOW=Siatie
+MIS_WEED=Postrek
+MIS_PLOW=Odstranenie buriny
+MIS_MOW_BALE=Lisovanie balíkov
+MIS_CULTIVATE=Kultivácia
+MIS_SPRAY=Hnojenie
+ABGESCHLOSSEN=Vybavené
+
+//statistics.tpl
+STATISTICS=Štatistika
+LITRES=litrov
+HA=ha
+FUELUSAGE=Celková spotreba nafty
+SEEDUSAGE=Celková spotreba osiva
+TRAVELEDDISTANCE=Celková prejdená vzdialenosť
+SPRAYUSAGE=Celková spotreba hnojiva
+WORKEDHECTARES=Práce na poli spolu (ha)
+PLOWEDHECTARES=Oranie polí spolu (ha)
+SOWNHECTARES=Sadenie polí spolu (ha)
+FERTILIZEDHECTARES=Hnojenie polí spolu (ha)
+CULTIVATEDHECTARES=Kultivácia polí spolu (ha) 
+THRESHEDHECTARES=Žatva polí spolu (ha)
+WORKEDTIME=Práce na poli spolu (čas)
+CULTIVATEDTIME=Kultivácia polí spolu (čas)
+SOWNTIME=Osievanie polí spolu (čas)
+FERTILIZEDTIME=Hnojenie polí spolu (čas)
+THRESHEDTIME=Žatva polí spolu (čas)
+PLOWEDTIME=Oranie polí spolu (čas)
+BALECOUNT=Celkový počet vyrobených balíkov (hranaté/guľaté)
+PLANTEDTREECOUNT=Celkový počet vysadených stromov
+CUTTREECOUNT=Celkový počet zoťatých stromov
+FIELDJOBMISSIONCOUNT=Celkový počet dokončených misií
+PLAYTIME=Celkové trvanie hry
+TRANSPORTMISSIONCOUNT=Celkový počet dokončených prepravných misií
+BREEDCOWSCOUNT=Celkový počet narodených kráv
+BREEDSHEEPCOUNT=Celkový počet narodených ovcí
+BREEDPIGSCOUNT=Celkový počet narodených prasiat
+BREEDCHICKENCOUNT=Celkový počet narodených sliepok
+BREEDHORSESCOUNT=Celkový počet narodených koní

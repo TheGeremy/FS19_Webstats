@@ -246,7 +246,7 @@
 	</div>
 </div>
 {else}
-<h3 class="my-3">##FINANCES##</h3>
+<h3 class="my-3">##FINANCES_SUM##</h3>
 <div class="row">
 	<div class="col-sm-12">
 		<table id="finances" class="table table-sm table-hover table-bordered table-striped" width="100%">

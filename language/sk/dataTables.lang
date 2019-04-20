@@ -1,0 +1,41 @@
+{
+	"sEmptyTable":   	"Údaje nie sú k dispozícii",
+	"sInfo":         	"Zobrazených _START_ - _END_ z _TOTAL_ položiek",
+	"sInfoEmpty":    	"Údaje nie sú k dispozícii",
+	"sInfoFiltered": 	"(odfiltrované celkovo z _MAX_ položiek)",
+	"sInfoPostFix":  	"",
+	"sInfoThousands":  	" ",
+	"sLengthMenu":   	"Zobraz _MENU_ položku",
+	"sLoadingRecords": "Nahrávanie...",
+	"sProcessing":     "Spracovávanie...",
+	"sSearch":         "Hľadaj:",
+	"sZeroRecords":    "Nenašli sa žiadne vyhovujúce záznamy.",
+	"oPaginate": {
+		"sFirst":    "Prvý",
+		"sLast":     "Posledný",
+		"sNext":     "Nasledujúci",
+		"sPrevious": "Predchádzajúci"
+	},
+	"oAria": {
+		"sSortAscending":  ": aktivuj zoradenie vzostupne",
+		"sSortDescending": ": aktivuj zoradenie zostupne"
+	},
+	"select": {
+    	"rows": {
+			"_": "%d vybrané riadky",
+			"0": "",
+			"1": "1 vybráný odkaz"
+	    }
+	},
+	"buttons": {
+		"print":	"Vytlačiť",
+		"colvis":	"Rozdeliť",
+		"copy":		"Kópia",
+		"copyTitle":	"Kopírovať do schránky",
+		"copyKeys":	"Klávesa <i>ctrl</i> alebo <i>\u2318</i> + <i>C</i> v prehľade <br>kopírovat do medzipamäti.<br><br>Pre zrušenie kliknite na správu alebo stlačte tlačítko Escape.",
+		"copySuccess": {
+			"_": "%d Okopírovaných stĺpcov",
+			"1": "1 Stĺpec bol okopírovaný"
+		}
+	}
+}

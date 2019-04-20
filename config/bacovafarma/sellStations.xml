@@ -14,25 +14,57 @@
             <de>BayHaynfeed</de>
             <en>BHF Shop</en>
             <fr>BayHaynfeed</fr>
-            <cz>Prodejna BHF</cz>
+            <cz>Výkup BHF</cz>
+            <sk>Výkup BHF</sk>            
         </text>
         <text name="sellingStationhaynfeed2"> 
             <de>BayHaynfeed II</de>
             <en>Purchase of potatoes and beet</en>
             <fr>BayHaynfeed II</fr>
             <cz>Výkup brambor a řepy</cz>
+            <sk>Výkup zemiakova repy</sk>
         </text>
         <text name="sellingStationrailline"> 
             <de>Railline</de>
             <en>Rail line</en>
             <fr>Rail line</fr>
             <cz>Nádraží</cz>
+            <sk>Vlaková stanica</sk>
         </text>   
+        <text name="sellingStationBales"> 
+            <de>Ballen Rückkauf</de>
+            <en>Repurchase bales</en>
+            <fr>Achat d'ampoules</fr>
+            <cz>Výkup balíků</cz>
+            <sk>Výkup baĺikov</sk>
+        </text>         
         <text name="sellingStationdairy"> 
             <de>Diary</de>
             <en>Diary</en>
             <fr>Diary</fr>
             <cz>Mlékárna</cz>
-        </text>      
+            <sk>Mliekareň</sk>
+        </text> 
+        <text name="sellingStationWood"> 
+            <de>Sägewerk</de>
+            <en>Sawmill</en>
+            <fr>Scierie</fr>
+            <cz>Pila</cz>
+            <sk>Píla</sk>
+        </text>  
+        <text name="sellingStationWoodChips"> 
+            <de>Sägewerk</de>
+            <en>Sawmill</en>
+            <fr>Scierie</fr>
+            <cz>Pila</cz>
+            <sk>Píla</sk>
+        </text>   
+        <text name="sellingStationWool"> 
+            <de>Wäscherei</de>
+            <en>Laundry</en>
+            <fr>Blanchisserie</fr>
+            <cz>Prádelna</cz>
+            <sk>Prádelňa</sk>
+        </text>
     </l10n>
 </mapconfig>

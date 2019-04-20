@@ -2,25 +2,34 @@
 <mapconfig>
 	<l10n>
 		<text name="husbandryHorse">
-			<cz>Koňské stáje</cz>		
+			<sk>Stajne koní</sk>
+			<cz>Koňské stáje</cz>			
 			<en>Stables</en>
 			<de>Ställe</de>
 		</text>
 		<text name="husbandryChickenLarge">
+			<sk>Veľký kurín</sk>			
 			<cz>Velká slepičárna</cz>		
 			<en>husbandryChickenLarge</en>
 			<de>Großer Hühnerstall</de>
 		</text>		
 		<text name="bunkerSiloSmall">
+			<cz>Malá silážna jama</cz>
 			<cz>Silážní jáma na farmě</cz>		
 			<en>Bunker Silo Small</en>
 			<de>Bunker-Silo klein</de>
 		</text>			
 		<text name="husbandrySheepLarge">
+			<sk>Veľký salaš</sk>				
 			<cz>Velká ovčírna</cz>				
 			<en>husbandrySheepLarge</en>
 			<de>Großer Schafweide</de>
 		</text>
+		<text name="husbandrySheep">
+			<cz>Ovčírna</cz>				
+			<en>Husbandry Sheep Large</en>
+			<de>Großer Schafweide</de>
+		</text>		
 		<text name="husbandryHorseLarge">
 			<cz>Velká konírna</cz>				
 			<en>husbandryHorseLarge</en>
@@ -29,6 +38,9 @@
 		<text name="husbandryCowLarge">
 			<cz>Velký kravín</cz>			
 		</text>	
+		<text name="husbandryCow">
+			<cz>Kravín</cz>			
+		</text>			
 		<text name="husbandryPigLarge">
 			<cz>Velký prasečák</cz>			
 		</text>	

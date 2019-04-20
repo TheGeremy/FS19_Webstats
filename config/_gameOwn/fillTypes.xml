@@ -20,24 +20,28 @@
 	<l10n>
 		<!-- Square bales -->
 		<text name="baleGrass240">
+			<sk>Hranatý Balík trávy</sk>
 			<cz>Tráva</cz>
 			<en>Grass</en>
 			<de>Gras</de>
 			<fr>Herbe</fr>
 		</text>
 		<text name="baleHay240">
+			<sk>Hranatý Balík Sena</sk>
 			<cz>Seno</cz>
 			<en>Dry grass</en>
 			<de>Heu</de>
 			<fr>Foin</fr>
 		</text>
 		<text name="baleSilage240">
+			<sk>Hranatý Balík Siláže</sk>
 			<cz>Siláž</cz>
 			<en>Silage</en>
 			<de>Silage</de>
 			<fr>Ensilage</fr>
 		</text>
 		<text name="baleStraw240">
+			<sk>Hranatý Balík Slamy</sk>
 			<cz>Sláma</cz>
 			<en>Straw</en>
 			<de>Stroh</de>
@@ -45,24 +49,28 @@
 		</text>
 		<!-- Round bales -->
 		<text name="roundbaleGrass_w112_d130">
+			<sk>Guľatý Balík Trávy</sk>
 			<cz>Tráva</cz>
 			<en>Grass</en>
 			<de>Gras</de>
 			<fr>Herbe</fr>
 		</text>
 		<text name="roundbaleHay_w112_d130">
+			<sk>Guľatý Balík Sena</sk>
 			<cz>Seno</cz>
 			<en>Dry grass</en>
 			<de>Heu</de>
 			<fr>Foin</fr>
 		</text>
 		<text name="roundbaleSilage_w112_d130">
+			<sk>Guľatý Balík Siláže</sk>
 			<cz>Siláž</cz>
 			<en>Silage</en>
 			<de>Silage</de>
 			<fr>Ensilage</fr>
 		</text>
 		<text name="roundbaleStraw_w112_d130">
+			<sk>Guľatý Balík Slamy</sk>
 			<cz>Sláma</cz>
 			<en>Straw</en>
 			<de>Stroh</de>
@@ -89,6 +97,7 @@
 		</text>
 		<!-- Pallets -->
 		<text name="LIME">
+			<sk>Vápno</sk>
 			<cz>Vápno</cz>
 			<en>LIME</en>
 			<de>Kalk</de>
@@ -107,6 +116,7 @@
 			<fr>Engrais liquide</fr>
 		</text>
 		<text name="HERBICIDE">
+			<sk>Herbicíd</sk>
 			<cz>Herbicid</cz>
 			<en>HERBICIDE</en>
 			<de>Pflanzenschutzmittel</de>
@@ -143,88 +153,131 @@
 			<fr>Semence</fr>
 		</text>
 		<text name="woolPallet">
+			<sk>Vlna</sk>
 			<cz>Vlna</cz>
 			<en>Wool</en>
 			<de>Wolle</de>
 			<fr>Laine</fr>
 		</text>
-		<!-- Animals -->
+		<!-- Animals -->		
+		<text name="COW_TYPE_BROWN">
+			<sk>Krava (hnedá)</sk>
+			<cz>Kráva (hnedá)</cz>
+			<en>Cow (brown)</en>
+			<de>Kuh (Braun)</de>
+			<fr>Vache</fr>
+		</text>
+		<text name="COW_TYPE_BROWN_WHITE">
+			<sk>Krava (hnedobiela)</sk>
+			<cz>Kráva (hnedobílá)</cz>
+			<en>Cow (brown and white)</en>
+			<de>Kuh (Braun &amp; Weiß)</de>
+			<fr>Vache</fr>
+		</text>
 		<text name="COW_TYPE_BLACK_WHITE">
+			<sk>Krava (černobiela)</sk>
 			<cz>Kráva (černobílá)</cz>
-			<en>Cows</en>
+			<en>Cow (braun and white)</en>
 			<de>Kuh (Schwarz &amp; Weiß)</de>
 			<fr>Vache</fr>
 		</text>
+		<text name="COW_TYPE_BLACK">
+			<sk>Krava (černa)</sk>
+			<cz>Kráva (černá)</cz>
+			<en>Cow black</en>
+			<de>Kuh (Schwarz)</de>
+			<fr>Vache</fr>
+		</text>		
 		<text name="PIG_TYPE_RED">
+			<sk>Prasa (ružové)</sk>
 			<cz>Prase (růžové)</cz>
 			<en>PIG_TYPE_RED</en>
 			<de>Schwein (Rosa)</de>
 			<fr>PIG_TYPE_RED</fr>
 		</text>
 		<text name="CHICKEN_TYPE_ROOSTER">
+			<sk>Kohút</sk>
 			<cz>Kohout</cz>
 			<en>Rooster</en>
 			<de>Hahn</de>
 			<fr>Coq</fr>
 		</text>
 		<text name="CHICKEN_TYPE_WHITE">
+			<sk>Sliepka (biela)</sk>
 			<cz>Slepice (bílá)</cz>
 			<en>Chicken</en>
 			<de>Huhn (Weiß)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="CHICKEN_TYPE_BROWN">
+			<sk>Sliepka (hnedá)</sk>
 			<cz>Slepice (hnědá)</cz>
 			<en>Chicken</en>
 			<de>Huhn (Braun)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="CHICKEN_TYPE_BLACK">
+			<sk>Sliepka (čierna)</sk>
 			<cz>Slepice (černá)</cz>
 			<en>Chicken</en>
 			<de>Huhn (Schwarz)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="SHEEP_TYPE_BLACK_WHITE">
+			<sk>Ovca (čiernobiela)</sk>
 			<cz>Ovce (černobílá)</cz>
 			<en>Sheep</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
 		</text>
+		<text name="SHEEP_TYPE_BLACK">
+			<sk>Ovca (čierna)</sk>
+			<cz>Ovce (černá)</cz>
+			<en>Sheep</en>
+			<de>Schaf (Schwarz)</de>
+			<fr>Mouton</fr>
+		</text>		
 		<text name="SHEEP_TYPE_WHITE">
+			<sk>Ovca (biela)</sk>
 			<cz>Ovce (bílá)</cz>
 			<en>Sheep</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
 		</text>		
 		<text name="SHEEP_TYPE_BROWN">
+			<sk>Ovca (hnedá)</sk>
 			<cz>Ovce (hnědá)</cz>
 			<en>Sheep</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
 		</text>		
 		<text name="HORSE_TYPE_GREY">
+			<sk>Kôň (šedý)</sk>
 			<en>HORSE_TYPE_GREY</en>
 			<de>Pferd (Schimmel)</de>
 			<cz>Kůň (šedý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BROWN_WHITE">
+			<sk>Kôň (hnedobiely)</sk>
 			<en>HORSE_TYPE_BROWN_WHITE</en>
 			<de>Pferd (Schecke)</de>
 			<cz>Kůň (hnědobílý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BEIGE">
-			<en>HORSE_TYPE_BEIGE</en>
+			<sk>Kôň (béžový)</sk>
+			<en>Horse (beige)</en>
 			<de>Pferd (Isabell)</de>
 			<cz>Kůň (béžový)</cz>
 		</text>
 		<text name="HORSE_TYPE_BROWN">
+			<sk>Kôň (hnedý)</sk>
 			<en>HORSE_TYPE_BROWN</en>
 			<de>Pferd (Fuchs)</de>
 			<cz>Kůň (hnědý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_RED_BROWN">
-			<en>HORSE_TYPE_RED_BROWN</en>
+			<sk>Kôň (červenohnědý)</sk>
+			<en>Horse (red-brown)</en>
 			<de>Pferd (Brauner)</de>
 			<cz>Kůň (červenohnědý)</cz>				
 		</text>
@@ -234,83 +287,97 @@
 			<cz>Kůň (černý)</cz>				
 		</text>
 		<text name="HORSE_TYPE_DARK_BROWN">
-			<en>HORSE_TYPE_DARK_BROWN</en>
+			<sk>Kôň (tmavohnedý)</sk>
+			<en>Horse (dark brown)</en>
 			<de>Pferd (Schwarzbrauner)</de>
 			<cz>Kůň (tmavě hnědý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_LIGHT_BROWN">
-			<en>HORSE_TYPE_LIGHT_BROWN</en>
+			<sk>Kôň (bledohnedý)</sk>
+			<en>Horse (light brown)</en>
 			<de>Pferd (Falble)</de>
 			<cz>Kůň (bledě hnědý)</cz>			
 		</text>
 		<!-- Fruits -->
 		<text name="WHEAT">
+			<sk>Pšenica</sk>
 			<cz>Pšenice</cz>
 			<en>Wheat</en>
 			<de>Weizen</de>
 			<fr>Blé</fr>
 		</text>
 		<text name="BARLEY">
+			<sk>Jačmeň</sk>
 			<cz>Ječmen</cz>
 			<en>Barley</en>
 			<de>Gerste</de>
 			<fr>Orge</fr>
 		</text>
 		<text name="OAT">
+			<sk>Ovos</sk>
 			<cz>Oves</cz>
 			<en>Oat</en>
 			<de>Hafer</de>
 			<fr></fr>
 		</text>
 		<text name="CANOLA">
+			<sk>Repka Olejka</sk>
 			<cz>Řepka</cz>
 			<en>Canola</en>
 			<de>Raps</de>
 			<fr>Colza</fr>
 		</text>
 		<text name="SUNFLOWER">
+			<sk>Slnečnica</sk>
 			<cz>Slunečnice</cz>
 			<en>Sunflower</en>
 			<de>Sonnenblumen</de>
 			<fr>Tournesol</fr>
 		</text>
 		<text name="SOYBEAN">
+			<sk>Sójové bôby</sk>
 			<cz>Sójové boby</cz>
 			<en>Soybean</en>
 			<de>Sojabohnen</de>
 			<fr>Soja</fr>
 		</text>
 		<text name="MAIZE">
+			<sk>Kukurica</sk>
 			<cz>Kukuřice</cz>
 			<en>Maize</en>
 			<de>Körnermais</de>
 			<fr>Maïs</fr>
 		</text>
 		<text name="POTATO">
+			<sk>Zemiaky (bandurky)</sk>
 			<cz>Brambory</cz>
 			<en>Potatoes</en>
 			<de>Kartoffeln</de>
 			<fr>Pommes de terre</fr>
 		</text>
 		<text name="SUGARBEET">
+			<sk>Repa</sk>
 			<cz>Řepa</cz>
 			<en>Sugar beet</en>
 			<de>Zuckerrüben</de>
 			<fr>Betterave à sucre</fr>
 		</text>
 		<text name="SUGARCANE">
+			<sk>Cukrová trstina</sk>
 			<cz>Cukrová třtina</cz>
 			<en>Sugar cane</en>
 			<de>Zuckerrohr</de>
 			<fr>Canne à sucre</fr>
 		</text>
 		<text name="WATER">
+			<sk>Voda</sk>
 			<cz>Voda</cz>
 			<en>Water</en>
 			<de>Wasser</de>
 			<fr>Eau</fr>
 		</text>
 		<text name="DIESEL">
+			<sk>Nafta</sk>
 			<cz>Nafta</cz>
 			<en>Fuel</en>
 			<de>Diesel</de>
@@ -319,102 +386,119 @@
 
 		<!-- Products -->
 		<text name="FERTILIZER">
+			<sk>Pevné hnojivo</sk>
 			<cz>Pevné hnojivo</cz>
 			<en>Fertilizer</en>
 			<de>Dünger</de>
 			<fr>Engrais</fr>
 		</text>
 		<text name="SEEDS">
+			<sk>Osivo</sk>
 			<cz>Osivo</cz>
 			<en>Seeds</en>
 			<de>Saatgut</de>
 			<fr>Semence</fr>
 		</text>
 		<text name="LIQUIDMANURE">
+			<sk>Močovka</sk>
 			<cz>Močůvka</cz>
 			<en>Liquid manure</en>
 			<de>Gülle</de>
 			<fr>Lisier</fr>
 		</text>
 		<text name="MANURE">
+			<sk>Hnoj</sk>
 			<cz>Mrva</cz>
 			<en>Manure</en>
 			<de>Mist</de>
 			<fr>Fumier</fr>
 		</text>
 		<text name="MILK">
+			<sk>Mlieko</sk>
 			<cz>Mléko</cz>
 			<en>Milk</en>
 			<de>Milch</de>
 			<fr>Lait</fr>
 		</text>
 		<text name="EGG">
+			<sk>Vajcia</sk>
 			<cz>Vejce</cz>
 			<en>Egg</en>
 			<de>Eier</de>
 			<fr></fr>
 		</text>
 		<text name="WOOL">
+			<sk>Vlna</sk>
 			<cz>Vlna</cz>
 			<en>Wool</en>
 			<de>Wolle</de>
 			<fr>Laine</fr>
 		</text>
 		<text name="COTTON">
+			<sk>Bavlna</sk>
 			<cz>Bavlna</cz>
 			<en>Cotton</en>
 			<de>Baumwolle</de>
 			<fr></fr>
 		</text>
 		<text name="STRAW">
+			<sk>Slama</sk>			
 			<cz>Sláma</cz>
 			<en>Straw</en>
 			<de>Stroh</de>
 			<fr>Paille</fr>
 		</text>
 		<text name="grass">
+			<sk>Tráva</sk>
 			<cz>Tráva</cz>
 			<en>Grass</en>
 			<de>Gras</de>
 			<fr>Herbe</fr>
 		</text>
 		<text name="GRASS_WINDROW">
+			<sk>Tráva</sk>
 			<cz>Tráva</cz>
 			<en>Grass</en>
 			<de>Gras</de>
 			<fr>Herbe</fr>
 		</text>
 		<text name="CHAFF">
+			<sk>Rezanka</sk>
 			<cz>Řezanka</cz>
 			<en>Chaff</en>
 			<de>Häckselgut</de>
 			<fr>Haché</fr>
 		</text>
 		<text name="DIGESTATE">
+			<sk>Digestát</sk>
 			<cz>Digestát</cz>
 			<en>Digestate</en>
 			<de>Gärreste</de>
 			<fr>Digestat</fr>
 		</text>
 		<text name="DRYGRASS_WINDROW">
+			<sk>Seno</sk>
 			<cz>Seno</cz>
 			<en>dry Grass</en>
 			<de>Heu</de>
 			<fr>Foin</fr>
 		</text>
 		<text name="SILAGE">
+			<sk>Siláž</sk>
 			<cz>Siláž</cz>
 			<en>Silage</en>
 			<de>Silage</de>
 			<fr>Ensilage</fr>
 		</text>
 		<text name="FORAGE">
+			<sk>Doplnková kŕmna zmes</sk>
 			<cz>Energetické krmivo</cz>
 			<en>Forage</en>
 			<de>Mischration</de>
 			<fr>Aliments composés</fr>
 		</text>
 		<text name="WOODCHIPS">
+			<sk>Štiepka</sk>
 			<cz>Štěpka</cz>
 			<en>Wood chips</en>
 			<de>Hackschnitzel</de>
@@ -422,48 +506,56 @@
 		</text>
 		<!-- Animals troughs -->
 		<text name="grass_windrow_dryGrass_windrow">
+			<sk>Seno, Tráva</sk>
 			<cz>Seno, Tráva</cz>
 			<en>Grass, Dry gras</en>
 			<de>Gras, Heu</de>
 			<fr>Herbe, Foin</fr>
 		</text>
 		<text name="maize_pigFood">
+			<sk>Kukurica</sk>
 			<cz>Kukuřice</cz>
 			<en>Maize</en>
 			<de>Körnermais</de>
 			<fr>Maïs</fr>
 		</text>
 		<text name="wheat_barley_pigFood">
+			<sk>Pšenica, Jačmeň</sk>
 			<cz>Pšenice, Ječmen</cz>
 			<en>Wheat, Barley</en>
 			<de>Weizen, Gerste</de>
 			<fr>Blé, Orge</fr>
 		</text>
 		<text name="rape_sunflower_soybean_pigFood">
+			<sk>Repka Olejka, Slnečnica, Sójové bôby</sk>
 			<cz>Řepka, Slunečnice, Sójvé boby</cz>
 			<en>Canola, Sunflower, Soybean</en>
 			<de>Raps, Sonnenblumen, Sojabohnen</de>
 			<fr>Colza, Tournesols, Soja</fr>
 		</text>
 		<text name="potato_sugarBeet_pigFood">
+			<sk>Zemiaky (bandurky), Cukrová repa</sk>
 			<cz>Brambory, Cukrová řepa</cz>
 			<en>Potatoes, sugar beet</en>
 			<de>Kartoffeln, Zuckerrüben</de>
 			<fr>Pommes de terre, Betterave à sucre</fr>
 		</text>
 		<text name="PIGFOOD">
+			<sk>Kompletná kŕmna zmes</sk>
 			<cz>Prasečí krmivo</cz>
 			<en>Pig food</en>
 			<de>Schweinefutter</de>
 			<fr>Aliment pour les cochons</fr>
 		</text>
 		<text name="silage_dryGrass_windrow">
+			<sk>Siláž, Seno</sk>
 			<cz>Siláž, Seno</cz>
 			<en>Silage, dry grass</en>
 			<de>Silage, Heu</de>
 			<fr>Ensilage, Foin</fr>
 		</text>
 		<text name="powerFood">
+			<sk>Doplnková kŕmna zmes</sk>
 			<cz>Energetické krmivo</cz>
 			<en>Power food</en>
 			<de>Kraftfutter</de>

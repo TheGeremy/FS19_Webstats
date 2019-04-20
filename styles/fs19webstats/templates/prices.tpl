@@ -1,6 +1,6 @@
-<h3 class="my-3">##PRICES1000##</h3>
 {$mode = GetParam('subPage','G','bestPrices')} {if $mode == 'allPrices'}
 <!-- Alternative ingame like price overview. Looks not good. -->
+<h3 class="my-3">##ALLPRICES_LABEL##</h3>
 <div class="row">
 	<div class="col-sm-12">
 		<table class="table  table-hover table-bordered table-striped" id="allPrices">
@@ -85,6 +85,7 @@
 	</div>
 </div>
 {else}
+<h3 class="my-3">##PRICES1000##</h3>
 <div class="row">
 	<div class="col-sm-12">
 		<table class="table table-sm table-hover table-bordered table-striped" id="bestPrices">
