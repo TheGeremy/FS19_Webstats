@@ -13,6 +13,9 @@ SETTINGS=Settings
 STOCK=Stock
 STOCKS=Stocks
 PRICES=Selling prices
+CREATED_BY=created by
+TIME=Time
+MONEY=Money
 
 //install.tpl
 CHANGE_BUTTON=Change

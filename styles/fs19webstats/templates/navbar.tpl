@@ -1,5 +1,5 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark justify-content-lg-center py-0">
-	<a class="navbar-brand d-lg-none d-xl-block" href="index.php">{$map.Short} {$map.Version} Web Stats</a>
+	<a class="navbar-brand d-lg-none d-xl-block" href="index.php">Web Stats - {$map.Short} {$map.Version}</a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
@@ -31,6 +31,6 @@
 			{/if}
 		{/foreach}
 		</ul>
-		<span class="navbar-text  bg-secondary text-white px-3 text-right font-weight-bold text-nowrap">##DAY## {$currentDay} | Čas {$dayTime}{if $money !== false} | {$money|number_format:0:",":"."} €{/if}</span>
+		<span class="navbar-text  bg-secondary text-white px-3 text-right font-weight-bold text-nowrap">##DAY## {$currentDay} | ##TIME## {$dayTime}{if $money !== false} | ##MONEY## {$money|number_format:0:",":"."} €{/if}</span>
 	</div>
 </nav>

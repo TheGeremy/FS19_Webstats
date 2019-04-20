@@ -38,7 +38,7 @@
 			<de>Großer Pferdestall</de>
 		</text>
 		<text name="husbandryCowLarge">
-			<sk>Veľký ošipáreň</sk>
+			<sk>Veľký kravín</sk>
 			<cz>Velký kravín</cz>			
 		</text>	
 		<text name="husbandryCow">
@@ -46,7 +46,7 @@
 			<cz>Kravín</cz>			
 		</text>			
 		<text name="husbandryPigLarge">
-			<sk>Veľký kravín</sk>
+			<sk>Veľká ošipáreň</sk>
 			<cz>Velký prasečák</cz>			
 		</text>	
 		<text name="farmSiloLarge">

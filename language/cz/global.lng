@@ -22,6 +22,9 @@ SATURDAY=Sobota
 SUNDAY=Neděle
 ON=Zapnuto
 OFF=Vypnuto
+CREATED_BY=vytvořil
+TIME=Čas
+MONEY=Peníze
 
 //install.tpl
 CHANGE_BUTTON=Změna
@@ -357,6 +360,7 @@ BWL_GKR=Rentabilita aktiv
 BWL_GKR_P1=Pro výpočet celkové výnosnosti (výnos z celkového kapitálu) jsou zisk a úroky z dluhového kapitálu stanoveny ve vztahu k vlastnímu kapitálu.
 BWL_GKR_P2=Návratnost celkového kapitálu poskytuje informace o tom, jak vysoký bude příjem z investovaného celkového kapitálu.
 BWL_COPYRIGHT=Vzorce a popisy
+FINANCES_SUM=Přehled financí
 
 //missions.tpl
 MISSIONS=Zakázky

@@ -4,7 +4,7 @@ SAVE=Uložiť
 SUBMIT=Potvrdiť
 RESET=Predvolené
 SAVETIME=Čas v hre
-DAY=deň
+DAY=Deň
 COMMODITY=Komodita
 COMMODITIES=Komodity
 PLANT=Výrobný závod
@@ -15,6 +15,9 @@ STOCKS=Zásoby
 PRICES=Predajné ceny
 ON=Zapnuté
 OFF=Vypnuté
+CREATED_BY=vytvoril
+TIME=Čas
+MONEY=Financie
 
 //install.tpl
 CHANGE_BUTTON=Zmeniť

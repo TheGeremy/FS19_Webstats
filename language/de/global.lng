@@ -22,6 +22,9 @@ SATURDAY=Samstag
 SUNDAY=Sonntag
 ON=An
 OFF=Aus
+CREATED_BY=erstellt von
+TIME=Zeit
+MONEY=Geld
 
 //install.tpl
 CHANGE_BUTTON=Ändern
