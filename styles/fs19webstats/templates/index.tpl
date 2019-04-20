@@ -6,7 +6,7 @@
 <meta name="description" content="Farming Simulator 19 Web Stats">
 <meta name="author" content="John Hawk">
 <link rel="icon" href="{#IMAGES#}/favicon.ico">
-<title>{$map.Short} {$map.Version} Web Stats</title>
+<title>{$map.Short} {$map.Version}</title>
 <link rel="stylesheet" type="text/css" href="{#CSS#}/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="{#CSS#}/customstyle.css?{$smarty.now}">
 <link rel="stylesheet" type="text/css" href="{#CSS#}/datatables.min.css" />
