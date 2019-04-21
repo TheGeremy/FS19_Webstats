@@ -65,7 +65,7 @@ class Nav {
 						'showInNav' => $showInNav,
 						'hasSubmenu' => true,
 						'active' => false,
-						'text' => '##VEHICLES##',
+						'text' => '##PROPERTY##',
 						'submenu' => array (
 								'vehicles' => array (
 										'showInNav' => true,

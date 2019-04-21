@@ -12,7 +12,7 @@ PLANTS=Výrobné závody
 SETTINGS=Nastavenia
 STOCK=Zásoby
 STOCKS=Zásoby
-PRICES=Predajné ceny
+PRICES=Trhové ceny
 ON=Zapnuté
 OFF=Vypnuté
 CREATED_BY=vytvoril
@@ -100,11 +100,13 @@ FACTORY=Závod
 INFO=Informácie
 BESTPRICES=Trhové ceny - Analýza
 ALLPRICES=Trhové ceny - Prehľad
+PROPERTY=Majetok
 VEHICLES=Majetok - Vozidla a stroje
 BUILDINGS=Majetok - Budovy
 FINANCES5DAYS=Financie - Prehľad
 BALANCESHEET=Financie - Súvaha
 RATIOS=Financie - Ukazovatele
+FARMS=Farmy
 
 //finances.tpl
 //ratios
@@ -229,7 +231,7 @@ PROCEEDS=Možný výnos
 //allprices
 ALLPRICES_LABEL=Prehľad trhových cien
 SELLTRIGGER=Miesto
-PRICE_INFO=POZOR: Predajné ceny nemusia byť aktuálne!
+PRICE_INFO=POZOR: Trhové ceny nemusia byť aktuálne!
 
 //vehicles.tpl
 VEH_VEHICLES=Prehľad vozidiel a strojov
@@ -252,10 +254,10 @@ VEH_BNAME=Budova
 PLAYER=Hráči
 UPTIME=Doba prevádzky
 ISADMIN=je správca
-POSITION=Pozícia
+POSITION=Poloha
 INVEHICLE=Vo vozidle
 NOPLAYER=Momentálne nie je prítomný žiadny hráč.
-FINANCES=Finančné zdroje
+FINANCES=Financie
 FARMMANAGER=manažér
 
 //commodity.tpl
