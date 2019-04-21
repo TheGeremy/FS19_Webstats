@@ -352,7 +352,7 @@ FITNESS=Kondícia
 DAY_RIDE=Povinná denná jazda
 FOOD=Strava
 STABLE_STATE=Ohrada
-STABLE_INFO=Prehľad potrieb zvieraťa
+STABLE_INFO=Prehľad potrieb
 
 //info.tpl
 //page=info
