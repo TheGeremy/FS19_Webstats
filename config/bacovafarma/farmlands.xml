@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- iba pocet farmlands cena a suradnice nesedia -->
+<!-- x and z values are not accurate -->
 <mapconfig>
 	<Farmlands>
-		<Farmland id="1" price="313512" x="-726.972900" z="-768.248413" />
-		<Farmland id="2" price="315960" x="-564.976135" z="-814.096863" />
-		<Farmland id="3" price="295392" x="-390.462616" z="-840.564514" />
-		<Farmland id="4" price="448176" x="-113.499733" z="-866.723877" />
-		<Farmland id="5" price="141936" x="412.533325" z="-915.342590" />
-		<Farmland id="6" price="676224" x="-854.509705" z="-439.586090" />
-		<Farmland id="7" price="811992" x="-393.784973" z="-544.958801" />
-		<Farmland id="8" price="810312" x="-8.115363" z="-596.855957" />
-		<Farmland id="9" price="359568" x="258.696716" z="-662.209961" />
-		<Farmland id="10" price="402240" x="734.561096" z="-717.297729" />
-		<Farmland id="11" price="446208" x="-837.506348" z="-71.666527" />
-		<Farmland id="12" price="460320" x="-383.955261" z="-309.147034" />
-		<Farmland id="13" price="644808" x="-155.247070" z="-93.367889" />
-		<Farmland id="14" price="1212288" x="191.977951" z="33.125477" />
-		<Farmland id="15" price="495456" x="410.154907" z="-328.816620" />
-		<Farmland id="16" price="423864" x="608.503906" z="-302.962402" />
-		<Farmland id="17" price="680664" x="534.215759" z="20.949438" />
-		<Farmland id="18" price="231360" x="771.613708" z="-338.781738" />
+		<Farmland id="1" price="557904" x="0" z="0" />
+		<Farmland id="2" price="71712" x="0" z="0" />
+		<Farmland id="3" price="76704" x="0" z="0" />
+		<Farmland id="4" price="129103" x="0" z="0" />
+		<Farmland id="5" price="451648" x="0" z="0" />
+		<Farmland id="6" price="48368" x="0" z="0" />
+		<Farmland id="7" price="62384" x="0" z="0" />
+		<Farmland id="8" price="76304" x="0" z="0" />
+		<Farmland id="9" price="50176" x="0" z="0" />
+		<Farmland id="10" price="137872" x="0" z="0" />
+		<Farmland id="11" price="210256" x="0" z="0" />
+		<Farmland id="12" price="465792" x="0" z="0" />
+		<Farmland id="13" price="238752" x="0" z="0" />
+		<Farmland id="14" price="135376" x="0" z="0" />
+		<Farmland id="15" price="115568" x="0" z="0" />
+		<Farmland id="16" price="223888" x="0" z="0" />
+		<Farmland id="17" price="152864" x="0" z="0" />
+		<Farmland id="18" price="115804" x="0" z="0" />
+		<farmland id="63" price="0"/>
 	</Farmlands>
 </mapconfig>
