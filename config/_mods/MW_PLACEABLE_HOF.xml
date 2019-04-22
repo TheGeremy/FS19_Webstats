@@ -7,30 +7,37 @@
 	<item name="SCS_BUNKER_SILO_KLEIN_ONE_WAY" locationType="bunker" />
 	<l10n>
 		<text name="SCS_HOFSILO">
+			<sk>Silo</sk>
 			<en>SCS_HOFSILO</en>
 			<de>Hofsilo</de>
 		</text>
 		<text name="SCS_BIG_NEW_SILO">
+			<sk>Veľké silo</sk>
 			<en>SCS_BIG_NEW_SILO</en>
 			<de>Hofsilo</de>
 		</text>
 		<text name="SCS_HOFSILO_EXTENTION">
+			<sk>Prídavný zásobnik sila</sk>
 			<en>SCS_HOFSILO_EXTENTION</en>
 			<de>Hofsilo Erweiterung</de>
 		</text>
 		<text name="SCS_FUTTERMISCH_SILO">
+			<sk>Silo pre DKZ</sk>
 			<en>SCS_FUTTERMISCH_SILO</en>
 			<de>Futtermischsilo</de>
 		</text>
 		<text name="SCS_BUNKER_SILO_KLEIN_ONE_WAY">
+			<sk>Jednosmerný bunker</sk>
 			<en>SCS_BUNKER_SILO_KLEIN_ONE_WAY</en>
 			<de>kleines Fahrsilo</de>
 		</text>
 		<text name="SCS_SCHWEINESTALL">
+			<sk>Ošipáreň</sk>
 			<en>SCS_SCHWEINESTALL</en>
 			<de>Schweinestall</de>
 		</text>
 		<text name="SCS_KUHSTALL_BIG_MIT_WEIDE">
+			<sk>Kurín s výbehom</sk>
 			<en>SCS_KUHSTALL_BIG_MIT_WEIDE</en>
 			<de>Großer Kuhstall mit Weide</de>
 		</text>
