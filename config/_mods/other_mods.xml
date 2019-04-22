@@ -6,5 +6,60 @@
 			<en>Amazone ZA-M 1501</en>
 			<de>Amazone ZA-M 1501</de>
 		</text>
+		<text name="$l10n_shopItem_frontloaderBaleFork">
+			<sk>Bale Fork</sk>
+			<en>Bale Fork</en>
+			<de>BaleFork</de>
+		</text>
+		<text name="$l10n_shopItem_frontloaderShovel">
+			<sk>Front Loader Shovel</sk>
+			<en>Front Loader Shovel</en>
+			<de>Front Loader Shovel</de>
+		</text>				
+		<text name="containerBales">
+			<sk>Bales container</sk>
+			<en>Bales container</en>
+			<de>Bales container</de>
+		</text>
+		<text name="containerRolloff">
+			<sk>Container roll off</sk>
+			<en>Container roll off</en>
+			<de>Container roll offr</de>
+		</text>
+		<text name="itRunner2623HD">
+			<sk>IT Runner 2623HD</sk>
+			<en>IT Runner 2623HD</en>
+			<de>IT Runner 2623HD</de>
+		</text>
+		<text name="RB580">
+			<sk>RB580</sk>
+			<en>RB580</en>
+			<de>RB580</de>
+		</text>
+		<text name="SBGBig">
+			<sk>SBG Big</sk>
+			<en>SBG Big</en>
+			<de>SBG Big</de>
+		</text>		
+		<text name="farmHouse">
+			<sk>Farmársky dom</sk>
+			<en>Farm House</en>
+			<de>Bauernhaus</de>
+		</text>		
+		<text name="farmStorage">
+			<sk>Sklad</sk>
+			<en>Farm Storage</en>
+			<de>Bauernhof Lagerung</de>
+		</text>		
+		<text name="ShortWoodenLight">
+			<sk>Drevenná pouličná lampa</sk>
+			<en>Short Wooden Light</en>
+			<de>Kurze Holzleuchte</de>
+		</text>	
+		<text name="subsidy">
+			<sk>Štátne dotácie</sk>
+			<en>Subsidy</en>
+			<de>Zuschuss</de>
+		</text>			
 	</l10n>
 </mapconfig>

@@ -3,121 +3,129 @@
 	<l10n>
 		<!-- Some items sharing their names -->
 		<text name="$l10n_shopItem_frontloaderLogFork">
-			<en>$l10n_shopItem_frontloaderLogFork</en>
+			<sk>Vidlica na drevo (predný nakladač)</sk>
+			<en>Front Loader Log Fork</en>
 			<de>Poltergabel</de>
 		</text>
 		<text name="$l10n_shopItem_skidSteerHighDumpBucket">
-			<en>$l10n_shopItem_skidSteerHighDumpBucketk</en>
+			<sk>Skid Steer veľkokapacitná lyžica</sk>			
+			<en>Skid Steer High Dump Bucket</en>
 			<de>Hochkippschaufel</de>
 		</text>
 		<text name="$l10n_shopItem_frontloaderPalletFork">
-			<en>$l10n_shopItem_frontloaderPalletFork</en>
+			<sk>Vidlica na palety (predný nakladač)</sk>			
+			<en>Front Loader Pallet Fork</en>
 			<de>Palettengabel</de>
 		</text>
 		<text name="$l10n_shopItem_wheelLoaderSilageFork">
-			<en>$l10n_shopItem_wheelLoaderSilageFork</en>
+			<sk>Vidlica na siláž (kolesový nakladač)</sk>			
+			<en>Wheel Loader Silage Fork</en>
 			<de>Silagegabel</de>
 		</text>
 		<text name="$l10n_shopItem_frontloaderBaleFork">
-			<en>$l10n_shopItem_frontloaderBaleFork</en>
+			<sk>Vidlica na balíky (predný nakladač)</sk>				
+			<en>Front Loader Bale Fork</en>
 			<de>Ballengabel</de>
 		</text>
 		<text name="$l10n_shopItem_frontloaderShovel">
-			<en>$l10n_shopItem_frontloaderShovel</en>
+			<sk>Lyžica (predný nakladač)</sk>			
+			<en>Front Loader Shovel</en>
 			<de>Universalschaufel</de>
 		</text>
 		<text name="$l10n_shopItem_frontloaderBaleGrab">
-			<en>$l10n_shopItem_frontloaderBaleGrab</en>
+			<sk>Kliešte na balíky (predný nakladač)</sk>		
+			<en>Front Loader Bale Grab</en>
 			<de>Ballenzange</de>
 		</text>
 		<text name="$l10n_shopItem_frontloaderManureFork">
-			<en>$l10n_shopItem_frontloaderManureFork</en>
+			<sk>Vidlica na hnoj (predný nakladač)</sk>			
+			<en>Front loader Manure Fork</en>
 			<de>Mistgabel</de>
 		</text>
 		<!-- Vehicles categories -->
 		<text name="tractorsS">
-			<en></en>
+			<en>Tractors S</en>
 			<de>Kompakttraktoren</de>
 		</text>
 		<text name="tractorsM">
-			<en></en>
+			<en>Tractors M</en>
 			<de>Mittelgroße Traktoren</de>
 		</text>
 		<text name="tractorsL">
-			<en></en>
+			<en>Tractors L</en>
 			<de>Großtraktoren</de>
 		</text>
 		<text name="trucks">
-			<en></en>
+			<en>Trucks</en>
 			<de>LKW</de>
 		</text>
 		<text name="harvesters">
-			<en></en>
+			<en>Harvesters</en>
 			<de>Mähdrescher</de>
 		</text>
 		<text name="forageHarvesters">
-			<en></en>
+			<en>Forage Harvesters</en>
 			<de>Feldhäcksler</de>
 		</text>
 		<text name="potatoVehicles">
-			<en></en>
+			<en>Potato Vehicles</en>
 			<de>Kartoffeltechnik</de>
 		</text>
 		<text name="beetVehicles">
-			<en></en>
+			<en>Beet Vehicles</en>
 			<de>Rübentechnik</de>
 		</text>
 		<text name="sugarcaneVehicles">
-			<en></en>
+			<en>Sugarcane Vehicles</en>
 			<de>Zuckerrohrtechnik</de>
 		</text>
 		<text name="cottonVehicles">
-			<en></en>
+			<en>Cotton Vehicles</en>
 			<de>Baumwolltechnik</de>
 		</text>
 		<text name="woodHarvesting">
-			<en></en>
+			<en>Wood Harvesting</en>
 			<de>Forstmaschinen</de>
 		</text>
 		<text name="animalsVehicles">
-			<en></en>
+			<en>Animals Vehicles</en>
 			<de>Tierhaltung</de>
 		</text>
 		<text name="sprayerVehicles">
-			<en></en>
+			<en>Sprayer Vehicles</en>
 			<de>Pflanzenschutz</de>
 		</text>
 		<text name="mowerVehicles">
-			<en></en>
+			<en>Mower Vehicles</en>
 			<de>Mähtechnik</de>
 		</text>
 		<text name="frontLoaderVehicles">
-			<en></en>
+			<en>Front Loader Vehicles</en>
 			<de>Frontlader</de>
 		</text>
 		<text name="wheelLoaderVehicles">
-			<en></en>
+			<en>Wheel Loader Vehicles</en>
 			<de>Radlader</de>
 		</text>
 		<text name="teleLoaderVehicles">
-			<en></en>
+			<en>Tele Loader Vehicles</en>
 			<de>Teleskoplader</de>
 		</text>
 		<text name="skidSteerVehicles">
-			<en></en>
+			<en>Skid Steer Vehicles</en>
 			<de>Kompaktlader</de>
 		</text>
 		<text name="cars">
-			<en></en>
+			<en>Cars</en>
 			<de>Autos</de>
 		</text>
 		<text name="miscVehicles">
-			<en></en>
+			<en>Miscellaneous Vehicles</en>
 			<de>Diverses</de>
 		</text>
 		<!-- Tools categories -->
 		<text name="trailers">
-			<en></en>
+			<en>Trailers</en>
 			<de>Anhänger</de>
 		</text>
 		<text name="augerWagons">
@@ -125,220 +133,248 @@
 			<de>Überladewagen</de>
 		</text>
 		<text name="cutters">
-			<en></en>
+			<en>Cutters</en>
 			<de>Schneidwerke</de>
 		</text>
 		<text name="cornHeaders">
-			<en></en>
+			<en>Corn Headers</en>
 			<de>Maispflücker</de>
 		</text>
 		<text name="forageHarvesterCutters">
-			<en></en>
+			<en>Forage Harvester Cutters</en>
 			<de>Feldhäcksler Schneidwerke</de>
 		</text>
 		<text name="potatoHarvesting">
-			<en></en>
+			<en>Potato Harvesting</en>
 			<de>Kartoffeltechnik</de>
 		</text>
 		<text name="beetHarvesting">
-			<en></en>
+			<en>Beet Harvesting</en>
 			<de>Rübentechnik</de>
 		</text>
 		<text name="sugarCaneHarvesting">
-			<en></en>
+			<en>Sugar Cane Harvesting</en>
 			<de>Zuckerrohrtechnik</de>
 		</text>
 		<text name="cottonHarvesting">
-			<en></en>
+			<en>Cotton Harvesting</en>
 			<de>Baumwolltechnik</de>
 		</text>
 		<text name="plows">
-			<en></en>
+			<en>Plows</en>
 			<de>Pflüge</de>
 		</text>
 		<text name="cultivators">
-			<en></en>
+			<en>Cultivators</en>
 			<de>Grubber</de>
 		</text>
 		<text name="discHarrows">
-			<en></en>
+			<en>Disc Harrows</en>
 			<de>Scheibeneggen</de>
 		</text>
 		<text name="powerHarrows">
-			<en></en>
+			<en>Rower Harrows</en>
 			<de>Kreiseleggen</de>
 		</text>
 		<text name="subsoilers">
-			<en></en>
+			<en>Subsoilers</en>
 			<de>Tiefenlockerer</de>
 		</text>
 		<text name="seeders">
-			<en></en>
+			<en>Seeders</en>
 			<de>Sätechnik</de>
 		</text>
 		<text name="planters">
-			<en></en>
+			<en>Planters</en>
 			<de>Einzelkorn Sätechnik</de>
 		</text>
 		<text name="sprayers">
-			<en></en>
+			<en>Sprayers</en>
 			<de>Pflanzenschutz</de>
 		</text>
 		<text name="fertilizerSpreaders">
-			<en></en>
+			<en>Fertilizer Spreaders</en>
 			<de>Düngetechnik</de>
 		</text>
 		<text name="manureSpreaders">
-			<en></en>
+			<en>Manure Spreaders</en>
 			<de>Miststreuer</de>
 		</text>
 		<text name="slurryTanks">
-			<en></en>
+			<en>Slurry Tanks</en>
 			<de>Güllefässer</de>
 		</text>
 		<text name="weeders">
-			<en></en>
+			<en>Weeders</en>
 			<de>Striegel</de>
 		</text>
 		<text name="mowers">
-			<en></en>
+			<en>Mowers</en>
 			<de>Mähtechnik</de>
 		</text>
 		<text name="tedders">
-			<en></en>
+			<en>Tedders</en>
 			<de>Wender</de>
 		</text>
 		<text name="windrowers">
-			<en></en>
+			<en>Windrowers</en>
 			<de>Schwader</de>
 		</text>
-		<text name="loaderWagons">
-			<en></en>
+		<text name="windrowers">
+			<en>Windrowers</en>
 			<de>Ladewagen</de>
 		</text>
 		<text name="baling">
-			<en></en>
+			<en>Baling</en>
 			<de>Ballentechnik</de>
 		</text>
 		<text name="chainsaws">
-			<en></en>
+			<en>Chainsaws</en>
 			<de>Kettensägen</de>
 		</text>
 		<text name="wood">
-			<en></en>
+			<en>Wood</en>
 			<de>Forstmaschinen</de>
 		</text>
 		<text name="animals">
-			<en></en>
+			<en>Animals</en>
 			<de>Tierhaltung</de>
 		</text>
 		<text name="animalTransport">
-			<en></en>
+			<en>AnimalTransport</en>
 			<de>Tiertransport</de>
 		</text>
 		<text name="leveler">
-			<en></en>
+			<en>Leveler</en>
 			<de>Schiebeschilder</de>
 		</text>
 		<text name="frontLoaders">
-			<en></en>
+			<en>Front Loaders</en>
 			<de>Frontlader</de>
 		</text>
 		<text name="wheelLoaders">
-			<en></en>
+			<en>Wheel Loaders</en>
 			<de>Radlader</de>
 		</text>
 		<text name="teleLoaders">
-			<en></en>
+			<en>Tele Loaders</en>
 			<de>Teleskoplader</de>
 		</text>
 		<text name="skidSteers">
-			<en></en>
+			<en>Skid Steers</en>
 			<de>Kompaktlader</de>
 		</text>
 		<text name="dollys">
-			<en></en>
+			<en>Dollys</en>
 			<de>Dollys</de>
 		</text>
 		<text name="lowloaders">
-			<en></en>
+			<en>Lowloaders</en>
 			<de>Tieflader</de>
 		</text>
 		<text name="cutterTrailers">
-			<en></en>
+			<en>Cutter Trailers</en>
 			<de>Transportanhänger Schneidwerke</de>
 		</text>
 		<text name="weights">
-			<en></en>
+			<en>Weights</en>
 			<de>Gewichte</de>
 		</text>
 		<text name="belts">
-			<en></en>
+			<en>Belts</en>
 			<de>Förderbandsystem</de>
 		</text>
 		<text name="misc">
-			<en></en>
+			<en>Misc</en>
 			<de>Diverses</de>
 		</text>
 		<text name="maestro12SWpotato">
-			<cz>Sečka Maestro 12SW bram</cz>			
+			<cz>Sečka Maestro 12SW bram</cz>	
+			<en>Maestro 12SW potato</en>		
 		</text>		
 		<text name="elmerstrailer">
-			<cz>Přívěs na lištu kombajnu</cz>			
+			<cz>Přívěs na lištu kombajnu</cz>
+			<en>Elmerstrailer</en>			
 		</text>	
 		<text name="holmerHR12potato">
-			<cz>Holmer adaptér na brambory</cz>			
+			<cz>Holmer adaptér na brambory</cz>	
+			<en>Holmer HR12 potato</en>		
 		</text>		
 		<text name="jacobsens_black">
-			<cz>Černé závaží Jacobsens</cz>			
+			<cz>Černé závaží Jacobsens</cz>	
+			<en>Jacobsens Black Weight</en>		
 		</text>	
 		<text name="Laumetris">
-			<cz>Plaťák Laumetris</cz>			
+			<cz>Plaťák Laumetris</cz>
+			<en>Laumetris</en>			
 		</text>		
 		<text name="Lexion795">
-			<cz>Monster kombajn</cz>			
+			<cz>Monster kombajn</cz>
+			<en>Lexion 795</en>			
 		</text>	
 		<text name="terraDosT4_40potato">
-			<cz>Holmer TerraDosT4 brambory/řepa</cz>			
+			<cz>Holmer TerraDosT4 brambory/řepa</cz>	
+			<en>TerraDos T4.40 potato</en>		
 		</text>	
 		<text name="Vario1350">
-			<cz>Claas Vario 1350</cz>			
+			<cz>Claas Vario 1350</cz>	
+			<en>Claas Vario 1350</en>		
 		</text>	
 		<text name="vertiMix10002">
-			<cz>Krmný vůz VertiMix</cz>			
+			<cz>Krmný vůz VertiMix</cz>
+			<en>Verti Mix 10002</en>
 		</text>
 		<text name="tempoL16potato">
-			<cz>Sečka TempoL16 bram</cz>			
+			<cz>Sečka TempoL16 bram</cz>
+			<en>Tempo L16 potato</en>	
 		</text>		
 		<text name="easyShed01">
-			<cz>Přístavek malý</cz>			
+			<sk>Easy Shed Prístrešok I</sk>
+			<cz>Přístavek malý</cz>
+			<en>Easy Shed 01</en>						
 		</text>	
 		<text name="easyShed03">
-			<cz>Přístavek velky</cz>			
+			<sk>Easy Shed Prístrešok III</sk>
+			<cz>Přístavek velky</cz>	
+			<en>Easy Shed 03</en>		
 		</text>	
 		<text name="fertilizerStation">
-			<cz>Silo na hnojivo</cz>			
+			<cz>Silo na hnojivo</cz>
+			<en>Fertilizer Station</en>		
 		</text>	
 		<text name="gasStationPump">
-			<cz>Benzínka</cz>			
+			<sk>Benzínová pumpa stojan</sk>
+			<cz>Benzínka</cz>		
+			<en>Gas Station Pump</en>				
 		</text>	
 		<text name="kaercherHDS918-4M">
-			<cz>Karcher vapka</cz>			
+			<sk>Karcher vapka</sk>
+			<cz>Karcher vapka</cz>
+			<en>High Pressure Washer</en>		
 		</text>	
 		<text name="limeStation">
-			<cz>Silo na vápno</cz>			
+			<cz>Silo na vápno</cz>
+			<en>Lime Station</en>	
 		</text>
 		<text name="seedStation">
-			<cz>Silo na osivo</cz>			
+			<cz>Silo na osivo</cz>
+			<en>Seed Station</en>			
 		</text>
 		<text name="workshop">
-			<cz>Servis</cz>			
+			<sk>Servis</sk>
+			<cz>Servis</cz>
+			<en>Service</en>
+			<de>Bedienung</de>
 		</text>	
 		<text name="LW_Bucket">
+			<sk>Veľká multifunkčná lyžica</sk>
 			<cz>Velká lžice na NH</cz>			
+			<en>LW Bucket</en>
 		</text>	
 		<text name="compositeHall6">
-			<cz>Garáž</cz>			
+			<sk>Kompozitná hala 6</sk>
+			<cz>Garáž</cz>
+			<en>Composite Hall 6</en>
 		</text>		
 	</l10n>
 </ingameShop>
