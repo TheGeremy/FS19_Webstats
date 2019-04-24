@@ -15,8 +15,9 @@
 	<item name="BunkerSilo_silo005" locationType="bunker" position="-65 0 -548" />
 	<l10n>
 		<text name="bga">
+			<cz>Bioplyn BGA</cz>
 			<cz>Bioplynka</cz>				
-			<en>bga</en>
+			<en>BGA</en>
 			<de>BGA</de>
 		</text>
 	</l10n>
