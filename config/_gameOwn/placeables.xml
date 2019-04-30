@@ -10,7 +10,7 @@
 		<text name="husbandryChickenLarge">
 			<sk>Veľký kurín</sk>			
 			<cz>Velká slepičárna</cz>		
-			<en>husbandryChickenLarge</en>
+			<en>Large Chicken Husbandry</en>
 			<de>Großer Hühnerstall</de>
 		</text>		
 		<text name="bunkerSiloSmall">
@@ -22,33 +22,41 @@
 		<text name="husbandrySheepLarge">
 			<sk>Veľký salaš</sk>				
 			<cz>Velká ovčírna</cz>				
-			<en>husbandrySheepLarge</en>
+			<en>Large Sheep Husbandry</en>
 			<de>Großer Schafweide</de>
 		</text>
 		<text name="husbandrySheep">
 			<sk>Salaš</sk>			
 			<cz>Ovčírna</cz>				
-			<en>Husbandry Sheep Large</en>
+			<en>Sheep Husbandry</en>
 			<de>Großer Schafweide</de>
 		</text>		
 		<text name="husbandryHorseLarge">
 			<sk>Veľké stajne</sk>
 			<cz>Velká konírna</cz>				
-			<en>husbandryHorseLarge</en>
+			<en>Large Horse Husbandry</en>
 			<de>Großer Pferdestall</de>
 		</text>
 		<text name="husbandryCowLarge">
 			<sk>Veľký kravín</sk>
-			<cz>Velký kravín</cz>			
+			<cz>Velký kravín</cz>
+			<en>Large Cow Husbandry</en>			
 		</text>	
 		<text name="husbandryCow">
 			<sk>Kravín</sk>
-			<cz>Kravín</cz>			
+			<cz>Kravín</cz>
+			<en>Cow Husbandry</en>			
 		</text>			
 		<text name="husbandryPigLarge">
 			<sk>Veľká ošipáreň</sk>
-			<cz>Velký prasečák</cz>			
-		</text>	
+			<cz>Velký prasečák</cz>
+			<en>Large Pig Husbandry</en>		
+		</text>
+		<text name="husbandryPig">
+			<sk>Ošipáreň</sk>
+			<cz>Prasečák</cz>
+			<en>Pig Husbandry</en>		
+		</text>			
 		<text name="farmSiloLarge">
 			<sk>Silo na farme</sk>
 			<cz>Silo na farmě</cz>			

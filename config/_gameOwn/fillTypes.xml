@@ -29,7 +29,7 @@
 		<text name="baleHay240">
 			<sk>Hranatý Balík Sena</sk>
 			<cz>Seno</cz>
-			<en>Dry grass</en>
+			<en>Dry Grass</en>
 			<de>Heu</de>
 			<fr>Foin</fr>
 		</text>
@@ -58,7 +58,7 @@
 		<text name="roundbaleHay_w112_d130">
 			<sk>Guľatý Balík Sena</sk>
 			<cz>Seno</cz>
-			<en>Dry grass</en>
+			<en>Dry Grass</en>
 			<de>Heu</de>
 			<fr>Foin</fr>
 		</text>
@@ -99,15 +99,15 @@
 		<text name="LIME">
 			<sk>Vápno</sk>
 			<cz>Vápno</cz>
-			<en>LIME</en>
+			<en>Lime</en>
 			<de>Kalk</de>
-			<fr>LIME</fr>
+			<fr>Lime</fr>
 		</text>
 		<text name="LIQUIDFERTILIZER">
 			<cz>Kapalné hnojivo</cz>
-			<en>LIQUIDFERTILIZER</en>
+			<en>Liquid Fertilizer</en>
 			<de>Flüssigdünger</de>
-			<fr>LIQUIDFERTILIZER</fr>
+			<fr>Liquid Fertilizer</fr>
 		</text>
 		<text name="fertilizerTank">
 			<cz>Tekuté hnojivo</cz>
@@ -118,15 +118,15 @@
 		<text name="HERBICIDE">
 			<sk>Herbicíd</sk>
 			<cz>Herbicid</cz>
-			<en>HERBICIDE</en>
+			<en>Herbicide</en>
 			<de>Pflanzenschutzmittel</de>
-			<fr>HERBICIDE</fr>
+			<fr>Herbicide</fr>
 		</text>
 		<text name="herbicideTank">
 			<cz>Nádrž s postřikem</cz>
-			<en>herbicideTank</en>
+			<en>Herbicide Tank</en>
 			<de>Pflanzenschutzmittel</de>
-			<fr>herbicideTank</fr>
+			<fr>Herbicide Tank</fr>
 		</text>
 		<text name="palletPoplar">
 			<cz>Paleta se sazenicemi</cz>		
@@ -170,28 +170,28 @@
 		<text name="COW_TYPE_BROWN_WHITE">
 			<sk>Krava (hnedobiela)</sk>
 			<cz>Kráva (hnedobílá)</cz>
-			<en>Cow (brown and white)</en>
+			<en>Cow (brown-white)</en>
 			<de>Kuh (Braun &amp; Weiß)</de>
 			<fr>Vache</fr>
 		</text>
 		<text name="COW_TYPE_BLACK_WHITE">
 			<sk>Krava (černobiela)</sk>
 			<cz>Kráva (černobílá)</cz>
-			<en>Cow (braun and white)</en>
+			<en>Cow (black-white)</en>
 			<de>Kuh (Schwarz &amp; Weiß)</de>
 			<fr>Vache</fr>
 		</text>
 		<text name="COW_TYPE_BLACK">
 			<sk>Krava (černa)</sk>
 			<cz>Kráva (černá)</cz>
-			<en>Cow black</en>
+			<en>Cow (black)</en>
 			<de>Kuh (Schwarz)</de>
 			<fr>Vache</fr>
 		</text>		
 		<text name="PIG_TYPE_RED">
 			<sk>Prasa (ružové)</sk>
 			<cz>Prase (růžové)</cz>
-			<en>PIG_TYPE_RED</en>
+			<en>Pig (red)</en>
 			<de>Schwein (Rosa)</de>
 			<fr>PIG_TYPE_RED</fr>
 		</text>
@@ -253,13 +253,13 @@
 		</text>		
 		<text name="HORSE_TYPE_GREY">
 			<sk>Kôň (šedý)</sk>
-			<en>HORSE_TYPE_GREY</en>
+			<en>Horse (grey)</en>
 			<de>Pferd (Schimmel)</de>
 			<cz>Kůň (šedý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BROWN_WHITE">
 			<sk>Kôň (hnedobiely)</sk>
-			<en>HORSE_TYPE_BROWN_WHITE</en>
+			<en>Horse (brown-white)</en>
 			<de>Pferd (Schecke)</de>
 			<cz>Kůň (hnědobílý)</cz>			
 		</text>
@@ -271,7 +271,7 @@
 		</text>
 		<text name="HORSE_TYPE_BROWN">
 			<sk>Kôň (hnedý)</sk>
-			<en>HORSE_TYPE_BROWN</en>
+			<en>Horse (brown)</en>
 			<de>Pferd (Fuchs)</de>
 			<cz>Kůň (hnědý)</cz>			
 		</text>
@@ -423,9 +423,9 @@
 		<text name="EGG">
 			<sk>Vajcia</sk>
 			<cz>Vejce</cz>
-			<en>Egg</en>
+			<en>Eggs</en>
 			<de>Eier</de>
-			<fr></fr>
+			<fr>Œufs</fr>
 		</text>
 		<text name="WOOL">
 			<sk>Vlna</sk>
@@ -479,7 +479,7 @@
 		<text name="DRYGRASS_WINDROW">
 			<sk>Seno</sk>
 			<cz>Seno</cz>
-			<en>dry Grass</en>
+			<en>Dry Grass</en>
 			<de>Heu</de>
 			<fr>Foin</fr>
 		</text>
@@ -550,7 +550,7 @@
 		<text name="silage_dryGrass_windrow">
 			<sk>Siláž, Seno</sk>
 			<cz>Siláž, Seno</cz>
-			<en>Silage, dry grass</en>
+			<en>Silage, Dry grass</en>
 			<de>Silage, Heu</de>
 			<fr>Ensilage, Foin</fr>
 		</text>

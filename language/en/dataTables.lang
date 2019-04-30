@@ -1,5 +1,3 @@
-
-
 {
 	"sEmptyTable":     "No data available in table",
 	"sInfo":           "Showing _START_ to _END_ of _TOTAL_ entries",
@@ -21,5 +19,23 @@
 	"oAria": {
 		"sSortAscending":  ": activate to sort column ascending",
 		"sSortDescending": ": activate to sort column descending"
+	},
+	"select": {
+    	"rows": {
+			"_": "%d selected rows",
+			"0": "",
+			"1": "1 selected link"
+	    }
+	},
+	"buttons": {
+		"print":		"Print",
+		"colvis":		"Split",
+		"copy":		"Copy",
+		"copyTitle":	"Copy to Clipboard",
+		"copyKeys":	"Key <i>ctrl</i> or <i>\u2318</i> + <i>C</i> in summary <br>Copy to Clipboard.<br><br>For cancel click on message or press Escape.",
+		"copySuccess": {
+			"_": "%d copied rows",
+			"1": "1 columns were copied"
+		}
 	}
 }
