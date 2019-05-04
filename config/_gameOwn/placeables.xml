@@ -16,7 +16,7 @@
 		<text name="bunkerSiloSmall">
 			<sk>Malá silážna jama</sk>
 			<cz>Silážní jáma na farmě</cz>		
-			<en>Bunker Silo Small</en>
+			<en>Bunker Silo - Small</en>
 			<de>Bunker-Silo klein</de>
 		</text>			
 		<text name="husbandrySheepLarge">
@@ -60,34 +60,42 @@
 		<text name="farmSiloLarge">
 			<sk>Silo na farme</sk>
 			<cz>Silo na farmě</cz>			
+			<en>Farm Silo - Large</en>
 		</text>			
 		<text name="siloExtension">
 			<sk>Silo na farme</sk>
-			<cz>Silo na farmě</cz>			
+			<cz>Silo na farmě</cz>
+			<en>Silo Extension</en>		
 		</text>		
 		<text name="hayLoft">
 			<sk>Senník na farme</sk>
 			<cz>Seník na farmě</cz>			
+			<en>Farm Hay Loft</en>		
 		</text>		
 		<text name="bunkerSiloMediumDouble">
 			<sk>Silážna jama dvojitá</sk>
 			<cz>Silážní jáma dvojitá</cz>			
+			<en>Bunker Silo - Double Medium</en>		
 		</text>	
 		<text name="bunkerSiloLarge">
 			<sk>Veľká silážna jama</sk>
-			<cz>Silážní jáma velká</cz>			
+			<cz>Silážní jáma velká</cz>
+			<en>Bunker Silo - Large</en>		
 		</text>			
 		<text name="sellingStationBales">
 			<sk>Senník</sk>
-			<cz>Seník</cz>			
+			<cz>Seník</cz>
+			<en>Bales Sale</en>		
 		</text>	
 		<text name="bga">
 			<sk>Bioplyn</sk>
-			<cz>Bioplynka</cz>			
+			<cz>Bioplynka</cz>
+			<en>BGA</en>
 		</text>	
 		<text name="sellingStationWool">
 			<sk>Výkup vlny</sk>
-			<cz>Vlnarna</cz>			
+			<cz>Vlnarna</cz>
+			<en>Wool Sale</en>
 		</text>	
 		<text name="sellingStationWoodChips">
             <de>Sägewerk</de>
@@ -98,12 +106,3 @@
 		</text>			
 	</l10n>
 </mapconfig>
-
-
-
-
-
-
-
-
-

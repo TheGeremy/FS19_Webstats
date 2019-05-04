@@ -35,4 +35,151 @@
 		<output name="woolPallet" production_factor="24" capacity="2000" fillType="woolPallet" palettArea="578.3 -25.7 594.8 -21.3" palettPlaces="16" showInStorage="false" />
 		<productivity name="grass_windrow_dryGrass_windrow" factor="90" />
 	</item>
+	<l10n>
+		<!-- Animals -->		
+		<text name="COW_TYPE_BROWN">
+			<sk>Krava (hnedá)</sk>
+			<cz>Kráva (hnedá)</cz>
+			<en>Cow (brown)</en>
+			<de>Kuh (Braun)</de>
+			<fr>Vache</fr>
+		</text>	
+		<text name="COW_TYPE_BROWN_WHITE">
+			<sk>Krava (hnedobiela)</sk>
+			<cz>Kráva (hnedobílá)</cz>
+			<en>Cow (brown-white)</en>
+			<de>Kuh (Braun &amp; Weiß)</de>
+			<fr>Vache</fr>
+		</text>
+		<text name="COW_TYPE_BLACK_WHITE">
+			<sk>Krava (černobiela)</sk>
+			<cz>Kráva (černobílá)</cz>
+			<en>Cow (black-white)</en>
+			<de>Kuh (Schwarz &amp; Weiß)</de>
+			<fr>Vache</fr>
+		</text>
+		<text name="COW_TYPE_BLACK">
+			<sk>Krava (černa)</sk>
+			<cz>Kráva (černá)</cz>
+			<en>Cow (black)</en>
+			<de>Kuh (Schwarz)</de>
+			<fr>Vache</fr>
+		</text>		
+		<text name="PIG_TYPE_RED">
+			<sk>Prasa (ružové)</sk>
+			<cz>Prase (růžové)</cz>
+			<en>Pig (red)</en>
+			<de>Schwein (Rosa)</de>
+			<fr>PIG_TYPE_RED</fr>
+		</text>
+		<text name="CHICKEN_TYPE_ROOSTER">
+			<sk>Kohút</sk>
+			<cz>Kohout</cz>
+			<en>Rooster</en>
+			<de>Hahn</de>
+			<fr>Coq</fr>
+		</text>
+		<text name="CHICKEN_TYPE_WHITE">
+			<sk>Sliepka (biela)</sk>
+			<cz>Slepice (bílá)</cz>
+			<en>Chicken</en>
+			<de>Huhn (Weiß)</de>
+			<fr>CHICKEN_TYPE_ROOSTER</fr>
+		</text>
+		<text name="CHICKEN_TYPE_BROWN">
+			<sk>Sliepka (hnedá)</sk>
+			<cz>Slepice (hnědá)</cz>
+			<en>Chicken</en>
+			<de>Huhn (Braun)</de>
+			<fr>CHICKEN_TYPE_ROOSTER</fr>
+		</text>
+		<text name="CHICKEN_TYPE_BLACK">
+			<sk>Sliepka (čierna)</sk>
+			<cz>Slepice (černá)</cz>
+			<en>Chicken</en>
+			<de>Huhn (Schwarz)</de>
+			<fr>CHICKEN_TYPE_ROOSTER</fr>
+		</text>
+		<text name="SHEEP_TYPE_BLACK_WHITE">
+			<sk>Ovca (čiernobiela)</sk>
+			<cz>Ovce (černobílá)</cz>
+			<en>Sheep</en>
+			<de>Schaf (Schwarz &amp; Weiß)</de>
+			<fr>Mouton</fr>
+		</text>
+		<text name="SHEEP_TYPE_BLACK">
+			<sk>Ovca (čierna)</sk>
+			<cz>Ovce (černá)</cz>
+			<en>Sheep</en>
+			<de>Schaf (Schwarz)</de>
+			<fr>Mouton</fr>
+		</text>		
+		<text name="SHEEP_TYPE_WHITE">
+			<sk>Ovca (biela)</sk>
+			<cz>Ovce (bílá)</cz>
+			<en>Sheep</en>
+			<de>Schaf (Schwarz &amp; Weiß)</de>
+			<fr>Mouton</fr>
+		</text>		
+		<text name="SHEEP_TYPE_BROWN">
+			<sk>Ovca (hnedá)</sk>
+			<cz>Ovce (hnědá)</cz>
+			<en>Sheep</en>
+			<de>Schaf (Schwarz &amp; Weiß)</de>
+			<fr>Mouton</fr>
+		</text>		
+		<text name="HORSE_TYPE_GREY">
+			<sk>Kôň (šedý)</sk>
+			<en>Horse (grey)</en>
+			<de>Pferd (Schimmel)</de>
+			<cz>Kůň (šedý)</cz>			
+		</text>
+		<text name="HORSE_TYPE_BROWN_WHITE">
+			<sk>Kôň (hnedobiely)</sk>
+			<en>Horse (brown-white)</en>
+			<de>Pferd (Schecke)</de>
+			<cz>Kůň (hnědobílý)</cz>			
+		</text>
+		<text name="HORSE_TYPE_BEIGE">
+			<sk>Kôň (béžový)</sk>
+			<en>Horse (beige)</en>
+			<de>Pferd (Isabell)</de>
+			<cz>Kůň (béžový)</cz>
+		</text>
+		<text name="HORSE_TYPE_BROWN">
+			<sk>Kôň (hnedý)</sk>
+			<en>Horse (brown)</en>
+			<de>Pferd (Fuchs)</de>
+			<cz>Kůň (hnědý)</cz>			
+		</text>
+		<text name="HORSE_TYPE_RED_BROWN">
+			<sk>Kôň (červenohnědý)</sk>
+			<en>Horse (red-brown)</en>
+			<de>Pferd (Brauner)</de>
+			<cz>Kůň (červenohnědý)</cz>				
+		</text>
+		<text name="HORSE_TYPE_BLACK">
+			<en>HORSE_TYPE_BLACK</en>
+			<de>Pferd (Rappe)</de>
+			<cz>Kůň (černý)</cz>				
+		</text>
+		<text name="HORSE_TYPE_DARK_BROWN">
+			<sk>Kôň (tmavohnedý)</sk>
+			<en>Horse (dark brown)</en>
+			<de>Pferd (Schwarzbrauner)</de>
+			<cz>Kůň (tmavě hnědý)</cz>			
+		</text>
+		<text name="HORSE_TYPE_BROWN_WHITE">
+			<sk>Kôň (bielo hnedý)</sk>
+			<en>Horse (white-brown)</en>
+			<de>Pferd (Schwarzbrauner)</de>
+			<cz>Kůň (bilo hnědý)</cz>	
+		</text>			
+		<text name="HORSE_TYPE_LIGHT_BROWN">
+			<sk>Kôň (bledohnedý)</sk>
+			<en>Horse (light brown)</en>
+			<de>Pferd (Falble)</de>
+			<cz>Kůň (bledě hnědý)</cz>			
+		</text>
+	</l10n>
 </mapconfig>
