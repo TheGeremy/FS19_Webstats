@@ -159,9 +159,10 @@
 			<cz>Kůň (červenohnědý)</cz>				
 		</text>
 		<text name="HORSE_TYPE_BLACK">
-			<en>HORSE_TYPE_BLACK</en>
+			<en>Horse (black)</en>
 			<de>Pferd (Rappe)</de>
 			<cz>Kůň (černý)</cz>				
+			<sk>Kôň (čierny)</sk>
 		</text>
 		<text name="HORSE_TYPE_DARK_BROWN">
 			<sk>Kôň (tmavohnedý)</sk>

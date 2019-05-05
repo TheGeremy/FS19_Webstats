@@ -17,19 +17,19 @@
 			<de>Front Loader Shovel</de>
 		</text>				
 		<text name="containerBales">
-			<sk>Bales container</sk>
-			<en>Bales container</en>
-			<de>Bales container</de>
+			<sk>IT Runner - HKM Autoload plošina</sk>
+			<en>IT Runner - HKM Autoload Plattform</en>
+			<de>IT Runner - HKM Autoload Plattform</de>
 		</text>
 		<text name="containerRolloff">
-			<sk>Container roll off</sk>
-			<en>Container roll off</en>
-			<de>Container roll offr</de>
+			<sk>IT Runner - 30K Rolloff kontajner</sk>
+			<en>IT Runner - 30K Rolloff Container</en>
+			<de>IT Runner - 30K Rolloff Container</de>
 		</text>
 		<text name="itRunner2623HD">
-			<sk>IT Runner 2623HD</sk>
-			<en>IT Runner 2623HD</en>
-			<de>IT Runner 2623HD</de>
+			<sk>IT Runner - 2623 HD</sk>
+			<en>IT Runner - 2623 HD</en>
+			<de>IT Runner - 2623 HD</de>
 		</text>
 		<text name="RB580">
 			<sk>RB580</sk>
@@ -60,6 +60,16 @@
 			<sk>Štátne dotácie</sk>
 			<en>Subsidy</en>
 			<de>Zuschuss</de>
-		</text>			
+		</text>
+		<text name="Adjustable_Weight">
+			<sk>SOB Nastaviteľné závažie</sk>
+			<en>SOB Adjustable Weight</en>
+			<de>Adjustable_Weight</de>
+		</text>		
+		<text name="containerMilk">
+			<sk>IT Runner - Cisterna na mlieko</sk>
+			<en>IT Runner - Milk Tank</en>
+			<de>IT Runner - Milk Tank</de>
+		</text>				
 	</l10n>
 </mapconfig>
