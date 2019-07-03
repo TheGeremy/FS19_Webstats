@@ -290,8 +290,12 @@
 					<td class="text-center w-50"><strong>{$money|number_format:0:",":"."} €</strong></td>
 				</tr>
 				<tr>
+					<td class="text-right w-50"><strong>##LOAN##:</strong></td>
+					<td class="text-center w-50 {if $money-$loan < 0}text-danger{else}text-success{/if}"><strong>{{$loan|number_format:0:",":"."}} €</strong></td>
+				</tr>	
+				<tr>
 					<td class="text-right w-50"><strong>##BALANCE2##:</strong></td>
-					<td class="text-center w-50 {if $money-$loan < 0}text-danger{else}text-success{/if}"><strong>{($money-$loan)|number_format:0:",":"."} € <br>(##LOAN##: {{$loan|number_format:0:",":"."}} €)</strong></td>
+					<td class="text-center w-50 {if $money-$loan < 0}text-danger{else}text-success{/if}"><strong>{($money-$loan)|number_format:0:",":"."} €</strong></td>
 				</tr>		
         </table>
 		<script>
