@@ -253,24 +253,33 @@
 			<thead>
 				<tr>
 					<th>##INCOME_EXPENDITURE##</th>
+					{if $currentDay-4 >= 1}
 					<th class="text-right">##{$weekdays[($currentDay-4)%7]}##</th>
+					{/if}
+					{if $currentDay-3 >= 1}
 					<th class="text-right">##{$weekdays[($currentDay-3)%7]}##</th>
+					{/if}
+					{if $currentDay-2 >= 1}
 					<th class="text-right">##{$weekdays[($currentDay-2)%7]}##</th>
+					{/if}
+					{if $currentDay-1 >= 1}
 					<th class="text-right">##{$weekdays[($currentDay-1)%7]}##</th>
-                    <th class="text-right">##TODAY##</th>
+					{/if}
+					<th class="text-right">##TODAY##</th>
 				</tr>
 			</thead>
+			{$days = ($currentDay >= 5) ? 4 : $currentDay-1}
 			<tbody>
 				{foreach $financeElements as $element => $category}
 				<tr>
-					<td>##{$element|strtoupper}##</td> {for $day = 4 to 0 step -1}
-					<td class="text-right w-13">{$financeHistory.$day.$element|number_format:0:",":"."}</td> {/for}
+					<td>##{$element|strtoupper}##</td> {for $day = $days to 0 step -1}
+					<td class="text-right w-13">{$financeHistory.$day.$element|number_format:2:",":"."}</td> {/for}
 				</tr>
 				{/foreach}
 			</tbody>
 			<tfoot>
 				<tr>
-					<th>##TOTAL## </th> {for $day = 4 to 0 step -1}
+					<th>##TOTAL## </th> {for $day = $days to 0 step -1}
 					<th class="text-right w-13">{$financeHistory.$day.total|number_format:0:",":"."} €</th> {/for}
 				</tr>		
 			</tfoot>
@@ -286,7 +295,7 @@
 				</tr>		
         </table>
 		<script>
-		var rows = parseInt(($( window ).height() - 250) / 36)
+		var rows = parseInt(($( window ).height() - 250) / 36);
 		$(document).ready(function() {
 		    var table = $('#finances').DataTable( {
 		        scrollY:        false,

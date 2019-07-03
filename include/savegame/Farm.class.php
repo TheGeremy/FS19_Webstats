@@ -56,7 +56,7 @@ class Farm {
 				}
 			}
 			foreach ( $farmInXML->finances->stats as $stats ) {
-				$financesDay = self::financeDayMapping ( intval ( $stats ['day'] ) );
+				$financesDay = intval ( $stats ['day'] );
 				$farm->finances [$financesDay] = array ();
 				foreach ( $stats->children () as $financeItem => $financeValue ) {
 					// $financeItem = sprintf ( "##%s##", strtoupper ( $financeItem ) );
