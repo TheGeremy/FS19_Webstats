@@ -26,17 +26,22 @@ Animals::loadStables ( $savegame::$xml );
 $stables = Animals::getStables ();
 $smarty->assign ( 'stables', $stables );
 
+// if at least one stable exists on map
 if (sizeof ( $stables ) > 0) {
-	if (isset(array_keys ( $stables ) [0])) {
-		$firstStable = array_keys ( $stables ) [0];	
-	} else {
-		$firstStable = null;
-	}
-	
-	if (isset(array_keys ( $stables [$firstStable] ['animals'] ) [0])) {
-		$firstAnimal = array_keys ( $stables [$firstStable] ['animals'] ) [0];	
-	} else {
-		$firstAnimal = null;
+	// find stable that has at least one animal
+	foreach (array_keys($stables) as $stable) {
+		foreach (array_keys ($stables [$stable] ['animals']) as $animal) {
+			//echo($key . " has value: " .$value);
+			$count = $stables [$stable] ['animals'] [$animal] ["count"];
+			if ($count >= 1) {
+				$firstStable = $stable;
+				$firstAnimal = $animal;
+				break 2;
+			} else {
+				$firstStable = null;
+				$firstAnimal = null;				
+			}
+		}
 	}
 } else {
 	$firstStable = null;

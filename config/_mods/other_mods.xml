@@ -60,6 +60,27 @@
 			<sk>Štátne dotácie</sk>
 			<en>Subsidy</en>
 			<de>Zuschuss</de>
-		</text>			
+		</text>
+		<text name="Adjustable_Weight">
+			<en>SOB Adjustable Weight</en>
+			<sk>SOB Nastaviteľné závažie</sk>			
+			<cz>SOB Nastavitelné závaží</cz>
+		</text>
+		<text name="RBM2000Pro">
+			<en>RBM 2000 Pro</en>
+			<sk>RBM 2000 Pro</sk>			
+			<cz>RBM 2000 Pro</cz>
+		</text>
+		<text name="capello Diamant HS12">
+			<en>Capello Diamant HS12</en>
+			<sk>Capello Diamant HS12</sk>			
+			<cz>Capello Diamant HS12</cz>
+		</text>
+		<text name="joskinAquaTrans7300">
+			<en>Joskin AQUATRANS 7300</en>
+			<sk>Joskin AQUATRANS 7300</sk>			
+			<cz>Joskin AQUATRANS 7300</cz>
+		</text>		
+		
 	</l10n>
 </mapconfig>

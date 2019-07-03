@@ -4,15 +4,15 @@
 		<vehicle basename="1104.xml" type="tractor" name="1104" brand="ArmaTrac" lifetime="600" category="tractorsS" wearable="480">
 			<motor id="1" name="1104" />
 		</vehicle>
-		<vehicle basename="161.xml" type="combineDrivable" name="RSM 161" brand="ROSTSELMASH" lifetime="600" category="harvesters" wearable="480">
+		<vehicle basename="161.xml" type="combineDrivable" name="RSM 161" brand="Rostselmash" lifetime="600" category="harvesters" wearable="480">
 			<motor id="1" name="RSM 161" />
 		</vehicle>
 		<vehicle basename="18500PE.xml" type="manureBarrel" name="SKE 18.5 PUD" brand="ZUNHAMMER" lifetime="600" category="slurryTanks" wearable="480" />
-		<vehicle basename="625X.xml" type="cutter" name="625 X" brand="JOHNDEERE" lifetime="600" category="cutters" wearable="480" />
-		<vehicle basename="643R.xml" type="attachableFrontloader" name="643R" brand="JOHNDEERE" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="645FD.xml" type="cutter" name="645 FD" brand="JOHNDEERE" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="625X.xml" type="cutter" name="625 X" brand="John Deere" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="643R.xml" type="attachableFrontloader" name="643R" brand="John Deere" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="645FD.xml" type="cutter" name="645 FD" brand="John Deere" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="8022.xml" type="fertilizingSowingMachine" name="TT8022 Drive-less" brand="TT" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
-		<vehicle basename="980AirCart.xml" type="fillableImplement" name="Seed Hawk 980 Air Cart" brand="VAEDERSTAD" lifetime="600" category="seeders" wearable="480" />
+		<vehicle basename="980AirCart.xml" type="fillableImplement" name="Seed Hawk 980 Air Cart" brand="Vaederstad" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="A8800MR.xml" type="combineCutterFruitPreparer" name="Austoft 8800 Multi-Row" brand="Case IH" lifetime="600" category="sugarcaneVehicles" wearable="480">
 			<motor id="1" name="Austoft 8800 MR" />
 		</vehicle>
@@ -20,11 +20,11 @@
 			<motor id="1" name="A 104" />
 			<motor id="2" name="A 114" />
 		</vehicle>
-		<vehicle basename="C232.xml" type="teleHandler" name="C232" brand="NEWHOLLAND" lifetime="600" category="skidSteerVehicles" wearable="480">
+		<vehicle basename="C232.xml" type="teleHandler" name="C232" brand="New Holland" lifetime="600" category="skidSteerVehicles" wearable="480">
 			<motor id="1" name="C232" />
 		</vehicle>
 		<vehicle basename="D8_30.xml" type="sowingMachine" name="D8 30" brand="AMAZONE" lifetime="600" category="seeders" wearable="480" />
-		<vehicle basename="F2650.xml" type="combineDrivable" name="F 2650" brand="ROSTSELMASH" lifetime="600" category="forageHarvesters" wearable="480">
+		<vehicle basename="F2650.xml" type="combineDrivable" name="F 2650" brand="Rostselmash" lifetime="600" category="forageHarvesters" wearable="480">
 			<motor id="1" name="F 2650" />
 		</vehicle>
 		<vehicle basename="FHL13AK.xml" type="forwarderTrailer" name="FHL 13 AK" brand="STEPA" lifetime="600" category="wood" wearable="480" />
@@ -40,9 +40,9 @@
 			<motor id="1" name="IDEAL 8T" />
 			<motor id="2" name="IDEAL 9T" />
 		</vehicle>
-		<vehicle basename="K165.xml" type="spreader" name="K165" brand="BREDAL" lifetime="600" category="fertilizerSpreaders" wearable="480" />
+		<vehicle basename="K165.xml" type="spreader" name="K165" brand="Bredal" lifetime="600" category="fertilizerSpreaders" wearable="480" />
 		<vehicle basename="KS950.xml" type="trailer" name="KS 950" brand="KRAMPE" lifetime="600" category="trailers" wearable="480" />
-		<vehicle basename="L218.xml" type="teleHandler" name="L218" brand="NEWHOLLAND" lifetime="600" category="skidSteerVehicles" wearable="480">
+		<vehicle basename="L218.xml" type="teleHandler" name="L218" brand="New Holland" lifetime="600" category="skidSteerVehicles" wearable="480">
 			<motor id="1" name="L218" />
 		</vehicle>
 		<vehicle basename="MC18.xml" type="teleHandler" name="MC 18-4" brand="MANITOU" lifetime="600" category="miscVehicles" wearable="480">
@@ -80,7 +80,7 @@
 			<motor id="3" name="N174" />
 		</vehicle>
 		<vehicle basename="PS3401.xml" type="manureSpreader" name="PS 3401" brand="STRAUTMANN" lifetime="600" category="manureSpreaders" wearable="480" />
-		<vehicle basename="S790.xml" type="combineDrivable" name="S790" brand="JOHNDEERE" lifetime="600" category="harvesters" wearable="480">
+		<vehicle basename="S790.xml" type="combineDrivable" name="S790" brand="John Deere" lifetime="600" category="harvesters" wearable="480">
 			<motor id="1" name="S790" />
 		</vehicle>
 		<vehicle basename="SB1000.xml" type="implement" name="SB 1000" brand="SUER" lifetime="600" category="weights" wearable="480" />
@@ -97,28 +97,28 @@
 		</vehicle>
 		<vehicle basename="ST65T.xml" type="stumpCutter" name="ST 65 T" brand="FSI" lifetime="600" category="wood" wearable="480" />
 		<vehicle basename="SWT7.xml" type="attachableCombineCutterFruitPreparer" name="SWT 7" brand="LIZARD" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
-		<vehicle basename="T5.xml" type="tractor" name="T5 Series" brand="NEWHOLLAND" lifetime="600" category="tractorsS" wearable="480">
+		<vehicle basename="T5.xml" type="tractor" name="T5 Series" brand="New Holland" lifetime="600" category="tractorsS" wearable="480">
 			<motor id="1" name="T5.100" />
 			<motor id="2" name="T5.120" />
 		</vehicle>
-		<vehicle basename="T560.xml" type="combineDrivable" name="T560" brand="JOHNDEERE" lifetime="600" category="harvesters" wearable="480">
+		<vehicle basename="T560.xml" type="combineDrivable" name="T560" brand="John Deere" lifetime="600" category="harvesters" wearable="480">
 			<motor id="1" name="T560" />
 		</vehicle>
-		<vehicle basename="T6.xml" type="tractor" name="T6 Series" brand="NEWHOLLAND" lifetime="600" category="tractorsM" wearable="480">
+		<vehicle basename="T6.xml" type="tractor" name="T6 Series" brand="New Holland" lifetime="600" category="tractorsM" wearable="480">
 			<motor id="1" name="T6.125" />
 			<motor id="2" name="T6.155" />
 			<motor id="3" name="T6.175" />
 		</vehicle>
-		<vehicle basename="T7.xml" type="tractor" name="T7 Series" brand="NEWHOLLAND" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="T7.xml" type="tractor" name="T7 Series" brand="New Holland" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="T7.290" />
 			<motor id="2" name="T7.315" />
 		</vehicle>
-		<vehicle basename="T8.xml" type="tractor" name="T8 Series" brand="NEWHOLLAND" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="T8.xml" type="tractor" name="T8 Series" brand="New Holland" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="T8.320" />
 			<motor id="2" name="T8.380" />
 			<motor id="3" name="T8.435" />
 		</vehicle>
-		<vehicle basename="T9.xml" type="tractor" name="T9 Series" brand="NEWHOLLAND" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="T9.xml" type="tractor" name="T9 Series" brand="New Holland" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="T9.480" />
 			<motor id="2" name="T9.565" />
 		</vehicle>
@@ -130,13 +130,13 @@
 			<motor id="1" name="T194" />
 			<motor id="2" name="T234" />
 		</vehicle>
-		<vehicle basename="TX32.xml" type="combineDrivable" name="TX 32" brand="NEWHOLLAND" lifetime="600" category="harvesters" wearable="480">
+		<vehicle basename="TX32.xml" type="combineDrivable" name="TX 32" brand="New Holland" lifetime="600" category="harvesters" wearable="480">
 			<motor id="1" name="TX 32" />
 		</vehicle>
-		<vehicle basename="TX32Header.xml" type="cutter" name="TX 32 Header" brand="NEWHOLLAND" lifetime="600" category="cutters" wearable="480" />
-		<vehicle basename="TX32Trailer.xml" type="dynamicMountAttacherTrailer" name="TX32 Header Trailer" brand="NEWHOLLAND" lifetime="600" category="cutterTrailers" wearable="480" />
+		<vehicle basename="TX32Header.xml" type="cutter" name="TX 32 Header" brand="New Holland" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="TX32Trailer.xml" type="dynamicMountAttacherTrailer" name="TX32 Header Trailer" brand="New Holland" lifetime="600" category="cutterTrailers" wearable="480" />
 		<vehicle basename="TX560D.xml" type="trailer" name="TX 560 D" brand="KRONE" lifetime="600" category="trailers" wearable="480" />
-		<vehicle basename="W190D.xml" type="tractor" name="W190D" brand="NEWHOLLAND" lifetime="600" category="wheelLoaderVehicles" wearable="480">
+		<vehicle basename="W190D.xml" type="tractor" name="W190D" brand="New Holland" lifetime="600" category="wheelLoaderVehicles" wearable="480">
 			<motor id="1" name="W190D" />
 		</vehicle>
 		<vehicle basename="activa7347.xml" type="combineDrivable" name="MF Activa 7347 S" brand="MASSEYFERGUSON" lifetime="600" category="harvesters" wearable="480">
@@ -177,7 +177,7 @@
 		<vehicle basename="canaTrans600.xml" type="tippingAugerWagon" name="Cana Trans 600" brand="LIZARD" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
 		<vehicle basename="canavieiro.xml" type="tippingAugerWagon" name="$l10n_shopItem_sugarcaneTrailer" brand="RANDON" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
 		<vehicle basename="canavieiroSemi.xml" type="tippingAugerWagon" name="$l10n_shopItem_sugarcaneSemitrailer" brand="RANDON" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
-		<vehicle basename="carrierXL825.xml" type="cultivator" name="Carrier XL 825" brand="VAEDERSTAD" lifetime="600" category="discHarrows" wearable="480" />
+		<vehicle basename="carrierXL825.xml" type="cultivator" name="Carrier XL 825" brand="Vaederstad" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="catros6002.xml" type="cultivator" name="Catros 6002-2" brand="AMAZONE" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="cenius80032TXSuper.xml" type="cultivator" name="Cenius 8003-2TX Super" brand="AMAZONE" lifetime="600" category="cultivators" wearable="480" />
 		<vehicle basename="ceresMaster3570.xml" type="fertilizingSowingMachine" name="Ceres Master 3570" brand="STARA" lifetime="600" category="seeders" wearable="480" />
@@ -185,24 +185,24 @@
 		<vehicle basename="collect900_3.xml" type="cutter" name="X-Collect 900-3" brand="KRONE" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="colosus10000.xml" type="tippingAugerWagon" name="Colossus 10.000" brand="TT" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
 		<vehicle basename="condor15001.xml" type="fertilizingSowingMachine" name="Condor 15001" brand="AMAZONE" lifetime="600" category="seeders" wearable="480" />
-		<vehicle basename="cr1090.xml" type="combineDrivable" name="CR10.90" brand="NEWHOLLAND" lifetime="600" category="harvesters" wearable="480">
+		<vehicle basename="cr1090.xml" type="combineDrivable" name="CR10.90" brand="New Holland" lifetime="600" category="harvesters" wearable="480">
 			<motor id="1" name="CR10.90" />
 		</vehicle>
 		<vehicle basename="crane.xml" type="crane" name="Crane" brand="LIZARD" lifetime="0" category="misc" wearable="" />
 		<vehicle basename="cruiser12XL.xml" type="cultivator" name="Cruiser 12 XL" brand="HORSCH" lifetime="600" category="cultivators" wearable="480" />
 		<vehicle basename="damconPL75.xml" type="treePlanter" name="PL-75" brand="Damcon" lifetime="600" category="wood" wearable="480" />
-		<vehicle basename="de250.xml" type="strawBlower" name="DE250 SSL" brand="WARZEE" lifetime="600" category="skidSteers" wearable="480" />
-		<vehicle basename="de250_skidSteer.xml" type="" name="DE250 SSL" brand="WARZEE" lifetime="" category="animals" wearable="" />
-		<vehicle basename="de551.xml" type="strawBlower" name="DE551 FL" brand="WARZEE" lifetime="600" category="teleLoaders" wearable="480" />
-		<vehicle basename="de551_frontloader.xml" type="" name="DE551 FL" brand="WARZEE" lifetime="" category="animals" wearable="" />
-		<vehicle basename="de551_telehandler.xml" type="" name="DE551 TL" brand="WARZEE" lifetime="" category="animals" wearable="" />
-		<vehicle basename="diamantHS12.xml" type="cutter" name="Diamant HS12" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="de250.xml" type="strawBlower" name="DE250 SSL" brand="Warzee" lifetime="600" category="skidSteers" wearable="480" />
+		<vehicle basename="de250_skidSteer.xml" type="" name="DE250 SSL" brand="Warzee" lifetime="" category="animals" wearable="" />
+		<vehicle basename="de551.xml" type="strawBlower" name="DE551 FL" brand="Warzee" lifetime="600" category="teleLoaders" wearable="480" />
+		<vehicle basename="de551_frontloader.xml" type="" name="DE551 FL" brand="Warzee" lifetime="" category="animals" wearable="" />
+		<vehicle basename="de551_telehandler.xml" type="" name="DE551 TL" brand="Warzee" lifetime="" category="animals" wearable="" />
+		<vehicle basename="diamantHS12.xml" type="cutter" name="Diamant HS12" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="diamantHS8.xml" type="cutter" name="Diamant HS8" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="distinction.xml" type="trailer" name="Distinction" brand="LODEKING" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="doblettBigTT.xml" type="cultivator" name="Big TT" brand="TT" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="doblettMulticultivator.xml" type="fertilizingCultivator" name="Multicultivator 5-in-1" brand="TT" lifetime="600" category="subsoilers" wearable="480" />
 		<vehicle basename="dolly10L.xml" type="dolly" name="Dolly 10 L" brand="KRAMPE" lifetime="600" category="dollys" wearable="480" />
-		<vehicle basename="drakkar8600.xml" type="trailer" name="DRAKKAR 8600" brand="JOSKIN" lifetime="600" category="trailers" wearable="480" />
+		<vehicle basename="drakkar8600.xml" type="trailer" name="DRAKKAR 8600" brand="Joskin" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="draper3162.xml" type="cutter" name="3162 TerraFlex Draper 45FT" brand="Case IH" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="dynaFlex9255.xml" type="cutter" name="DynaFlex 9255" brand="AGCO" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="estrela32.xml" type="fertilizingSowingMachine" name="Estrela 32" brand="STARA" lifetime="600" category="seeders" wearable="480" />
@@ -212,27 +212,27 @@
 		<vehicle basename="fastrac8330.xml" type="tractorCrabSteering" name="Fastrac 8330" brand="JCB" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="Fastrac 8330" />
 		</vehicle>
-		<vehicle basename="favorit500.xml" type="tractor" name="500 Favorit" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+		<vehicle basename="favorit500.xml" type="tractor" name="500 Favorit" brand="Fendt" lifetime="600" category="tractorsS" wearable="480">
 			<motor id="1" name="Favorit 511c" />
 			<motor id="2" name="Favorit 515c" />
 		</vehicle>
-		<vehicle basename="fb130.xml" type="cutter" name="130FB" brand="NEWHOLLAND" lifetime="600" category="forageHarvesterCutters" wearable="480" />
-		<vehicle basename="fdr600.xml" type="cutter" name="600FDR" brand="NEWHOLLAND" lifetime="600" category="forageHarvesterCutters" wearable="480" />
-		<vehicle basename="fendt300.xml" type="tractor" name="300 Vario" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+		<vehicle basename="fb130.xml" type="cutter" name="130FB" brand="New Holland" lifetime="600" category="forageHarvesterCutters" wearable="480" />
+		<vehicle basename="fdr600.xml" type="cutter" name="600FDR" brand="New Holland" lifetime="600" category="forageHarvesterCutters" wearable="480" />
+		<vehicle basename="fendt300.xml" type="tractor" name="300 Vario" brand="Fendt" lifetime="600" category="tractorsS" wearable="480">
 			<motor id="1" name="310 Vario" />
 			<motor id="2" name="313 Vario" />
 		</vehicle>
-		<vehicle basename="fendt700.xml" type="tractor" name="700 Vario" brand="FENDT" lifetime="600" category="tractorsM" wearable="480">
+		<vehicle basename="fendt700.xml" type="tractor" name="700 Vario" brand="Fendt" lifetime="600" category="tractorsM" wearable="480">
 			<motor id="1" name="716 Vario" />
 			<motor id="2" name="720 Vario" />
 			<motor id="3" name="724 Vario" />
 		</vehicle>
-		<vehicle basename="fendt900.xml" type="tractorReverseDriving" name="900 Vario" brand="FENDT" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="fendt900.xml" type="tractorReverseDriving" name="900 Vario" brand="Fendt" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="930 Vario" />
 			<motor id="2" name="936 Vario" />
 			<motor id="3" name="939 Vario" />
 		</vehicle>
-		<vehicle basename="fh2200.xml" type="fillableImplement" name="FH 2200" brand="VAEDERSTAD" lifetime="600" category="planters" wearable="480" />
+		<vehicle basename="fh2200.xml" type="fillableImplement" name="FH 2200" brand="Vaederstad" lifetime="600" category="planters" wearable="480" />
 		<vehicle basename="fiat1300dt.xml" type="tractor" name="1300 DT" brand="FIAT" lifetime="600" category="tractorsS" wearable="480">
 			<motor id="1" name="1300DT" />
 		</vehicle>
@@ -258,9 +258,9 @@
 			<motor id="1" name="TC 80-16" />
 		</vehicle>
 		<vehicle basename="haulMaster.xml" type="augerWagon" name="HaulMaster" brand="ELMERSMFG" lifetime="600" category="augerWagons" wearable="480" />
-		<vehicle basename="header608C.xml" type="cutter" name="608C" brand="JOHNDEERE" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="header618C.xml" type="cutter" name="618C" brand="JOHNDEERE" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="header980CF12.xml" type="cutter" name="980CF 12R" brand="NEWHOLLAND" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="header608C.xml" type="cutter" name="608C" brand="John Deere" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="header618C.xml" type="cutter" name="618C" brand="John Deere" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="header980CF12.xml" type="cutter" name="980CF 12R" brand="New Holland" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="helianthus12000.xml" type="cutter" name="Helianthus 12000" brand="capello" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="helianthus5700.xml" type="cutter" name="Helianthus 5700" brand="capello" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="heliodor12S.xml" type="cultivator" name="Gigant 12 S 1600" brand="LEMKEN" lifetime="600" category="discHarrows" wearable="480" />
@@ -276,35 +276,35 @@
 			<motor id="1" name="BA 725 D" />
 		</vehicle>
 		<vehicle basename="joker12RT.xml" type="cultivator" name="Joker 12 RT" brand="HORSCH" lifetime="600" category="discHarrows" wearable="480" />
-		<vehicle basename="joskinAquaTrans7300.xml" type="waterTrailer" name="AQUATRANS 7300 S" brand="JOSKIN" lifetime="600" category="animals" wearable="480" />
-		<vehicle basename="joskinBetimaxRDS7500.xml" type="livestockTrailer" name="BETIMAX RDS 7500" brand="JOSKIN" lifetime="600" category="animalTransport" wearable="480" />
-		<vehicle basename="k105.xml" type="spreader" name="K105" brand="BREDAL" lifetime="600" category="fertilizerSpreaders" wearable="480" />
+		<vehicle basename="JoskinAquaTrans7300.xml" type="waterTrailer" name="AQUATRANS 7300 S" brand="Joskin" lifetime="600" category="animals" wearable="480" />
+		<vehicle basename="JoskinBetimaxRDS7500.xml" type="livestockTrailer" name="BETIMAX RDS 7500" brand="Joskin" lifetime="600" category="animalTransport" wearable="480" />
+		<vehicle basename="k105.xml" type="spreader" name="K105" brand="Bredal" lifetime="600" category="fertilizerSpreaders" wearable="480" />
 		<vehicle basename="keiler2.xml" type="attachableCombineCutterFruitPreparer" name="Keiler 2" brand="ROPA" lifetime="600" category="potatoHarvesting" wearable="480" />
 		<vehicle basename="kroneEasyFlow300S.xml" type="cutter" name="EasyFlow 300 S" brand="KRONE" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="kroneTrailer.xml" type="dynamicMountAttacherTrailer" name="Trailer" brand="KRONE" lifetime="600" category="cutterTrailers" wearable="480" />
 		<vehicle basename="kroneXDisc620.xml" type="cutter" name="XDisc 620" brand="KRONE" lifetime="600" category="forageHarvesterCutters" wearable="480" />
-		<vehicle basename="kuhnAxis402.xml" type="spreader" name="AXIS 40.2 M-EMC-W" brand="KUHN" lifetime="600" category="fertilizerSpreaders" wearable="480" />
-		<vehicle basename="kuhnBTF4000.xml" type="sowingMachine" name="BTF 4000" brand="KUHN" lifetime="600" category="seeders" wearable="480" />
-		<vehicle basename="kuhnCultimerL300.xml" type="cultivator" name="CULTIMER L 300" brand="KUHN" lifetime="600" category="cultivators" wearable="480" />
-		<vehicle basename="kuhnDC401.xml" type="cultivator" name="DC 401" brand="KUHN" lifetime="600" category="subsoilers" wearable="480" />
-		<vehicle basename="kuhnDeltis1302.xml" type="sprayer" name="DELTIS 1302 MTA3" brand="KUHN" lifetime="600" category="sprayers" wearable="480" />
-		<vehicle basename="kuhnDiscolanderXM.xml" type="cultivatingSowingMachine" name="DISCOLANDER XM 52" brand="KUHN" lifetime="600" category="discHarrows" wearable="480" />
-		<vehicle basename="kuhnFBP3135.xml" type="balerWrapper" name="FBP 3135" brand="KUHN" lifetime="600" category="baling" wearable="480" />
-		<vehicle basename="kuhnGA9531.xml" type="windrower" name="GA 9531" brand="KUHN" lifetime="600" category="windrowers" wearable="480" />
-		<vehicle basename="kuhnGF8702.xml" type="tedder" name="GF 8712" brand="KUHN" lifetime="600" category="tedders" wearable="480" />
-		<vehicle basename="kuhnGMD4411.xml" type="mower" name="GMD 4411" brand="KUHN" lifetime="600" category="mowers" wearable="480" />
-		<vehicle basename="kuhnHR4004.xml" type="turnOnCultivator" name="HR 4004" brand="KUHN" lifetime="600" category="powerHarrows" wearable="480" />
-		<vehicle basename="kuhnLSB1290D.xml" type="baler" name="LSB 1290 D" brand="KUHN" lifetime="600" category="baling" wearable="480" />
-		<vehicle basename="kuhnMergeMaxx902.xml" type="windrower" name="MERGE MAXX 902" brand="KUHN" lifetime="600" category="windrowers" wearable="480" />
-		<vehicle basename="kuhnMetris4102.xml" type="sprayer" name="METRIS 4102" brand="KUHN" lifetime="600" category="sprayers" wearable="480" />
-		<vehicle basename="kuhnPF1500.xml" type="fillableImplement" name="PF 1500" brand="KUHN" lifetime="600" category="sprayers" wearable="480" />
-		<vehicle basename="kuhnPerformer4000.xml" type="cultivator" name="PERFORMER 4000" brand="KUHN" lifetime="600" category="discHarrows" wearable="480" />
-		<vehicle basename="kuhnPrimor15070.xml" type="strawBlower" name="PRIMOR 15070" brand="KUHN" lifetime="600" category="animals" wearable="480" />
-		<vehicle basename="kuhnRA142.xml" type="mixerWagon" name="Knight RA 142" brand="KUHN" lifetime="600" category="animals" wearable="480" />
-		<vehicle basename="kuhnSLC141.xml" type="manureSpreader" name="SLC 141" brand="KUHN" lifetime="600" category="manureSpreaders" wearable="480" />
-		<vehicle basename="kuhnSR314.xml" type="windrowerUnpowered" name="SR 314" brand="KUHN" lifetime="600" category="windrowers" wearable="480" />
-		<vehicle basename="kuhnSW4014.xml" type="baleWrapper" name="SW 4014" brand="KUHN" lifetime="600" category="baling" wearable="480" />
-		<vehicle basename="kuhnTF1500.xml" type="fillableImplement" name="TF 1512" brand="KUHN" lifetime="600" category="seeders" wearable="480" />
+		<vehicle basename="kuhnAxis402.xml" type="spreader" name="AXIS 40.2 M-EMC-W" brand="Kuhn" lifetime="600" category="fertilizerSpreaders" wearable="480" />
+		<vehicle basename="kuhnBTF4000.xml" type="sowingMachine" name="BTF 4000" brand="Kuhn" lifetime="600" category="seeders" wearable="480" />
+		<vehicle basename="kuhnCultimerL300.xml" type="cultivator" name="CULTIMER L 300" brand="Kuhn" lifetime="600" category="cultivators" wearable="480" />
+		<vehicle basename="kuhnDC401.xml" type="cultivator" name="DC 401" brand="Kuhn" lifetime="600" category="subsoilers" wearable="480" />
+		<vehicle basename="kuhnDeltis1302.xml" type="sprayer" name="DELTIS 1302 MTA3" brand="Kuhn" lifetime="600" category="sprayers" wearable="480" />
+		<vehicle basename="kuhnDiscolanderXM.xml" type="cultivatingSowingMachine" name="DISCOLANDER XM 52" brand="Kuhn" lifetime="600" category="discHarrows" wearable="480" />
+		<vehicle basename="kuhnFBP3135.xml" type="balerWrapper" name="FBP 3135" brand="Kuhn" lifetime="600" category="baling" wearable="480" />
+		<vehicle basename="kuhnGA9531.xml" type="windrower" name="GA 9531" brand="Kuhn" lifetime="600" category="windrowers" wearable="480" />
+		<vehicle basename="kuhnGF8702.xml" type="tedder" name="GF 8712" brand="Kuhn" lifetime="600" category="tedders" wearable="480" />
+		<vehicle basename="kuhnGMD4411.xml" type="mower" name="GMD 4411" brand="Kuhn" lifetime="600" category="mowers" wearable="480" />
+		<vehicle basename="kuhnHR4004.xml" type="turnOnCultivator" name="HR 4004" brand="Kuhn" lifetime="600" category="powerHarrows" wearable="480" />
+		<vehicle basename="kuhnLSB1290D.xml" type="baler" name="LSB 1290 D" brand="Kuhn" lifetime="600" category="baling" wearable="480" />
+		<vehicle basename="kuhnMergeMaxx902.xml" type="windrower" name="MERGE MAXX 902" brand="Kuhn" lifetime="600" category="windrowers" wearable="480" />
+		<vehicle basename="kuhnMetris4102.xml" type="sprayer" name="METRIS 4102" brand="Kuhn" lifetime="600" category="sprayers" wearable="480" />
+		<vehicle basename="kuhnPF1500.xml" type="fillableImplement" name="PF 1500" brand="Kuhn" lifetime="600" category="sprayers" wearable="480" />
+		<vehicle basename="kuhnPerformer4000.xml" type="cultivator" name="PERFORMER 4000" brand="Kuhn" lifetime="600" category="discHarrows" wearable="480" />
+		<vehicle basename="kuhnPrimor15070.xml" type="strawBlower" name="PRIMOR 15070" brand="Kuhn" lifetime="600" category="animals" wearable="480" />
+		<vehicle basename="kuhnRA142.xml" type="mixerWagon" name="Knight RA 142" brand="Kuhn" lifetime="600" category="animals" wearable="480" />
+		<vehicle basename="kuhnSLC141.xml" type="manureSpreader" name="SLC 141" brand="Kuhn" lifetime="600" category="manureSpreaders" wearable="480" />
+		<vehicle basename="kuhnSR314.xml" type="windrowerUnpowered" name="SR 314" brand="Kuhn" lifetime="600" category="windrowers" wearable="480" />
+		<vehicle basename="kuhnSW4014.xml" type="baleWrapper" name="SW 4014" brand="Kuhn" lifetime="600" category="baling" wearable="480" />
+		<vehicle basename="kuhnTF1500.xml" type="fillableImplement" name="TF 1512" brand="Kuhn" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="leguan.xml" type="dynamicMountAttacherTrailer" name="LEGUAN 24" brand="THUERINGERAGRAR" lifetime="600" category="cutterTrailers" wearable="480" />
 		<vehicle basename="leguan40.xml" type="dynamicMountAttacherTrailer" name="LEGUAN quattro 40" brand="THUERINGERAGRAR" lifetime="600" category="cutterTrailers" wearable="480" />
 		<vehicle basename="lemkenAzurit9.xml" type="fertilizingSowingMachine" name="Azurit 9" brand="LEMKEN" lifetime="600" category="planters" wearable="480" />
@@ -342,8 +342,8 @@
 			<motor id="4" name="Maxxum CVX 145" />
 		</vehicle>
 		<vehicle basename="meadowRollerVario.xml" type="roller" name="Meadow Roller Vario" brand="DUEVELSDORF" lifetime="600" category="misc" wearable="480" />
-		<vehicle basename="mega2200.xml" type="sprayer" name="Mega 2200" brand="HARDI" lifetime="600" category="sprayers" wearable="480" />
-		<vehicle basename="mex5.xml" type="attachableCombine" name="MEX 5" brand="POETTINGER" lifetime="600" category="forageHarvesterCutters" wearable="480" />
+		<vehicle basename="mega2200.xml" type="sprayer" name="Mega 2200" brand="Hardi" lifetime="600" category="sprayers" wearable="480" />
+		<vehicle basename="mex5.xml" type="attachableCombine" name="MEX 5" brand="Poettinger" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="mf3012.xml" type="shovel" name="MF 3012" brand="MASSEYFERGUSON" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
 		<vehicle basename="mke300.xml" type="turnOnCultivator" name="MKE 300" brand="RABE" lifetime="600" category="powerHarrows" wearable="480" />
 		<vehicle basename="mks32.xml" type="waterTrailer" name="MKS 32" brand="LIZARD" lifetime="600" category="animals" wearable="480" />
@@ -353,8 +353,8 @@
 			<motor id="1" name="Module Express 635" />
 		</vehicle>
 		<vehicle basename="moduleX.xml" type="baleLoader" name="Module X" brand="LIZARD" lifetime="600" category="cottonHarvesting" wearable="480" />
-		<vehicle basename="modulo.xml" type="manureBarrel" name="MODULO2" brand="JOSKIN" lifetime="600" category="slurryTanks" wearable="480" />
-		<vehicle basename="mt1100.xml" type="tractor" name="1100 MT" brand="FENDT" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="modulo.xml" type="manureBarrel" name="MODULO2" brand="Joskin" lifetime="600" category="slurryTanks" wearable="480" />
+		<vehicle basename="mt1100.xml" type="tractor" name="1100 MT" brand="Fendt" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="1149 MT" />
 			<motor id="2" name="1154 MT" />
 			<motor id="3" name="1159 MT" />
@@ -370,7 +370,7 @@
 			<motor id="2" name="MT865E" />
 			<motor id="3" name="MT875E" />
 		</vehicle>
-		<vehicle basename="mt900.xml" type="tractor" name="900 Vario MT" brand="FENDT" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="mt900.xml" type="tractor" name="900 Vario MT" brand="Fendt" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="938 MT" />
 			<motor id="2" name="940 MT" />
 			<motor id="3" name="943 MT" />
@@ -380,16 +380,16 @@
 			<motor id="2" name="MT965E" />
 			<motor id="3" name="MT975E" />
 		</vehicle>
-		<vehicle basename="navigator6000.xml" type="sprayer" name="Navigator 6000" brand="HARDI" lifetime="600" category="sprayers" wearable="480" />
+		<vehicle basename="navigator6000.xml" type="sprayer" name="Navigator 6000" brand="Hardi" lifetime="600" category="sprayers" wearable="480" />
 		<vehicle basename="nawaRoMaus.xml" type="loaderVehicle" name="NawaRo-Maus" brand="ROPA" lifetime="600" category="miscVehicles" wearable="480">
 			<motor id="1" name="NawaRo-Maus" />
 		</vehicle>
-		<vehicle basename="newHollandDiscbine313.xml" type="mower" name="Discbine 313" brand="NEWHOLLAND" lifetime="600" category="mowers" wearable="480" />
-		<vehicle basename="newHollandFR780.xml" type="combineDrivable" name="FR 780" brand="NEWHOLLAND" lifetime="600" category="forageHarvesters" wearable="480">
+		<vehicle basename="newHollandDiscbine313.xml" type="mower" name="Discbine 313" brand="New Holland" lifetime="600" category="mowers" wearable="480" />
+		<vehicle basename="newHollandFR780.xml" type="combineDrivable" name="FR 780" brand="New Holland" lifetime="600" category="forageHarvesters" wearable="480">
 			<motor id="1" name="FR 780" />
 		</vehicle>
 		<vehicle basename="ninja19000.xml" type="augerWagon" name="Ninja 19000" brand="STARA" lifetime="600" category="augerWagons" wearable="480" />
-		<vehicle basename="nova330.xml" type="combineDrivable" name="Nova 330" brand="ROSTSELMASH" lifetime="600" category="harvesters" wearable="480">
+		<vehicle basename="nova330.xml" type="combineDrivable" name="Nova 330" brand="Rostselmash" lifetime="600" category="harvesters" wearable="480">
 			<motor id="1" name="330" />
 		</vehicle>
 		<vehicle basename="optimaV.xml" type="fertilizingSowingMachine" name="Optima V" brand="KVERNELAND" lifetime="600" category="planters" wearable="480" />
@@ -405,9 +405,9 @@
 		<vehicle basename="pgII20.xml" type="manureBarrel" name="PG II 20" brand="SAMSONAGRO" lifetime="600" category="slurryTanks" wearable="480" />
 		<vehicle basename="pgII25m.xml" type="manureBarrel" name="PG II 25" brand="SAMSONAGRO" lifetime="600" category="slurryTanks" wearable="480" />
 		<vehicle basename="pgII35m.xml" type="manureBarrel" name="PG II 35" brand="SAMSONAGRO" lifetime="600" category="slurryTanks" wearable="480" />
-		<vehicle basename="pickUp1150.xml" type="implement" name="PickUp 1150" brand="JOHNDEERE" lifetime="600" category="weights" wearable="480" />
-		<vehicle basename="pickUp1800.xml" type="implement" name="PickUp 1800" brand="JOHNDEERE" lifetime="600" category="weights" wearable="480" />
-		<vehicle basename="pickUp900.xml" type="implement" name="PickUp 900" brand="JOHNDEERE" lifetime="600" category="weights" wearable="480" />
+		<vehicle basename="pickUp1150.xml" type="implement" name="PickUp 1150" brand="John Deere" lifetime="600" category="weights" wearable="480" />
+		<vehicle basename="pickUp1800.xml" type="implement" name="PickUp 1800" brand="John Deere" lifetime="600" category="weights" wearable="480" />
+		<vehicle basename="pickUp900.xml" type="implement" name="PickUp 900" brand="John Deere" lifetime="600" category="weights" wearable="480" />
 		<vehicle basename="pickup1978.xml" type="carFillable" name="Pickup 1978" brand="LIZARD" lifetime="600" category="cars" wearable="480">
 			<motor id="1" name="Pickup 1978" />
 		</vehicle>
@@ -417,17 +417,17 @@
 		<vehicle basename="plus360.xml" type="cutter" name="360 Plus" brand="KEMPER" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="plus390.xml" type="cutter" name="390 Plus" brand="KEMPER" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="pneumaticstar900.xml" type="weederSowingmachine" name="Pneumaticstar 900" brand="EINBOECK" lifetime="600" category="weeders" wearable="480" />
-		<vehicle basename="poettingerHit1214T.xml" type="tedder" name="HIT 12.14 T" brand="POETTINGER" lifetime="600" category="tedders" wearable="480" />
-		<vehicle basename="poettingerNovaCat301.xml" type="mower" name="NOVACAT 301 ED" brand="POETTINGER" lifetime="600" category="mowers" wearable="480" />
-		<vehicle basename="poettingerNovaCatX8.xml" type="mower" name="NOVACAT X8 ED" brand="POETTINGER" lifetime="600" category="mowers" wearable="480" />
-		<vehicle basename="poettingerTop462.xml" type="windrower" name="TOP 462" brand="POETTINGER" lifetime="600" category="windrowers" wearable="480" />
+		<vehicle basename="poettingerHit1214T.xml" type="tedder" name="HIT 12.14 T" brand="Poettinger" lifetime="600" category="tedders" wearable="480" />
+		<vehicle basename="poettingerNovaCat301.xml" type="mower" name="Novacat 301 ED" brand="Poettinger" lifetime="600" category="mowers" wearable="480" />
+		<vehicle basename="poettingerNovaCatX8.xml" type="mower" name="NOVACAT X8 ED" brand="Poettinger" lifetime="600" category="mowers" wearable="480" />
+		<vehicle basename="poettingerTop462.xml" type="windrower" name="TOP 462" brand="Poettinger" lifetime="600" category="windrowers" wearable="480" />
 		<vehicle basename="polymag300.xml" type="cultivator" name="Polymag 300" brand="RAU" lifetime="600" category="cultivators" wearable="480" />
 		<vehicle basename="ponsseScorpion.xml" type="woodHarvester" name="ScorpionKing" brand="PONSSE" lifetime="600" category="woodHarvesting" wearable="480">
 			<motor id="1" name="ScorpionKing" />
 		</vehicle>
 		<vehicle basename="powerFlow.xml" type="cutter" name="PowerFlow" brand="AGCO" lifetime="600" category="cutters" wearable="480" />
-		<vehicle basename="powerStream500.xml" type="cutter" name="PowerStream500" brand="ROSTSELMASH" lifetime="600" category="cutters" wearable="480" />
-		<vehicle basename="pp273.xml" type="cutter" name="300FP" brand="NEWHOLLAND" lifetime="600" category="forageHarvesterCutters" wearable="480" />
+		<vehicle basename="powerStream500.xml" type="cutter" name="PowerStream500" brand="Rostselmash" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="pp273.xml" type="cutter" name="300FP" brand="New Holland" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="premiumIntegral30000.xml" type="manureBarrel" name="Premium Integral II" brand="VEENHUIS" lifetime="600" category="slurryTanks" wearable="480" />
 		<vehicle basename="profiCVT.xml" type="tractor" name="Profi CVT" brand="STEYR" lifetime="600" category="tractorsM" wearable="480">
 			<motor id="1" name="Profi CVT 4115" />
@@ -447,19 +447,19 @@
 		<vehicle basename="qualidisc.xml" type="cultivator" name="Qualidisc Farmer 3000" brand="KVERNELAND" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="quasarF4.xml" type="cutter" name="Quasar F4" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="quasarHS16.xml" type="cutter" name="Quasar HS16" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="rapid600s.xml" type="sowingMachine" name="Rapid A 600S" brand="VAEDERSTAD" lifetime="600" category="seeders" wearable="480" />
+		<vehicle basename="rapid600s.xml" type="sowingMachine" name="Rapid A 600S" brand="Vaederstad" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="rapide580V.xml" type="forageWagon" name="Rapide 580V" brand="SCHUITEMAKER" lifetime="600" category="loaderWagons" wearable="480" />
 		<vehicle basename="rapide8400W.xml" type="forageWagon" name="Rapide 8400W" brand="SCHUITEMAKER" lifetime="600" category="loaderWagons" wearable="480" />
 		<vehicle basename="repex34S.xml" type="forageWagon" name="REPEX 34S" brand="BERGMANN" lifetime="600" category="loaderWagons" wearable="480" />
-		<vehicle basename="rollBelt150.xml" type="baler" name="Roll-Belt 150" brand="NEWHOLLAND" lifetime="600" category="baling" wearable="480" />
+		<vehicle basename="rollBelt150.xml" type="baler" name="Roll-Belt 150" brand="New Holland" lifetime="600" category="baling" wearable="480" />
 		<vehicle basename="rootster604.xml" type="attachableCombine" name="ROOTSTER 604" brand="GRIMME" lifetime="600" category="beetHarvesting" wearable="480" />
 		<vehicle basename="rotation1200.xml" type="weeder" name="Aerostar-Rotation 1200" brand="EINBOECK" lifetime="600" category="weeders" wearable="480" />
 		<vehicle basename="rr6x45.xml" type="cutterFruitPreparer" name="RR 6x45" brand="ROPA" lifetime="600" category="beetHarvesting" wearable="480" />
 		<vehicle basename="rrXL9.xml" type="cutterFruitPreparer" name="RR-XL 9x45" brand="ROPA" lifetime="600" category="beetHarvesting" wearable="480" />
 		<vehicle basename="rrXLTrailer.xml" type="dynamicMountAttacherTrailer" name="Transport RR-XL 9x45" brand="ROPA" lifetime="600" category="cutterTrailers" wearable="480" />
-		<vehicle basename="rsmDS900.xml" type="cutter" name="Draper Stream 900" brand="ROSTSELMASH" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="rsmDS900.xml" type="cutter" name="Draper Stream 900" brand="Rostselmash" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="rt3000.xml" type="treeSaw" name="RT3000" brand="DFM" lifetime="600" category="skidSteers" wearable="480" />
-		<vehicle basename="rubicon9000.xml" type="selfPropelledSprayer" name="Rubicon 9000" brand="HARDI" lifetime="600" category="sprayerVehicles" wearable="480">
+		<vehicle basename="rubicon9000.xml" type="selfPropelledSprayer" name="Rubicon 9000" brand="Hardi" lifetime="600" category="sprayerVehicles" wearable="480">
 			<motor id="1" name="Rubicon 9000" />
 		</vehicle>
 		<vehicle basename="salford4204.xml" type="plow" name="4204" brand="SALFORD" lifetime="600" category="plows" wearable="480" />
@@ -467,29 +467,29 @@
 		<vehicle basename="sbh4_36.xml" type="sprayer" name="SBH4 36" brand="SAMSONAGRO" lifetime="600" category="slurryTanks" wearable="480" />
 		<vehicle basename="sd700.xml" type="fertilizingCultivator" name="SD 700" brand="SAMSONAGRO" lifetime="600" category="slurryTanks" wearable="480" />
 		<vehicle basename="seedRunner3755xl.xml" type="augerWagon" name="Seed Runner 3755 XL" brand="UNVERFERTH" lifetime="600" category="augerWagons" wearable="480" />
-		<vehicle basename="series6M.xml" type="tractor" name="6M Series" brand="JOHNDEERE" lifetime="600" category="tractorsM" wearable="480">
+		<vehicle basename="series6M.xml" type="tractor" name="6M Series" brand="John Deere" lifetime="600" category="tractorsM" wearable="480">
 			<motor id="1" name="6135 M" />
 			<motor id="2" name="6145 M" />
 			<motor id="3" name="6155 M" />
 		</vehicle>
-		<vehicle basename="series6R.xml" type="tractor" name="6R Series" brand="JOHNDEERE" lifetime="600" category="tractorsM" wearable="480">
+		<vehicle basename="series6R.xml" type="tractor" name="6R Series" brand="John Deere" lifetime="600" category="tractorsM" wearable="480">
 			<motor id="1" name="6230 R" />
 			<motor id="2" name="6250 R" />
 		</vehicle>
-		<vehicle basename="series7R.xml" type="tractor" name="7R Series" brand="JOHNDEERE" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="series7R.xml" type="tractor" name="7R Series" brand="John Deere" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="7230 R" />
 			<motor id="2" name="7250 R" />
 			<motor id="3" name="7270 R" />
 			<motor id="4" name="7290 R" />
 			<motor id="5" name="7310 R" />
 		</vehicle>
-		<vehicle basename="series8R.xml" type="tractor" name="8R Series" brand="JOHNDEERE" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="series8R.xml" type="tractor" name="8R Series" brand="John Deere" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="8245 R" />
 			<motor id="2" name="8295 R" />
 			<motor id="3" name="8345 R" />
 			<motor id="4" name="8400 R" />
 		</vehicle>
-		<vehicle basename="series8RT.xml" type="tractor" name="8RT Series" brand="JOHNDEERE" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="series8RT.xml" type="tractor" name="8RT Series" brand="John Deere" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="8345 RT" />
 			<motor id="2" name="8370 RT" />
 		</vehicle>
@@ -498,7 +498,7 @@
 			<motor id="2" name="9310 TTV" />
 			<motor id="3" name="9340 TTV" />
 		</vehicle>
-		<vehicle basename="sfi900.xml" type="cutter" name="SFI 900" brand="NEWHOLLAND" lifetime="600" category="forageHarvesterCutters" wearable="480" />
+		<vehicle basename="sfi900.xml" type="cutter" name="SFI 900" brand="New Holland" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="silverstar.xml" type="livestockTrailer" name="Silverstar" brand="WILSON" lifetime="600" category="animalTransport" wearable="480" />
 		<vehicle basename="singleRow.xml" type="fertilizingSowingMachine" name="Single Row Billet Planter" brand="GESSNER" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
 		<vehicle basename="siwa720.xml" type="trailer" name="SIWA 720" brand="SCHUITEMAKER" lifetime="600" category="trailers" wearable="480" />
@@ -506,10 +506,10 @@
 		<vehicle basename="solitair12.xml" type="sowingMachine" name="Solitair 12" brand="LEMKEN" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="sp1417.xml" type="manureSpreader" name="SP 14/17" brand="SAMSONAGRO" lifetime="600" category="manureSpreaders" wearable="480" />
 		<vehicle basename="spartan610.xml" type="cutter" name="Spartan 610" brand="capello" lifetime="600" category="forageHarvesterCutters" wearable="480" />
-		<vehicle basename="spike1.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="WARZEE" lifetime="600" category="skidSteers" wearable="480" />
-		<vehicle basename="spike2.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="WARZEE" lifetime="600" category="teleLoaders" wearable="480" />
-		<vehicle basename="spike3.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="WARZEE" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="spiritR300S.xml" type="sowingMachine" name="Spirit R 300S" brand="VAEDERSTAD" lifetime="600" category="seeders" wearable="480" />
+		<vehicle basename="spike1.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="Warzee" lifetime="600" category="skidSteers" wearable="480" />
+		<vehicle basename="spike2.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="Warzee" lifetime="600" category="teleLoaders" wearable="480" />
+		<vehicle basename="spike3.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="Warzee" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="spiritR300S.xml" type="sowingMachine" name="Spirit R 300S" brand="Vaederstad" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="st820.xml" type="cultivator" name="ST820" brand="FLEXICOIL" lifetime="600" category="cultivators" wearable="480" />
 		<vehicle basename="stMax105.xml" type="tractor" name="ST MAX 105" brand="STARA" lifetime="600" category="tractorsS" wearable="480">
 			<motor id="1" name="STMax 105" />
@@ -531,7 +531,7 @@
 		<vehicle basename="stollToolSilageCutter.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_frontloaderSilageCutter" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
 		<vehicle basename="stumpGrinder.xml" type="stumpCutter" name="$l10n_shopItem_skidSteerStumpCutter" brand="PALADIN" lifetime="600" category="skidSteers" wearable="480" />
 		<vehicle basename="superfex800.xml" type="manureSpreader" name="Superfex 800" brand="FARMTECH" lifetime="600" category="manureSpreaders" wearable="480" />
-		<vehicle basename="superflexDraper45ft.xml" type="cutter" name="3162 Draper 45FT" brand="NEWHOLLAND" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="superflexDraper45ft.xml" type="cutter" name="3162 Draper 45FT" brand="New Holland" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="t308.xml" type="teleHandler" name="KL30.8T" brand="KRAMER" lifetime="600" category="frontLoaderVehicles" wearable="480">
 			<motor id="1" name="KL30.8T" />
 		</vehicle>
@@ -545,8 +545,8 @@
 		<vehicle basename="telehandlerLogFork.xml" type="logGrab" name="$l10n_shopItem_telehandlerLogFork" brand="MAGSI" lifetime="600" category="teleLoaders" wearable="480" />
 		<vehicle basename="telehandlerManureFork.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_telehandlerManureFork" brand="MAGSI" lifetime="600" category="teleLoaders" wearable="480" />
 		<vehicle basename="telehandlerShovel.xml" type="shovel" name="$l10n_shopItem_telehandlerShovel" brand="MAGSI" lifetime="600" category="teleLoaders" wearable="480" />
-		<vehicle basename="tempoL16.xml" type="fertilizingSowingMachine" name="Tempo L 16" brand="VAEDERSTAD" lifetime="600" category="planters" wearable="480" />
-		<vehicle basename="tempoVTPV8.xml" type="fertilizingSowingMachine" name="Tempo V 8" brand="VAEDERSTAD" lifetime="600" category="planters" wearable="480" />
+		<vehicle basename="tempoL16.xml" type="fertilizingSowingMachine" name="Tempo L 16" brand="Vaederstad" lifetime="600" category="planters" wearable="480" />
+		<vehicle basename="tempoVTPV8.xml" type="fertilizingSowingMachine" name="Tempo V 8" brand="Vaederstad" lifetime="600" category="planters" wearable="480" />
 		<vehicle basename="terminator18.xml" type="fertilizingSowingMachine" name="TERMINATOR TH18" brand="HATZENBICHLER" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="terraDosT4_40.xml" type="combineDrivable" name="Terra Dos T4-40" brand="HOLMER" lifetime="600" category="beetVehicles" wearable="480">
 			<motor id="1" name="Terra Dos T4-40" />
@@ -570,13 +570,13 @@
 			<motor id="1" name="Tiger 6 XL" />
 		</vehicle>
 		<vehicle basename="tiger6DT.xml" type="cultivator" name="Tiger 6 DT" brand="HORSCH" lifetime="600" category="cultivators" wearable="480" />
-		<vehicle basename="tigoXR75.xml" type="forageWagon" name="Tigo XR 75 D" brand="FENDT" lifetime="600" category="loaderWagons" wearable="480" />
+		<vehicle basename="tigoXR75.xml" type="forageWagon" name="Tigo XR 75 D" brand="Fendt" lifetime="600" category="loaderWagons" wearable="480" />
 		<vehicle basename="timberRunner.xml" type="transportTrailer" name="Timber Runner" brand="FLIEGL" lifetime="600" category="wood" wearable="480" />
 		<vehicle basename="titan11.xml" type="plow" name="Titan 18" brand="LEMKEN" lifetime="600" category="plows" wearable="480" />
 		<vehicle basename="tr3200.xml" type="treeSaw_attacherJointControl" name="TR3200" brand="DFM" lifetime="600" category="wood" wearable="480" />
 		<vehicle basename="trailedLifter.xml" type="baseAttachable" name="TRAILED LIFTER" brand="GREGOIREBESSON" lifetime="600" category="misc" wearable="480" />
 		<vehicle basename="trailedLineDuo1814.xml" type="mixerWagon" name="TrailedLine Duo 1814" brand="SILOKING" lifetime="600" category="animals" wearable="480" />
-		<vehicle basename="transSpace8000.xml" type="trailer" name="Trans-SPACE 8000" brand="JOSKIN" lifetime="600" category="trailers" wearable="480" />
+		<vehicle basename="transSpace8000.xml" type="trailer" name="TRANS-SPACE 8000" brand="Joskin" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="truckL.xml" type="tractor" name="Roadrunner" brand="LIZARD" lifetime="600" category="trucks" wearable="480">
 			<motor id="1" name="Roadrunner" />
 		</vehicle>
@@ -589,8 +589,8 @@
 		<vehicle basename="tsa.xml" type="manureTrailer" name="TSA 30000" brand="KOTTE" lifetime="600" category="slurryTanks" wearable="480" />
 		<vehicle basename="twoRow.xml" type="fertilizingSowingMachine" name="Two Row Billet Planter" brand="GESSNER" lifetime="600" category="sugarCaneHarvesting" wearable="480" />
 		<vehicle basename="utilityGrapple.xml" type="logGrab" name="$l10n_shopItem_skidSteerLogFork" brand="PALADIN" lifetime="600" category="skidSteers" wearable="480" />
-		<vehicle basename="varifeed41.xml" type="cutter" name="Varifeed 41FT" brand="NEWHOLLAND" lifetime="600" category="cutters" wearable="480" />
-		<vehicle basename="vario1000.xml" type="tractor" name="1000 Vario" brand="FENDT" lifetime="600" category="tractorsL" wearable="480">
+		<vehicle basename="varifeed41.xml" type="cutter" name="Varifeed 41FT" brand="New Holland" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="vario1000.xml" type="tractor" name="1000 Vario" brand="Fendt" lifetime="600" category="tractorsL" wearable="480">
 			<motor id="1" name="1038" />
 			<motor id="2" name="1042" />
 			<motor id="3" name="1046" />
@@ -614,7 +614,7 @@
 		<vehicle basename="weight1100.xml" type="implement" name="1100" brand="AGCO" lifetime="600" category="weights" wearable="480" />
 		<vehicle basename="weight1500.xml" type="implement" name="1500" brand="AGCO" lifetime="600" category="weights" wearable="480" />
 		<vehicle basename="weight2300.xml" type="implement" name="2300" brand="AGCO" lifetime="600" category="weights" wearable="480" />
-		<vehicle basename="weight3300.xml" type="implement" name="3300" brand="FENDT" lifetime="600" category="weights" wearable="480" />
+		<vehicle basename="weight3300.xml" type="implement" name="3300" brand="Fendt" lifetime="600" category="weights" wearable="480" />
 		<vehicle basename="weight650.xml" type="implement" name="650" brand="AGCO" lifetime="600" category="weights" wearable="480" />
 		<vehicle basename="wheelLoaderFork.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_wheelLoaderFork" brand="MAGSI" lifetime="600" category="wheelLoaders" wearable="480" />
 		<vehicle basename="wheelLoaderLogFork.xml" type="logGrab" name="$l10n_shopItem_wheelLoaderLogFork" brand="MAGSI" lifetime="600" category="wheelLoaders" wearable="480" />
@@ -622,7 +622,7 @@
 		<vehicle basename="xc931.xml" type="woodHarvester" name="931XC" brand="KOMATSU" lifetime="600" category="woodHarvesting" wearable="480">
 			<motor id="1" name="931XC" />
 		</vehicle>
-		<vehicle basename="xlAirDrill84.xml" type="fertilizingSowingMachine" name="Seed Hawk XL Toolbar 84FT" brand="VAEDERSTAD" lifetime="600" category="seeders" wearable="480" />
+		<vehicle basename="xlAirDrill84.xml" type="fertilizingSowingMachine" name="Seed Hawk XL Toolbar 84FT" brand="Vaederstad" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="yp2425A.xml" type="sowingMachine" name="YP-2425A" brand="GREATPLAINS" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="z056.xml" type="combineDrivable" name="BIZON SUPER Z056" brand="FMZ" lifetime="600" category="harvesters" wearable="480">
 			<motor id="1" name="BIZON SUPER Z056" />
