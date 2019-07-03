@@ -196,8 +196,8 @@
 		<vehicle basename="de551.xml" type="strawBlower" name="DE551 FL" brand="WARZEE" lifetime="600" category="teleLoaders" wearable="480" />
 		<vehicle basename="de551_frontloader.xml" type="" name="DE551 FL" brand="WARZEE" lifetime="" category="animals" wearable="" />
 		<vehicle basename="de551_telehandler.xml" type="" name="DE551 TL" brand="WARZEE" lifetime="" category="animals" wearable="" />
-		<vehicle basename="diamantHS12.xml" type="cutter" name="Diamant HS12" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="diamantHS8.xml" type="cutter" name="Diamant HS8" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="diamantHS12.xml" type="cutter" name="Diamant HS12" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="diamantHS8.xml" type="cutter" name="Diamant HS8" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="distinction.xml" type="trailer" name="Distinction" brand="LODEKING" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="doblettBigTT.xml" type="cultivator" name="Big TT" brand="TT" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="doblettMulticultivator.xml" type="fertilizingCultivator" name="Multicultivator 5-in-1" brand="TT" lifetime="600" category="subsoilers" wearable="480" />
@@ -261,8 +261,8 @@
 		<vehicle basename="header608C.xml" type="cutter" name="608C" brand="JOHNDEERE" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="header618C.xml" type="cutter" name="618C" brand="JOHNDEERE" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="header980CF12.xml" type="cutter" name="980CF 12R" brand="NEWHOLLAND" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="helianthus12000.xml" type="cutter" name="Helianthus 12000" brand="Capello" lifetime="600" category="cutters" wearable="480" />
-		<vehicle basename="helianthus5700.xml" type="cutter" name="Helianthus 5700" brand="Capello" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="helianthus12000.xml" type="cutter" name="Helianthus 12000" brand="capello" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="helianthus5700.xml" type="cutter" name="Helianthus 5700" brand="capello" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="heliodor12S.xml" type="cultivator" name="Gigant 12 S 1600" brand="LEMKEN" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="hibiscus1515CdProf.xml" type="windrower" name="Hibiscus 1515 CD Profi" brand="LELY" lifetime="600" category="windrowers" wearable="480" />
 		<vehicle basename="highDumpBucket.xml" type="shovel" name="$l10n_shopItem_skidSteerHighDumpBucket" brand="PALADIN" lifetime="600" category="skidSteers" wearable="480" />
@@ -445,8 +445,8 @@
 			<motor id="3" name="Quadtrac 620" />
 		</vehicle>
 		<vehicle basename="qualidisc.xml" type="cultivator" name="Qualidisc Farmer 3000" brand="KVERNELAND" lifetime="600" category="discHarrows" wearable="480" />
-		<vehicle basename="quasarF4.xml" type="cutter" name="Quasar F4" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="quasarHS16.xml" type="cutter" name="Quasar HS16" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="quasarF4.xml" type="cutter" name="Quasar F4" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="quasarHS16.xml" type="cutter" name="Quasar HS16" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="rapid600s.xml" type="sowingMachine" name="Rapid A 600S" brand="VAEDERSTAD" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="rapide580V.xml" type="forageWagon" name="Rapide 580V" brand="SCHUITEMAKER" lifetime="600" category="loaderWagons" wearable="480" />
 		<vehicle basename="rapide8400W.xml" type="forageWagon" name="Rapide 8400W" brand="SCHUITEMAKER" lifetime="600" category="loaderWagons" wearable="480" />
@@ -505,7 +505,7 @@
 		<vehicle basename="sm18.xml" type="cultivator" name="SWIFTER SM 18000" brand="BEDNAR" lifetime="600" category="cultivators" wearable="480" />
 		<vehicle basename="solitair12.xml" type="sowingMachine" name="Solitair 12" brand="LEMKEN" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="sp1417.xml" type="manureSpreader" name="SP 14/17" brand="SAMSONAGRO" lifetime="600" category="manureSpreaders" wearable="480" />
-		<vehicle basename="spartan610.xml" type="cutter" name="Spartan 610" brand="Capello" lifetime="600" category="forageHarvesterCutters" wearable="480" />
+		<vehicle basename="spartan610.xml" type="cutter" name="Spartan 610" brand="capello" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="spike1.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="WARZEE" lifetime="600" category="skidSteers" wearable="480" />
 		<vehicle basename="spike2.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="WARZEE" lifetime="600" category="teleLoaders" wearable="480" />
 		<vehicle basename="spike3.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="WARZEE" lifetime="600" category="frontLoaders" wearable="480" />
