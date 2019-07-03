@@ -316,6 +316,7 @@ DAY_RIDE=Day ride
 FOOD=Food
 STABLE_STATE=Stable
 STABLE_INFO=Stable info
+NOSTABLES=farm has no animals
 
 //missions.tpl
 //page=missions

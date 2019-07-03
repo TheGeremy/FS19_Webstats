@@ -252,6 +252,7 @@ FOOD=Jídlo
 MANURE_HELP=Množství hnoje uloženého na stodole již není uloženo v paměti savegame od Farming Simulator 19. Namísto uloženého hnoje se zde zobrazuje hodnota "manureToDrop".
 DAY_RIDE=Denní jízdy
 HORSE=Kůň
+NOSTABLES=farma nemá zvířata
 
 //prices.tpl
 PRICES1000=Ceny / 1000 L

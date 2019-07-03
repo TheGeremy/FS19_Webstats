@@ -354,6 +354,7 @@ DAY_RIDE=Povinná denná jazda
 FOOD=Strava
 STABLE_STATE=Ohrada
 STABLE_INFO=Prehľad potrieb
+NOSTABLES=farma nemá zvieratá
 
 //info.tpl
 //page=info

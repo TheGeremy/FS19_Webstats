@@ -1,5 +1,5 @@
 <h3 class="my-3">##ANIMALS##</h3>
-{if $stables|@count}
+{if $currentStable && $currentAnimal}
 <div class="row">
 	<div class="col-30">
 		<div class="list-group">
