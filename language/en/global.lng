@@ -16,6 +16,7 @@ STOCK=Stock
 STOCKS=Stocks
 PRICES=Market prices
 CREATED_BY=created by
+EDITED_BY=edited by
 TIME=Time
 MONEY=Money
 ON=On

@@ -41,7 +41,7 @@
 		<div class="container">
 			<p class="navbar-text text-center">##USER_ONLINE##: {$onlineUser}</p>
 			<p class="navbar-text pull-right">
-				&copy; 2018-2019 <b>FS19 Web Stats</b> ##CREATED_BY## <b>John Hawk</b>
+				&copy; 2018-2019 <b>FS19 Web Stats</b> ##CREATED_BY## <b>John Hawk</b> ##EDITED_BY## <b>the.geremy</b>
 			</p>
 		</div>
 	</div>

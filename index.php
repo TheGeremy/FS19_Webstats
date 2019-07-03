@@ -43,7 +43,7 @@ $style = $options ['general'] ['style'];
 $smarty = new Smarty ();
 $smarty->debugging = false;
 $smarty->caching = false;
-$smarty->assign ( 'webStatsVersion', sprintf ( '0.8.0-%s (%s)', intval ( file_get_contents ( 'build' ) ), date ( 'd.m.Y', filectime ( 'build' ) ) ) );
+$smarty->assign ( 'webStatsVersion', sprintf ( '0.8.1-%s (%s)', intval ( file_get_contents ( 'build' ) ), date ( 'd.m.Y', filectime ( 'build' ) ) ) );
 
 include ('./include/loadConfig.php');
 $smarty->assign ( 'onlineUser', sizeof ( $onlineUser ) );
