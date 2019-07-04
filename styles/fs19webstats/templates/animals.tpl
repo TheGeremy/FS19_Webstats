@@ -101,8 +101,8 @@
 					<div class="col-3 text-right">{$food.value|number_format:0:",":"."} {$food.unit}</div>
 					<div class="col-3">
 						<div class="progress">
-							{$style='style="width: '|cat:$food.factor|cat:'%"'}
-							<div class="progress-bar" role="progressbar" {$style} aria-valuenow="{$food.factor}" aria-valuemin="0" aria-valuemax="100"></div>
+							{$style='style="width: '|cat:$food.valuePercent|cat:'%"'}
+							<div class="progress-bar" role="progressbar" {$style} aria-valuenow="{$food.valuePercent}" aria-valuemin="0" aria-valuemax="100"></div>
 						</div>
 					</div>
 				</div>

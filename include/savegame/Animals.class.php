@@ -225,6 +225,16 @@ class Animals {
 			}
 		}
 	}
+	public static function getFoodRates() {
+		// food indexes to calulate max food value
+		return array(
+			"COW" => 3500,
+	   	"SHEEP" => 500,
+	   	"CHICKEN" => 50,
+	   	"PIG" => 900,
+	   	"HORSE" => 4000
+		);
+	}	
 	public static function getHorseValues() {
 		$ret = array (
 				'summary' => 0,
