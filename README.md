@@ -1,6 +1,6 @@
 # FS19 Web Stats - BETA VERSION
 
-## Update 30.01.2019 - what I change:
+## Update 04.07.2019 - what I change:
 - storage page chage css to make it look litle bit better when you click on item and submenu appears.
 - remove error "illegal offset" when you dont have all animals on farm
 - remove error "illegal offset" when you dont play your farm more than 4 day to display 5 day summary
