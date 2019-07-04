@@ -5,6 +5,7 @@
 - remove error "illegal offset" when you dont have all animals on farm
 - remove error "illegal offset" when you dont play your farm more than 4 day to display 5 day summary
 - add proper calculation for actual value of food in %, to correctly display a food progress bar
+- change in css to display animal image correctly
 
 ## Update 30.01.2019 - what is working so far:
 - **Also with patch 1.2.0.1 the Farming Simulator Web API has not been extended yet. The only way to get all required data from the dedicated server is FTP access.**
