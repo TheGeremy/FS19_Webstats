@@ -47,7 +47,8 @@ if (sizeof ( $stables ) > 0) {
 					if ($stables [$stable] ['animals'] [$animal] ["isHorse"]) {
 						$no_animals = false;
 						$firstStable = $stable;
-						$firstAnimal = $animal;				
+						$firstAnimal = $animal;
+						break 2;				
 					}
 				}
 			}
