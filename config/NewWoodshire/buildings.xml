@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>
+		<text name="FarmSilo">
+			<en>Farm Silo</en>
+			<sk>Silo na farme</sk>			
+			<cz>Silo na farmě</cz>
+		</text>
+		<text name="farmStable">
+			<en>Farm Storage</en>
+			<sk>Sklad na farme</sk>			
+			<cz>Sklad na farmě</cz>
+		</text>
+		<text name="Kuhstall">
+			<en>Cowshed</en>
+			<sk>Kravín</sk>
+			<cz>Kravín</cz>
+		</text>
+	</l10n>
+</mapconfig>
