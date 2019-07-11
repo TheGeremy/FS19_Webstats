@@ -106,14 +106,14 @@
 				<tr>
 					<td class="text-left col-1 pr-3 w-13">{$fillType}</td>
 					<td class="text-left col-1 pr-3 w-13">{$fillTypeData.bestLocation}</td>
-					<td class="text-left col-1 pr-3 w-13">{$fillTypeData.minPrice|number_format:0:",":"."}</td>
-					<td class="text-left col-1 pr-3 w-13">{$fillTypeData.maxPrice|number_format:0:",":"."}</td>
-					<td class="text-left col-1 pr-3 w-13 {if $fillTypeData.greatDemand}text-info{elseif $percent>=60}text-success{elseif $percent<=40}text-danger{/if}">{$fillTypeData.bestPrice|number_format:0:",":"."} {if $fillTypeData.priceTrend == 1} <i class="fas fa-caret-up text-success"></i> {elseif
+					<td class="text-right col-1 pr-3 w-13">{$fillTypeData.minPrice|number_format:0:",":"."}</td>
+					<td class="text-right col-1 pr-3 w-13">{$fillTypeData.maxPrice|number_format:0:",":"."}</td>
+					<td class="text-right col-1 pr-3 w-13 {if $fillTypeData.greatDemand}text-info{elseif $percent>=60}text-success{elseif $percent<=40}text-danger{/if}">{$fillTypeData.bestPrice|number_format:0:",":"."} {if $fillTypeData.priceTrend == 1} <i class="fas fa-caret-up text-success"></i> {elseif
 						$fillTypeData.priceTrend == -1} <i class="fas fa-caret-down text-danger"></i> {else} <i class="fas fa-caret-down" style="visibility: hidden"></i> {/if}
 					</td>
-					<td class="text-left col-1 pr-3 w-9">{$percent|number_format:0:",":"."} %</td> {if $options['farmId']>0}{if isset($commodities.$fillType) && $commodities.$fillType.overall > 0}
-					<td class="text-left col-1 pr-3 w-13">{$commodities.$fillType.overall|number_format:0:",":"."}</td> {math equation="overall * bestPrice / 1000" overall=$commodities.$fillType.overall bestPrice=$fillTypeData.bestPrice assign="proceeds"}
-					<td class="text-left col-1 pr-3 w-13">{$proceeds|number_format:0:",":"."}</td> {else}
+					<td class="text-right col-1 pr-3 w-9">{$percent|number_format:0:",":"."} %</td> {if $options['farmId']>0}{if isset($commodities.$fillType) && $commodities.$fillType.overall > 0}
+					<td class="text-right col-1 pr-3 w-13">{$commodities.$fillType.overall|number_format:0:",":"."}</td> {math equation="overall * bestPrice / 1000" overall=$commodities.$fillType.overall bestPrice=$fillTypeData.bestPrice assign="proceeds"}
+					<td class="text-right col-1 pr-3 w-13">{$proceeds|number_format:0:",":"."}</td> {else}
 					<td></td>
 					<td></td> {/if}{/if}
 				</tr>

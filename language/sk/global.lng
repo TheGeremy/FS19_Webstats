@@ -224,8 +224,8 @@ LOAN=Úver
 //prices.tpl
 //bestprices
 PRICES1000=Analýza trhových cien
-MIN_PRICE=Cena (Max)
-MAX_PRICE=Cena (Min)
+MIN_PRICE=Cena (Min)
+MAX_PRICE=Cena (Max)
 BEST_PRICE=Aktuálna cena
 PERCENT=Výhodnosť
 PROCEEDS=Možný výnos
@@ -294,7 +294,7 @@ DETAILS=Detail
 PALLET=Paleta
 PALETTES=Palety
 BALE=Balík
-BALES=Balíky
+BALES=Balíkov
 INCORRECT_POSITIONS_TITLE=Neplatna poloha paliet a balíkov
 INCORRECT_POSITIONS_TEXT=Poloha balíkov/paliet <code>vehicle.xml</code> je neplatná:
 INCORRECT_POSITION=neplatná poloha

@@ -16,13 +16,13 @@
 			<tbody>
 				{foreach $missions as $mission}
 				<tr>
-					<td class="text-center w-13">{if isset($mission.field)}{$mission.field}{/if}</td>
-					<td class="text-center w-17">{if isset($mission.field)}{$mission.fieldSize|number_format:2:",":"."}{/if}</td>
-					<td class="text-center w-17">{$mission.type}{if $mission.type=='##MIS_HARVEST##' || $mission.type=='##MIS_MOW_BALE##'} ({$mission.fruitTypeName}){/if}</td>
-					<td class="text-center w-13">{$mission.reward|number_format:0:",":"."}</td>
-					<td class="text-center w-13">{if isset($mission.field)}{$mission.vehicleUseCost|number_format:0:",":"."}{/if}</td>
-					<td class="text-center w-13">{if isset($mission.farmId)}{$farms[$mission.farmId].name}{/if}</td>
-					<td class="text-center w-13">{if $mission.success}##ABGESCHLOSSEN##{elseif $mission.status}##ACTIVE##{/if}</td>
+					<td class="text-right w-13">{if isset($mission.field)}{$mission.field}{/if}</td>
+					<td class="text-right w-17">{if isset($mission.field)}{$mission.fieldSize|number_format:2:",":"."}{/if}</td>
+					<td class="text-left w-17">{$mission.type}{if $mission.type=='##MIS_HARVEST##' || $mission.type=='##MIS_MOW_BALE##'} ({$mission.fruitTypeName}){/if}</td>
+					<td class="text-right w-13">{$mission.reward|number_format:0:",":"."}</td>
+					<td class="text-right w-13">{if isset($mission.field)}{$mission.vehicleUseCost|number_format:0:",":"."}{/if}</td>
+					<td class="text-left w-13">{if isset($mission.farmId)}{$farms[$mission.farmId].name}{/if}</td>
+					<td class="text-left w-13">{if $mission.success}##ABGESCHLOSSEN##{elseif $mission.status}##ACTIVE##{/if}</td>
 				</tr>
 				{/foreach}
 			</tbody>

@@ -74,7 +74,7 @@
 				<tr>
 					<td>{$building.name}</td>
 					<td class="text-right pr-3">{$building.age}</td>
-					<td class="text-right pr-3">{$building.price}</td>
+					<td class="text-right pr-3">{$building.price|number_format:0:",":"."}</td>
 					<td data-order="{$building.resale}" class="text-right pr-3">{$building.resale|number_format:0:",":"."}</td>
 				</tr>
 				{/foreach}
