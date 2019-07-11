@@ -2,30 +2,30 @@
 <!-- prices, x and z values are not accurate -->
 <mapconfig>
 	<Farmlands>
-      <Farmland id="1"  price="100" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
-      <Farmland id="2"  price="100" x="0" z="0" />
-      <Farmland id="3"  price="100" x="0" z="0" /> <!-- bga -->
-      <Farmland id="4"  price="100" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
-      <Farmland id="5"  price="100" x="0" z="0" />
-      <Farmland id="6"  price="100" x="0" z="0" />
-      <Farmland id="7"  price="100" x="0" z="0" />
-      <Farmland id="8"  price="100" x="0" z="0" />
+      <Farmland id="1"  price="261983" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
+      <Farmland id="2"  price="117168" x="0" z="0" />
+      <Farmland id="3"  price="227424" x="0" z="0" /> <!-- bga -->
+      <Farmland id="4"  price="59688" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
+      <Farmland id="5"  price="48288" x="0" z="0" />
+      <Farmland id="6"  price="170616" x="0" z="0" />
+      <Farmland id="7"  price="88632" x="0" z="0" />
+      <Farmland id="8"  price="67080" x="0" z="0" />
       <Farmland id="9"  price="100" x="0" z="0" />
       <Farmland id="10" price="100" x="0" z="0" />
       <Farmland id="11" price="100" x="0" z="0" />
       <Farmland id="12" price="100" x="0" z="0" />
-      <Farmland id="13" price="100" x="0" z="0" />
-      <Farmland id="14" price="100" x="0" z="0" />
-      <Farmland id="15" price="100" x="0" z="0" />
-      <Farmland id="16" price="100" x="0" z="0" />
-      <Farmland id="17" price="100" x="0" z="0" />
-      <Farmland id="18" price="100" x="0" z="0" />
+      <Farmland id="13" price="309048" x="0" z="0" />
+      <Farmland id="14" price="102672" x="0" z="0" />
+      <Farmland id="15" price="64800" x="0" z="0" />
+      <Farmland id="16" price="60192" x="0" z="0" />
+      <Farmland id="17" price="17880" x="0" z="0" />
+      <Farmland id="18" price="116304" x="0" z="0" />
       <Farmland id="19" price="100" x="0" z="0" /> <!-- horse training -->
-      <Farmland id="20" price="100" x="0" z="0" />
+      <Farmland id="20" price="179376" x="0" z="0" />
       <Farmland id="21" price="100" x="0" z="0" />
       <Farmland id="22" price="100" x="0" z="0" />
-      <Farmland id="23" price="100" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
-      <Farmland id="24" price="100" x="0" z="0" />
+      <Farmland id="23" price="84408" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
+      <Farmland id="24" price="127056" x="0" z="0" />
       <Farmland id="25" price="100" x="0" z="0" />
       <Farmland id="26" price="100" x="0" z="0" />
       <Farmland id="27" price="100" x="0" z="0" /> 
@@ -33,17 +33,17 @@
       <Farmland id="29" price="100" x="0" z="0" />
       <Farmland id="30" price="100" x="0" z="0" />
       <Farmland id="31" price="100" x="0" z="0" />
-      <Farmland id="32" price="100" x="0" z="0" />
+      <Farmland id="32" price="66456" x="0" z="0" />
       <Farmland id="33" price="100" x="0" z="0" />
       <Farmland id="34" price="100" x="0" z="0" />
       <Farmland id="35" price="100" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
       <Farmland id="36" price="100" x="0" z="0" />
-      <Farmland id="37" price="100" x="0" z="0" />
+      <Farmland id="37" price="197304" x="0" z="0" />
       <Farmland id="38" price="100" x="0" z="0" /> <!-- half is useless rock -->
       <Farmland id="39" price="100" x="0" z="0" />
       <Farmland id="40" price="100" x="0" z="0" />
       <Farmland id="41" price="100" x="0" z="0" />
-      <Farmland id="42" price="100" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
+      <Farmland id="42" price="161664" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
       <Farmland id="43" price="100" x="0" z="0" />
       <Farmland id="44" price="100" x="0" z="0" />
       <Farmland id="45" price="100" x="0" z="0" />
@@ -58,10 +58,10 @@
       <Farmland id="54" price="100" x="0" z="0" />
       <Farmland id="55" price="100" x="0" z="0" />
       <Farmland id="56" price="100" x="0" z="0" />
-      <Farmland id="57" price="100" x="0" z="0" />
-      <Farmland id="58" price="100" x="0" z="0" />
-      <Farmland id="59" price="100" x="0" z="0" />
-      <Farmland id="60" price="100" x="0" z="0" />
+      <Farmland id="57" price="264648" x="0" z="0" />
+      <Farmland id="58" price="245088" x="0" z="0" />
+      <Farmland id="59" price="401352" x="0" z="0" />
+      <Farmland id="60" price="70296" x="0" z="0" />
       <Farmland id="61" price="100" x="0" z="0" />
       <Farmland id="62" price="100" x="0" z="0" />
       <Farmland id="63" price="100" x="0" z="0" />      

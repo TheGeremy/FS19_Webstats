@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
 	<l10n>
+		<!-- john deere gator pack -->
+		<text name="JDUT4000">
+			<sk>John Deere UT4000</sk>
+			<en>John Deere UT4000</en>
+			<de>John Deere UT4000</de>
+		</text>
+		<text name="XUV865M">
+			<sk>John Deere Gator</sk>
+			<en>John Deere Gator</en>
+			<de>John Deere Gator</de>
+		</text>
 		<text name="amazoneZAM1501">
 			<sk>Amazone ZA-M 1501</sk>
 			<en>Amazone ZA-M 1501</en>

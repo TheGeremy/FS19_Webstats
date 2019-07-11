@@ -61,7 +61,7 @@ $showInNav = ($_SESSION ['farmId'] > 0) ? true : false;
 $nav = new Nav ( $showInNav );
 $page = GetParam ( 'page', 'G' );
 if (! isset ( $nav->items [$page] )) {
-	$page = 'prices';
+	$page = 'farms';
 }
 $nav->setActiveItem ( $page );
 $smarty->assign ( 'page', $page );
