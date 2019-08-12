@@ -32,7 +32,7 @@
 		<vehicle basename="GL420.xml" type="sowingMachine" name="GL 420" brand="GRIMME" lifetime="600" category="potatoHarvesting" wearable="480" />
 		<vehicle basename="GL860.xml" type="fertilizingSowingMachine" name="GL 860 Compacta" brand="GRIMME" lifetime="600" category="potatoHarvesting" wearable="480" />
 		<vehicle basename="HEM583.xml" type="woodCrusherTrailer" name="HEM 583 Z" brand="JENZ" lifetime="600" category="wood" wearable="480" />
-		<vehicle basename="HKD302.xml" type="trailer" name="HKD 302" brand="KROEGER" lifetime="600" category="trailers" wearable="480" />
+		<vehicle basename="HKD302.xml" type="trailer" name="HKD 302" brand="Kroeger" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="HR46.xml" type="woodHarvester" name="HR46X" brand="SAMPOROSENLEW" lifetime="600" category="woodHarvesting" wearable="480">
 			<motor id="1" name="HR46X" />
 		</vehicle>
@@ -122,9 +122,9 @@
 			<motor id="1" name="T9.480" />
 			<motor id="2" name="T9.565" />
 		</vehicle>
-		<vehicle basename="TAW30.xml" type="trailer" name="TAW 30" brand="KROEGER" lifetime="600" category="trailers" wearable="480" />
+		<vehicle basename="TAW30.xml" type="trailer" name="TAW 30" brand="Kroeger" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="TDK1600.xml" type="trailer" name="TDK 1600" brand="Farmtech" lifetime="600" category="trailers" wearable="480" />
-		<vehicle basename="TKD302.xml" type="trailer" name="TKD 302" brand="KROEGER" lifetime="600" category="trailers" wearable="480" />
+		<vehicle basename="TKD302.xml" type="trailer" name="TKD 302" brand="Kroeger" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="TS1520.xml" type="weeder" name="TS 1520/M3" brand="Treffler" lifetime="600" category="weeders" wearable="480" />
 		<vehicle basename="TSeries.xml" type="tractorReverseDriving" name="T Series" brand="VALTRA" lifetime="600" category="tractorsM" wearable="480">
 			<motor id="1" name="T194" />
@@ -197,7 +197,7 @@
 		<vehicle basename="de551_frontloader.xml" type="" name="DE551 FL" brand="Warzee" lifetime="" category="animals" wearable="" />
 		<vehicle basename="de551_telehandler.xml" type="" name="DE551 TL" brand="Warzee" lifetime="" category="animals" wearable="" />
 		<vehicle basename="diamantHS12.xml" type="cutter" name="Diamant HS12" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="diamantHS8.xml" type="cutter" name="Diamant HS8" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="diamantHS8.xml" type="cutter" name="Diamant HS8" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="distinction.xml" type="trailer" name="Distinction" brand="LODEKING" lifetime="600" category="trailers" wearable="480" />
 		<vehicle basename="doblettBigTT.xml" type="cultivator" name="Big TT" brand="TT" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="doblettMulticultivator.xml" type="fertilizingCultivator" name="Multicultivator 5-in-1" brand="TT" lifetime="600" category="subsoilers" wearable="480" />
@@ -261,8 +261,8 @@
 		<vehicle basename="header608C.xml" type="cutter" name="608C" brand="John Deere" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="header618C.xml" type="cutter" name="618C" brand="John Deere" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="header980CF12.xml" type="cutter" name="980CF 12R" brand="New Holland" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="helianthus12000.xml" type="cutter" name="Helianthus 12000" brand="capello" lifetime="600" category="cutters" wearable="480" />
-		<vehicle basename="helianthus5700.xml" type="cutter" name="Helianthus 5700" brand="capello" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="helianthus12000.xml" type="cutter" name="Helianthus 12000" brand="Capello" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="helianthus5700.xml" type="cutter" name="Helianthus 5700" brand="Capello" lifetime="600" category="cutters" wearable="480" />
 		<vehicle basename="heliodor12S.xml" type="cultivator" name="Gigant 12 S 1600" brand="LEMKEN" lifetime="600" category="discHarrows" wearable="480" />
 		<vehicle basename="hibiscus1515CdProf.xml" type="windrower" name="Hibiscus 1515 CD Profi" brand="LELY" lifetime="600" category="windrowers" wearable="480" />
 		<vehicle basename="highDumpBucket.xml" type="shovel" name="$l10n_shopItem_skidSteerHighDumpBucket" brand="PALADIN" lifetime="600" category="skidSteers" wearable="480" />
@@ -445,8 +445,8 @@
 			<motor id="3" name="Quadtrac 620" />
 		</vehicle>
 		<vehicle basename="qualidisc.xml" type="cultivator" name="Qualidisc Farmer 3000" brand="KVERNELAND" lifetime="600" category="discHarrows" wearable="480" />
-		<vehicle basename="quasarF4.xml" type="cutter" name="Quasar F4" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
-		<vehicle basename="quasarHS16.xml" type="cutter" name="Quasar HS16" brand="capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="quasarF4.xml" type="cutter" name="Quasar F4" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
+		<vehicle basename="quasarHS16.xml" type="cutter" name="Quasar HS16" brand="Capello" lifetime="600" category="cornHeaders" wearable="480" />
 		<vehicle basename="rapid600s.xml" type="sowingMachine" name="Rapid A 600S" brand="Vaederstad" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="rapide580V.xml" type="forageWagon" name="Rapide 580V" brand="SCHUITEMAKER" lifetime="600" category="loaderWagons" wearable="480" />
 		<vehicle basename="rapide8400W.xml" type="forageWagon" name="Rapide 8400W" brand="SCHUITEMAKER" lifetime="600" category="loaderWagons" wearable="480" />
@@ -505,7 +505,7 @@
 		<vehicle basename="sm18.xml" type="cultivator" name="SWIFTER SM 18000" brand="BEDNAR" lifetime="600" category="cultivators" wearable="480" />
 		<vehicle basename="solitair12.xml" type="sowingMachine" name="Solitair 12" brand="LEMKEN" lifetime="600" category="seeders" wearable="480" />
 		<vehicle basename="sp1417.xml" type="manureSpreader" name="SP 14/17" brand="SAMSONAGRO" lifetime="600" category="manureSpreaders" wearable="480" />
-		<vehicle basename="spartan610.xml" type="cutter" name="Spartan 610" brand="capello" lifetime="600" category="forageHarvesterCutters" wearable="480" />
+		<vehicle basename="spartan610.xml" type="cutter" name="Spartan 610" brand="Capello" lifetime="600" category="forageHarvesterCutters" wearable="480" />
 		<vehicle basename="spike1.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="Warzee" lifetime="600" category="skidSteers" wearable="480" />
 		<vehicle basename="spike2.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="Warzee" lifetime="600" category="teleLoaders" wearable="480" />
 		<vehicle basename="spike3.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="Warzee" lifetime="600" category="frontLoaders" wearable="480" />
@@ -518,17 +518,17 @@
 			<motor id="1" name="ST MAX 180" />
 		</vehicle>
 		<vehicle basename="stego485.xml" type="silageRoller" name="Stego 485" brand="HOLARAS" lifetime="600" category="leveler" wearable="480" />
-		<vehicle basename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollFrontLoaderFZ60.xml" type="attachableFrontloader" name="FZ 60" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolBaleFork.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolBaleGrab.xml" type="baleGrab" name="$l10n_shopItem_frontloaderBaleGrab" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolLogFork.xml" type="logGrab" name="$l10n_shopItem_frontloaderLogFork" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolManureFork.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_frontloaderManureFork" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolManureGrabFork.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_frontloaderManureGrabFork" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolPalletFork.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderPalletFork" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolRoundBaleFork.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderRoundBaleFork" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolShovel.xml" type="shovel" name="$l10n_shopItem_frontloaderShovel" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
-		<vehicle basename="stollToolSilageCutter.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_frontloaderSilageCutter" brand="STOLL" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollFrontLoaderFZ60.xml" type="attachableFrontloader" name="FZ 60" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolBaleFork.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderBaleFork" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolBaleGrab.xml" type="baleGrab" name="$l10n_shopItem_frontloaderBaleGrab" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolLogFork.xml" type="logGrab" name="$l10n_shopItem_frontloaderLogFork" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolManureFork.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_frontloaderManureFork" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolManureGrabFork.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_frontloaderManureGrabFork" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolPalletFork.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderPalletFork" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolRoundBaleFork.xml" type="implementDynamicMountAttacher" name="$l10n_shopItem_frontloaderRoundBaleFork" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolShovel.xml" type="shovel" name="$l10n_shopItem_frontloaderShovel" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
+		<vehicle basename="stollToolSilageCutter.xml" type="dynamicMountAttacherShovel" name="$l10n_shopItem_frontloaderSilageCutter" brand="Stoll" lifetime="600" category="frontLoaders" wearable="480" />
 		<vehicle basename="stumpGrinder.xml" type="stumpCutter" name="$l10n_shopItem_skidSteerStumpCutter" brand="PALADIN" lifetime="600" category="skidSteers" wearable="480" />
 		<vehicle basename="superfex800.xml" type="manureSpreader" name="Superfex 800" brand="Farmtech" lifetime="600" category="manureSpreaders" wearable="480" />
 		<vehicle basename="superflexDraper45ft.xml" type="cutter" name="3162 Draper 45FT" brand="New Holland" lifetime="600" category="cutters" wearable="480" />

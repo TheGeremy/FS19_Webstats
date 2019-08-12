@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <item id="3"  position="1853.6630 104.3510 -1597.3800"  isSellingPoint="true" locationType="TipTrigger" name="skup_ewd" />
+    <item id="6"  position="1318.7930 90.7600 883.2120"     isSellingPoint="true" locationType="TipTrigger" name="skup_cukier_kolej" />
+    <item id="7"  position="-1888.9600 88.9800 288.8460"    isSellingPoint="true" locationType="TipTrigger" name="skup_honotu" />
+    <item id="8"  position="536.6680 97.0840 -294.4710"     isSellingPoint="true" locationType="TipTrigger" name="skup_mleczko" />
+    <item id="9"  position="-1766.8350 89.9960 -1328.0500"  isSellingPoint="true" locationType="TipTrigger" name="skup_port" />
+    <item id="10" position="1360.0710 92.0470 -1694.6650"   isSellingPoint="true" locationType="TipTrigger" name="sellingStationWool" />
+    <item id="21" position="-1645.4170 81.3000 1789.3490"   isSellingPoint="true" locationType="TipTrigger" name="sellingStationWool" />      
+    <item id="13" position="-1182.3160 90.4750 -937.5560"   isSellingPoint="true" locationType="TipTrigger" name="skup_firma" />
+    <item id="14" position="-1184.8020 75.9120 651.3170"    isSellingPoint="true" locationType="TipTrigger" name="sellingStationWoodChips" />
+    <item id="17" position="-1515.6790 81.5550 767.8380"    isSellingPoint="true" locationType="TipTrigger" name="skup_piekarnia" />
+    <item id="20" position="1874.1400 103.7910 -1601.3929"  isSellingPoint="true" locationType="TipTrigger" name="skup_ewd_kolej" />      
+    <item id="24" position="-316.5040 80.0160 1145.7960"    isSellingPoint="true" locationType="TipTrigger" name="skup_ziarniks" />
+    <item id="26" position="-58.2520 103.8510 -113.9730"    isSellingPoint="true" locationType="TipTrigger" name="skup_elewator" />
+    <item id="27" position="-563.0040 83.1410 1882.6460"    isSellingPoint="true" locationType="TipTrigger" name="skup_jogurt" />
+    <item id="29" position="-1214.6000 75.9690 705.9000"    isSellingPoint="false" locationType="TipTrigger" name="sellingStationWood" />
+    <item id="33" position="-1686.5150 77.8900 1171.5930"   isSellingPoint="true" locationType="TipTrigger" name="skup_kolej_1" />
+    <item id="36" position="1332.9351 90.2520 939.0880"     isSellingPoint="true" locationType="TipTrigger" name="skup_cukier" />
+    <item id="37" position="-774.3730 90.9950 -1619.6260"   isSellingPoint="true" locationType="TipTrigger" name="skup_flora" />                    
+    <item id="38" position="-1730.8300 90.7410 -1306.1770"  isSellingPoint="true" locationType="TipTrigger" name="skup_port_kolej" />
+    <item id="41" position="295.1550 108.0920 -1176.0680"   isSellingPoint="true" locationType="TipTrigger" name="sellingStationBales" />                
+    <l10n>
+        <text name="sellingStationWool">
+            <sk>Vlna Košařiska</sk>
+            <cz>Vlna Košařiska</cz>
+            <en>Wool Sale</en>
+            <de>Wolle-Verkauf</de>
+            <pl>Kulka</pl>
+        </text>      
+        <text name="skup_honotu">
+            <en>Sugar Railway</en>
+            <de>Zuckerbahn</de>
+            <pl>Kolej Cukier</pl>
+            <cz>Korunní Cukr nádraží</cz>
+            <sk>Korunní Cukr nádraží</sk>
+        </text>        
+        <text name="skup_cukier">
+            <en>Crystal Sugar</en>
+            <de>Kristallzucker</de>
+            <pl>Crystal Cukier</pl>
+            <cz>Korunní Cukr</cz>
+            <sk>Korunní Cukr</sk>
+        </text>        
+        <text name="skup_elewator">
+            <en>Grain elevator</en>
+            <de>Getreideheber</de>
+            <pl>Elewator zbożowy</pl>
+            <cz>Obilný silo</cz>
+            <sk>Obilné silo</sk>
+        </text>        
+        <text name="skup_ewd_kolej">
+            <en>ZD Maleč Station</en>
+            <de>ZD Maleč Station</de>
+            <pl>Kolej Produktes</pl>
+            <cz>ZD Maleč nádraží</cz>
+            <sk>ZD Maleč nádražie</sk>
+        </text>       
+        <text name="skup_port_kolej">
+            <en>Port Station</en>
+            <de>Port Station</de>
+            <pl>Kolej Port</pl>
+            <cz>Přístav nádraží</cz>
+            <sk>Prístav nádražie</sk>
+        </text>       
+        <text name="skup_firma">
+            <en>Bedronex</en>
+            <de>Bedronex</de>
+            <pl>Bedronex</pl>
+            <cz>Bedronex</cz>
+            <sk>Bedronex</sk>
+        </text>        
+        <text name="skup_kolej_1">
+            <en>Railway purchase</en>
+            <de>Eisenbahnkauf</de>
+            <pl>Skup kolejowy</pl>
+            <cz>Železnice nákup</cz>
+            <sk>Železnice nákup</sk>
+        </text>        
+        <text name="skup_ewd">
+            <en>Products S.A</en>
+            <de>Produktes S.A</de>
+            <pl>Produktes S.A</pl>
+            <cz>ZD Maleč</cz>
+            <sk>ZD Maleč</sk>
+        </text>        
+        <text name="skup_ziarniks">
+            <en>CAP</en>
+            <de>CAP</de>
+            <fr>CAP</fr>
+            <pl>CAP</pl>
+            <cz>CAP Etanol</cz>
+            <sk>CAP Etanol</sk>
+        </text>       
+        <text name="skup_cukier_kolej">
+            <en>Crystal Sugar Station</en>
+            <de>Kristallzucker Station</de>
+            <pl>Crystal Cukier</pl>
+            <cz>Korunní Cukr nádraží</cz>
+            <sk>Korunní Cukr nádražie</sk>
+        </text>
+        <text name="skup_flora">
+            <en>Flora</en>
+            <de>Flora</de>
+            <fr>Flora</fr>
+            <pl>Flora</pl>
+            <cz>Kytky od Pepy</cz>
+            <sk>Kytky od Pepy</sk>
+        </text>
+        <text name="skup_jogurt">
+            <en>Madeta a. s.</en>
+            <de>Madeta a. s.</de>
+            <fr>Madeta a. s.</fr>
+            <pl>Madeta a. s.</pl>
+            <cz>Madeta a. s.</cz>
+            <sk>Madeta a. s.</sk>
+        </text>
+        <text name="skup_port">
+            <en>Port</en>
+            <de>Port</de>
+            <fr>Port</fr>
+            <pl>Port.</pl>
+            <cz>Přístav</cz>
+            <sk>Prístav</sk>
+        </text>
+        <text name="station_sztacheta">
+            <en>Sawmill</en>
+            <de>Sägewerk</de>
+            <fr>Scierie</fr>
+            <pl>Sztacheta</pl>
+            <cz>Pila</cz>
+            <sk>Píla</sk>
+        </text>
+        <text name="skup_piekarnia">
+            <en>Bakery</en>
+            <de>Bäckerei</de>
+            <fr>Boulangerie</fr>
+            <pl>Piekarnia</pl>
+            <cz>Pekárna</cz>
+            <sk>Pekáreň</sk>
+        </text>
+        <text name="station_owieczka">
+            <en>Spinnery</en>
+            <de>Spinnerei</de>
+            <fr>Tissage</fr>
+            <pl>Owieczka S.A</pl>
+            <cz>Přádelna</cz>
+            <sk>Pradiareň</sk>
+        </text>
+        <text name="skup_mleczko">
+            <en>Dairy</en>
+            <de>Molkerei</de>
+            <fr>Produits laitiers</fr>
+            <pl>Mleczarnia</pl>
+            <cz>Mlékárna</cz>
+            <sk>Mliekareň</sk>
+        </text>
+        <text name="station_elewator">
+            <en>Grain elevator</en>
+            <de>Getreidespeicher</de>
+            <fr>Silo à grain</fr>
+            <pl>Elewator zbożowy</pl>
+            <cz>Obilný silo</cz>
+            <sk>Obilné silo</sk>
+        </text>
+        <text name="station_maly">
+            <en>Small elevator</en>
+            <de>Kleines Getreidespeicher</de>
+            <fr>Petit silo à grain</fr>
+            <pl>Mały elewator</pl>
+            <cz>Malý silo</cz>
+            <sk>Malé silo</sk>
+        </text>
+        <text name="station_kolejkowy">
+            <en>Railway purchase</en>
+            <de>Eisenbahn-Einkauf</de>
+            <fr>Point de vente ferroviare</fr>
+            <pl>Skup kolejowy</pl>
+            <cz>Železnice nákup</cz>
+            <sk>Železnice nákup</sk>
+        </text>
+    </l10n>
+<!--
+    <item className="SellingStationPlaceable" id="3" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_ewd/skup_ewd.xml" position="1853.6630 104.3510 -1597.3800" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_ewd">
+    <item className="SellingStationPlaceable" id="6" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_cukier_kolej/skup_cukier_kolej.xml" position="1318.7930 90.7600 883.2120" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_cukier_kolej">
+    <item className="SellingStationPlaceable" id="7" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_honotu/skup_honotu.xml" position="-1888.9600 88.9800 288.8460" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_honotu">
+    <item className="SellingStationPlaceable" id="8" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_mleczko/skup_mleczko.xml" position="536.6680 97.0840 -294.4710" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_mleczko">
+    <item className="SellingStationPlaceable" id="9" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_port/skup_port.xml" position="-1766.8350 89.9960 -1328.0500" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_port">
+    <item className="SellingStationPlaceable" id="10" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_kulka/skup_kulka.xml" position="1360.0710 92.0470 -1694.6650" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationWool">
+    <item className="SellingStationPlaceable" id="13" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_firma/skup_firma.xml" position="-1182.3160 90.4750 -937.5560" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_firma">
+    <item className="SellingStationPlaceable" id="14" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/sellingStationWoodChips/sellingStationWoodChips.xml" position="-1184.8020 75.9120 651.3170" rotation="0.0000 -59.6650 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationWoodChips">
+    <item className="SellingStationPlaceable" id="17" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_piekarnia/skup_piekarnia.xml" position="-1515.6790 81.5550 767.8380" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_piekarnia">
+    <item className="SellingStationPlaceable" id="20" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_ewd_kolej/skup_ewd_kolej.xml" position="1874.1400 103.7910 -1601.3929" rotation="0.0000 180.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_ewd_kolej">
+    <item className="SellingStationPlaceable" id="21" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/sellingStationWool/sellingStationWool.xml" position="-1645.4170 81.3000 1789.3490" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationWool">        
+    <item className="SellingStationPlaceable" id="24" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_ziarniks/skup_ziarniks.xml" position="-316.5040 80.0160 1145.7960" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_ziarniks">
+    <item className="SellingStationPlaceable" id="26" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_elewator/skup_elewator.xml" position="-58.2520 103.8510 -113.9730" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_elewator">
+    <item className="SellingStationPlaceable" id="27" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_jogurt/skup_jogurt.xml" position="-563.0040 83.1410 1882.6460" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_jogurt">
+    <item className="WoodSellStationPlaceable" id="29" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/sellingStationWood/sellingStationWood.xml" position="-1214.6000 75.9690 705.9000" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationWood"/>
+    <item className="SellingStationPlaceable" id="33" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_kolej_1/skup_kolej_1.xml" position="-1686.5150 77.8900 1171.5930" rotation="0.0000 -90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_kolej_1">
+    <item className="SellingStationPlaceable" id="36" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_cukier/skup_cukier.xml" position="1332.9351 90.2520 939.0880" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_cukier">
+    <item className="SellingStationPlaceable" id="37" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_flora/skup_flora.xml" position="-774.3730 90.9950 -1619.6260" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_flora">                    
+    <item className="SellingStationPlaceable" id="38" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/skup_port_kolej/skup_port_kolej.xml" position="-1730.8300 90.7410 -1306.1770" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="skup_port_kolej">
+    <item className="SellingStationPlaceable" id="41" modName="FS19_Agrodaje" filename="$moddir$FS19_Agrodaje/maps/placeables/sellingStationBales/sellingStationBales.xml" position="295.1550 108.0920 -1176.0680" rotation="0.0000 43.3910 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationBales">            
+
+
+    <item name="grainSiloCentral" locationType="TipTrigger" position="-949 0 571" isSellingPoint="true" />
+    <item name="sellingStationWool" locationType="TipTrigger" position="-946 0 -26" isSellingPoint="true" />
+    <item name="grainSiloPort" locationType="TipTrigger" position="-727 0 -820" isSellingPoint="true" />
+    <item name="sellingStationBales" locationType="TipTrigger" position="-727 0 -820" isSellingPoint="true" />
+    <item name="sellingStationWoodChips" locationType="TipTrigger" position="834 0 820" isSellingPoint="true" />
+-->    
+</mapconfig>

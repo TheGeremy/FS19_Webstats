@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>
+		<text name="SCS_BUY_SILO_KALK">
+			<en>BUY SILO KALK</en>
+			<sk>Silo pre nákup vápna</sk>			
+			<cz>Silo pro nákup vápna</cz>
+		</text>		
+		<text name="SCS_BUY_SILO_SAATGUT">
+			<en>BUY SILO SEEDS</en>
+			<sk>Silo pre nákup sejiva</sk>			
+			<cz>Silo pro nákup sejiva</cz>
+		</text>
+		<text name="SCS_FERTILZER_BUY_SILO">
+			<en></en>
+			<sk>Silo pre nákup hnojiva</sk>			
+			<cz>Silo pro nákup hnojiva</cz>
+		</text>
+		<text name="SCS_WERKSTATT_TRIGGER">
+			<en>Service place</en>
+			<sk>Servisné miesto</sk>			
+			<cz>Servisní místo</cz>
+		</text>		
+	</l10n>
+</mapconfig>

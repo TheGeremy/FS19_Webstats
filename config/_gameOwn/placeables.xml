@@ -91,12 +91,7 @@
 			<sk>Bioplyn</sk>
 			<cz>Bioplynka</cz>
 			<en>BGA</en>
-		</text>	
-		<text name="sellingStationWool">
-			<sk>Výkup vlny</sk>
-			<cz>Vlnarna</cz>
-			<en>Wool Sale</en>
-		</text>	
+		</text>		
 		<text name="sellingStationWoodChips">
             <de>Sägewerk</de>
             <en>Sawmill</en>

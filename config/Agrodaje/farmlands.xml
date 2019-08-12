@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <Farmlands>
+        <Farmland id="1"  price="0" x="0" z="0" npcName="NPC_DE_01" /> <!-- Bio1 -->
+        <Farmland id="2"  price="0" x="0" z="0" npcName="NPC_DE_02" /> <!-- Pole_Nr.1 -->
+        <Farmland id="3"  price="0" x="0" z="0" npcName="NPC_DE_03" /> <!-- Pole_Nr.5 -->
+        <Farmland id="4"  price="0" x="0" z="0" npcName="NPC_DE_04" /> <!-- Bio2 -->
+        <Farmland id="5"  price="0" x="0" z="0" npcName="NPC_DE_05" /> <!-- Pole_Nr.3 -->
+        <Farmland id="6"  price="0" x="0" z="0" npcName="NPC_DE_06" /> <!-- Pole_Nr.7 -->
+        <Farmland id="7"  price="0" x="0" z="0" npcName="NPC_DE_07" /> <!-- Pole_Nr.4 -->
+        <Farmland id="8"  price="0" x="0" z="0" npcName="NPC_DE_08" /> <!-- Pole_Nr.6 -->
+        <Farmland id="9"  price="0" x="0" z="0" npcName="NPC_DE_09" /> <!-- Pole_Nr.10 -->
+        <Farmland id="10" price="0" x="0" z="0" npcName="NPC_DE_10" /> <!-- Łąka_przy_budowie-->
+        <Farmland id="11" price="0" x="0" z="0" npcName="NPC_DE_11" /> <!-- Łąka_i_las_przy_magazynie_Pole_Nr.32 -->
+        <Farmland id="12" price="0" x="0" z="0" npcName="NPC_DE_12" /> <!-- Łąka_przy_tamie -->
+        <Farmland id="13" price="0" x="0" z="0" npcName="NPC_DE_13" /> <!-- Łąka_przy_rzece -->
+        <Farmland id="14" price="0" x="0" z="0" npcName="NPC_DE_14" /> <!-- Pole_Nr.8 -->
+        <Farmland id="15" price="0" x="0" z="0" npcName="NPC_DE_15" /> <!-- Pole_Nr.9 -->
+        <Farmland id="16" price="0" x="0" z="0" npcName="NPC_DE_16" /> <!-- Bio3 -->
+        <Farmland id="17" price="732850" x="0" z="0" npcName="NPC_DE_17" /> <!-- Farma_startowa -->
+        <Farmland id="18" price="0" x="0" z="0" npcName="NPC_DE_18" /> <!-- Farma_plus_Pole_Nr.15 Zachodnia-->
+        <Farmland id="19" price="0" x="0" z="0" npcName="NPC_DE_19" /> <!-- Pole_Nr.14 -->
+        <Farmland id="20" price="0" x="0" z="0" npcName="NPC_DE_20" /> <!-- Pole_Nr.13 -->
+        <Farmland id="21" price="0" x="0" z="0" npcName="NPC_DE_01" /> <!-- Pole_Nr.16 -->
+        <Farmland id="22" price="0" x="0" z="0" npcName="NPC_DE_02" /> <!-- Pole_Nr.17 -->
+        <Farmland id="23" price="0" x="0" z="0" npcName="NPC_DE_03" /> <!-- Pole_Nr.18 -->
+        <Farmland id="24" price="0" x="0" z="0" npcName="NPC_DE_04" /> <!-- Pole_Nr.19 -->
+        <Farmland id="25" price="0" x="0" z="0" npcName="NPC_DE_05" /> <!-- Bio4 -->
+        <Farmland id="26" price="0" x="0" z="0" npcName="NPC_DE_06" /> <!-- Pole_Nr.21 -->
+        <Farmland id="27" price="0" x="0" z="0" npcName="NPC_DE_07" /> <!-- Pole_Nr.22 -->
+        <Farmland id="28" price="0" x="0" z="0" npcName="NPC_DE_08" /> <!-- Łąka -->
+        <Farmland id="29" price="0" x="0" z="0" npcName="NPC_DE_09" /> <!-- Łąka_przy_magazynie_kolej -->
+        <Farmland id="30" price="0" x="0" z="0" npcName="NPC_DE_10" /> <!-- Łąka_przy_magazynie_kolej -->
+        <Farmland id="31" price="0" x="0" z="0" npcName="NPC_DE_11" /> <!-- Pole_Nr.23 -->
+        <Farmland id="32" price="0" x="0" z="0" npcName="NPC_DE_12" /> <!-- Pole_Nr.24 -->
+        <Farmland id="33" price="0" x="0" z="0" npcName="NPC_DE_13" /> <!-- Pole_Nr.28 -->
+        <Farmland id="34" price="0" x="0" z="0" npcName="NPC_DE_14" /> <!-- Pole_Nr.31 -->
+        <Farmland id="35" price="0" x="0" z="0" npcName="NPC_DE_15" /> <!-- Pole_Nr. -->
+        <Farmland id="36" price="0" x="0" z="0" npcName="NPC_DE_16" /> <!-- Pole_Nr. -->
+        <Farmland id="37" price="0" x="0" z="0" npcName="NPC_DE_17" /> <!-- Pole_Nr. -->
+        <Farmland id="38" price="0" x="0" z="0" npcName="NPC_DE_18" /> <!-- Pole_Nr. -->
+        <Farmland id="39" price="0" x="0" z="0" npcName="NPC_DE_19" /> <!-- Pole_Nr. -->
+        <Farmland id="40" price="0" x="0" z="0" npcName="NPC_DE_20" /> <!-- Pole_Nr. -->
+        <Farmland id="41" price="0" x="0" z="0" npcName="NPC_DE_01" /> <!-- WOLNE -->
+        <Farmland id="42" price="0" x="0" z="0" npcName="NPC_DE_02" /> <!-- Pole_Nr.41 -->
+        <Farmland id="43" price="0" x="0" z="0" npcName="NPC_DE_03" /> <!-- Pole_Nr.37 -->
+        <Farmland id="44" price="0" x="0" z="0" npcName="NPC_DE_04" /> <!-- Pole_Nr. -->
+        <Farmland id="45" price="0" x="0" z="0" npcName="NPC_DE_05" /> <!-- Pole_Nr. -->
+        <Farmland id="46" price="0" x="0" z="0" npcName="NPC_DE_06" /> <!-- Pole_Nr. -->
+        <Farmland id="47" price="0" x="0" z="0" npcName="NPC_DE_07" /> <!-- Pole_Nr. -->
+        <Farmland id="48" price="0" x="0" z="0" npcName="NPC_DE_08" /> <!-- Pole_Nr. -->
+        <Farmland id="49" price="0" x="0" z="0" npcName="NPC_DE_09" /> <!-- Pole_Nr. -->
+        <Farmland id="50" price="0" x="0" z="0" npcName="NPC_DE_10" /> <!-- Pole_Nr. -->
+        <Farmland id="51" price="0" x="0" z="0" npcName="NPC_DE_11" /> <!-- Pole_Nr. -->
+        <Farmland id="52" price="0" x="0" z="0" npcName="NPC_DE_12" /> <!-- Przy_porcie -->
+        <Farmland id="53" price="0" x="0" z="0" npcName="NPC_DE_13" /> <!-- Przy_porcie -->
+        <Farmland id="54" price="0" x="0" z="0" npcName="NPC_DE_14" /> <!-- Las_przy_porcie -->
+        <Farmland id="55" price="0" x="0" z="0" npcName="NPC_DE_15" /> <!-- Przy_plazy -->
+        <Farmland id="56" price="0" x="0" z="0" npcName="NPC_DE_16" /> <!-- Przy_plazy -->
+        <Farmland id="57" price="0" x="0" z="0" npcName="NPC_DE_17" /> <!-- WOLNE-->
+        <Farmland id="58" price="0" x="0" z="0" npcName="NPC_DE_18" /> <!-- Pole_Nr.-->
+        <Farmland id="59" price="0" x="0" z="0" npcName="NPC_DE_19" /> <!-- Farma_4 Polnocna--> 
+        <Farmland id="60" price="0" x="0" z="0" npcName="NPC_DE_20" /> <!-- Naroznik_mapy -->
+        <Farmland id="61" price="0" x="0" z="0" npcName="NPC_DE_01" /> <!-- Naroznik_mapy -->
+        <Farmland id="62" price="0" x="0" z="0" npcName="NPC_DE_02" /> <!-- Naroznik_mapy -->
+        <Farmland id="63" price="0" />
+    </Farmlands>
+</mapconfig>

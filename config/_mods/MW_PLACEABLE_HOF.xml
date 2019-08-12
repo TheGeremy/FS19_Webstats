@@ -8,11 +8,19 @@
 	<l10n>
 		<text name="SCS_HOFSILO">
 			<sk>SCS Silo</sk>
+			<cz>SCS Silo</cz>
 			<en>SCS Silo</en>
 			<de>SCS Hofsilo</de>
 		</text>
+		<text name="SCS_HAYLOFT">
+			<sk>SCS Seník</sk>
+			<cz>SCS Seník</cz>
+			<en>SCS Hayloft</en>
+			<de>SCS Heuboden</de>
+		</text>		
 		<text name="SCS_BIG_NEW_SILO">
 			<sk>SCS Veľké silo</sk>
+			<cz>SCS Velký silo</cz>
 			<en>SCS Big Silo</en>
 			<de>SCS Hofsilo</de>
 		</text>
