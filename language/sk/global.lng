@@ -378,10 +378,10 @@ MIS_FERTILIZE=Hnojenie
 MIS_TRANSPORT=Preprava
 MIS_SOW=Siatie
 MIS_WEED=Postrek
-MIS_PLOW=Odstranenie buriny
+MIS_PLOW=Oranie
 MIS_MOW_BALE=Lisovanie balíkov
 MIS_CULTIVATE=Kultivácia
-MIS_SPRAY=Hnojenie
+MIS_SPRAY=Postrek herbicídom
 ABGESCHLOSSEN=Vybavené
 
 //statistics.tpl
