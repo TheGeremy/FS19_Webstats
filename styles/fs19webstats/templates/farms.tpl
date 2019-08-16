@@ -40,6 +40,11 @@
 							</ul> {/if}
 						</td> {/foreach}
 					</tr>
+					<tr class="d-flex">
+						{foreach $farms as $farmId => $farm}
+						<td class="col-3">{if $selectedFarm == $farmId} <a href="index.php?page={$page}&leave_farm={$farmId}" class="btn btn-danger btn-sm btn-block" role="button">##LEAVE_FARM##</a> {else} <a href="index.php?page={$page}&join_farm={$farmId}" class="btn btn-primary btn-sm btn-block" role="button">##JOIN_FARM##</a>{/if}
+						</td> {/foreach}
+					</tr>
 				</tbody>
 			</table>
 		</div>
