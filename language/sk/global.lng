@@ -20,6 +20,10 @@ EDITED_BY=upravil
 TIME=Čas
 MONEY=Financie
 
+//farms.tpl
+LEAVE_FARM=Opustiť farmu
+JOIN_FARM=Vstúpiť na farmu
+
 //install.tpl
 CHANGE_BUTTON=Zmeniť
 CHOOSE_LANGUAGE_LABEL=Výber jazyka
