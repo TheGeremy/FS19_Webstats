@@ -43,8 +43,8 @@ class Commodity {
 	public static function loadCommodities($xml) {
 		self::$farmId = $_SESSION ['farmId'];
 		self::$xml = $xml;
-		self::analyzeItems ();
 		self::loadVehicles ();
+		self::analyzeItems ();
 	}
 	public static function getAllCommodities() {
 		ksort ( self::$commoditiesArray );
@@ -57,6 +57,18 @@ class Commodity {
 		foreach ( self::$xml ['items'] as $item ) {
 			$location = cleanFileName ( $item ['filename'] );
 			switch ($item ['className']) {
+			case 'FS19_GlobalCompany.GC_ProductionFactoryPlaceable' :
+				if ($item ['farmId'] == $_SESSION ['farmId']) {
+					if (isset ( $item->productionFactory->outputProducts )) {
+						$location = strval ( $item ['modName'] );
+						foreach ( $item->productionFactory->outputProducts->outputProduct as $product ) {
+							$fillType = strval ( $product ['name'] );
+							$fillLevel = intval ( $product ['fillLevel'] );
+							self::addCommodity ( $fillType, $fillLevel, $location );
+						}
+					}
+				}
+				break;
 				case 'Bale' :
 					if ($item ['farmId'] == $_SESSION ['farmId']) {
 						$location = getLocation ( $item ['position'] );
