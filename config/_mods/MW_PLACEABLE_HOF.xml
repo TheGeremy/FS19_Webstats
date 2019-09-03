@@ -6,6 +6,36 @@
 	<item name="SCS_FUTTERMISCH_SILO" locationType="storage" />
 	<item name="SCS_BUNKER_SILO_KLEIN_ONE_WAY" locationType="bunker" />
 	<l10n>
+		<text name="SCS_SCHAFSTALL">
+			<sk>Salaš</sk>
+                	<en>Sheep stall</en>
+            	<de>Schafstall</de>
+            	<cz>Ovčín</cz>
+		</text>	
+		<text name="SCS_HORSE_STALL">
+			<sk>Konské stajne</sk>
+            	<en>Horse stable</en>
+            	<de>Horse stall</de>
+            	<cz>Koňské stáje</cz>
+		</text>		
+		<text name="SCS_BUESCHE_BIRKE">
+			<sk>Breza</sk>
+          		<en>Birch</en>
+          		<de>Birke</de>
+          		<cz>Bříza</cz>
+		</text>
+		<text name="SCS_BUESCHE_Laubbaum">
+			<sk>Listnatý strom</sk>
+            	<en>Foliage tree</en>
+            	<de>Laubbaum</de>
+            	<cz>Listnatý strom</cz>
+		</text>
+		<text name="SCS_LIQUID_HERBICIDE">
+			<sk>Stanica s Herbicídom</sk>
+		  	<en>Liquid Herbicide Station</en>
+		  	<de>Flüssige Herbizidstation</de>
+          		<cz>Stanice s herbicídem</cz>
+		</text>
 		<text name="SCS_HOFSILO">
 			<sk>SCS Silo</sk>
 			<cz>SCS Silo</cz>
@@ -26,33 +56,45 @@
 		</text>
 		<text name="SCS_HOFSILO_EXTENTION">
 			<sk>SCS Prídavný zásobnik sila</sk>
+			<cz>SCS Přídavný zásobník síla</cz>
 			<en>SCS Silo Extension</en>
 			<de>SCS Hofsilo Erweiterung</de>
 		</text>
 		<text name="SCS_FUTTERMISCH_SILO">
 			<sk>SCS Silo pre DKZ</sk>
+			<cz>SCS Silo pro DKZ</cz>
 			<en>SCS TMR Silo</en>
 			<de>SCS Futtermischsilo</de>
 		</text>
 		<text name="SCS_BUNKER_SILO_KLEIN_ONE_WAY">
 			<sk>SCS Jednosmerný bunker</sk>
+			<cz>SCS jednosměrný bunkr</cz>
 			<en>SCS One Way Silo</en>
 			<de>SCS Kleines Fahrsilo</de>
 		</text>
 		<text name="SCS_SCHWEINESTALL">
 			<sk>SCS Ošipáreň</sk>
+			<cz>SCS Ošipáreň</cz>
 			<en>SCS Pigsty</en>
 			<de>SCS Schweinestall</de>
 		</text>
 		<text name="SCS_KUHSTALL_BIG_MIT_WEIDE">
 			<sk>SCS Veľký kurín s výbehom</sk>
+			<cz>SCS Velký kurník s výběhem</cz>
 			<en>SCS Big Coop with run</en>
 			<de>SCS Großer Kuhstall mit Weide</de>
 		</text>
 		<text name="SCS_UNTERSTAND_TEST_A3">
 			<sk>SCS Prístrešok A3</sk>
+			<cz>SCS Přístřešek A3</cz>
 			<en>SCS Shelter A3</en>
 			<de>SCS Unterstand A3</de>
-		</text>		
+		</text>
+		<text name="SCS_UNTERSTAND_BIG">
+			<sk>SCS Prístrešok A2</sk>
+			<cz>SCS Přístřešek A2</cz>
+			<en>SCS Shelter A2</en>
+			<de>SCS Unterstand A2</de>
+		</text>
 	</l10n>
 </mapconfig>

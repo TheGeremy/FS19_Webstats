@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
-	<l10n>
+	<l10n>	
+		<text name="FraDiscV6000">
+			<sk>FraDisc V6000</sk>
+			<cz>FraDisc V6000</cz>
+			<en>FraDisc V6000</en>
+			<de>FraDisc V6000</de>
+		</text>	
+		<text name="Valtra">
+        		<en>Valtra HiTech</en>
+        		<de>Valtra HiTech</de>
+        		<cz>Valtra HiTech</cz>		
+		</text>        
+		<text name="novacatA10CF">
+			<sk>Novacat A10CF</sk>
+			<cz>Novacat A10CF</cz>
+			<en>Novacat A10CF</en>
+			<de>Novacat A10CF</de>
+		</text>	
+		<text name="shovel_FL">
+			<sk>Lyžica 5K</sk>	
+			<cz>lžíce 5K</cz>
+			<en>Shovel 5K</en>
+			<de>Schaufel 5K</de>
+		</text>					
+		<text name="standpipe">
+			<sk>Vodovodná prípojka</sk>
+			<cz>Vodovodní přípojka</cz>
+			<en>Water-service pipe</en>
+			<de>Wasseranschluss</de>
+		</text>		
+		<text name="lsfmUniversalTankTrailer7500L">
+			<sk>Univerzálna cisterna 7500L </sk>
+			<cz>Univerzální cisterna 7500L</cz>
+			<en>Universal Trailer Tank 7500L</en>
+			<de>Universal-Anhängertank 7500L</de>
+		</text>
+		<text name="deckChair">
+			<sk>Lehátko</sk>
+			<cz>Lehátko</cz>
+			<en>Deckchair</en>
+			<de>Liegestuhl</de>
+		</text>		
+		<text name="seedTender">
+			<sk>Horsch Seed Tender 10T</sk>
+			<cz>Horsch Seed Tender 10T</cz>
+			<en>Horsch Seed Tender 10T</en>
+			<de>Horsch Seed Tender 10T</de>
+		</text>
+		<text name="transportTrailer">
+			<sk>Horsch Transport Trailer</sk>
+			<cz>Horsch Transport Trailer</cz>			
+			<en>Horsch Transport Trailer</en>
+			<de>Horsch Transport Trailer</de>
+		</text>				
 		<!-- john deere gator pack -->
+		<text name="JDT1000">
+			<sk>John Deere JDT1000</sk>
+			<en>John Deere JDT1000</en>
+			<de>John Deere JDT1000</de>
+		</text>
 		<text name="JDUT4000">
 			<sk>John Deere UT4000</sk>
 			<en>John Deere UT4000</en>
@@ -91,7 +149,6 @@
 			<en>Joskin AQUATRANS 7300</en>
 			<sk>Joskin AQUATRANS 7300</sk>			
 			<cz>Joskin AQUATRANS 7300</cz>
-		</text>		
-		
+		</text>				
 	</l10n>
 </mapconfig>

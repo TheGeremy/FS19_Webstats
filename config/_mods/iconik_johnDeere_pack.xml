@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- iconik john deere gator pack -->
+<mapconfig>
+	<l10n>
+		<text name="arms_FL2">
+			<en>John Deere FL60</en>
+			<de>John Deere FL60</de>
+			<sk>John Deere FL60</sk>
+			<cz>John Deere FL60</cz>
+		</text>		
+		<text name="JD_Bucket">
+			<en>John Deere Bucket</en>
+			<de>John Deere Bucket</de>
+			<sk>John Deere Bucket</sk>
+			<cz>John Deere Bucket</cz>
+		</text>
+		<text name="JD_Fert">
+			<en>John Deere K165</en>
+			<de>John Deere K165</de>
+			<sk>John Deere K165</sk>
+			<cz>John Deere K165</cz>
+		</text>				
+		<text name="JD_Tipper1">
+			<en>John Deere TDK302</en>
+			<de>John Deere TDK302</de>
+			<sk>John Deere TDK302</sk>
+			<cz>John Deere TDK302</cz>
+		</text>
+		<text name="JD_Tipper2">
+			<en>John Deere HDK302</en>
+			<de>John Deere HDK302</de>
+			<sk>John Deere HDK302</sk>
+			<cz>John Deere HDK302</cz>
+		</text>
+		<text name="JD_Tipper3">
+			<en>John Deere 50/10</en>
+			<de>John Deere 50/10</de>
+			<sk>John Deere 50/10</sk>
+			<cz>John Deere 50/10</cz>
+		</text>			
+	</l10n>
+</mapconfig>
