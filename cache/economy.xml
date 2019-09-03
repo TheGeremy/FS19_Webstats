@@ -1,0 +1,7 @@
+﻿<economy>
+    <greatDemands>
+        <greatDemand itemId="29" fillTypeName="MILK" demandMultiplier="1.400000" demandStartDay="10" demandStartHour="11" demandDuration="18" isRunning="false" isValid="true"/>
+        <greatDemand itemId="7" fillTypeName="BARLEY" demandMultiplier="1.300000" demandStartDay="9" demandStartHour="7" demandDuration="6" isRunning="false" isValid="true"/>
+        <greatDemand itemId="42" fillTypeName="SUGARCANE" demandMultiplier="1.400000" demandStartDay="11" demandStartHour="9" demandDuration="24" isRunning="false" isValid="true"/>
+    </greatDemands>
+</economy>

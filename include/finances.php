@@ -34,7 +34,7 @@ switch ($mode) {
 		include ('./include/savegame/Commodities.class.php');
 		Commodity::loadCommodities ( $savegame::$xml );
 		include ('./include/savegame/Vehicles.class.php');
-		Vehicle::extractXML ( $savegame::$xml, $options ['general'] ['farmId'], $mapconfig );
+		Vehicle::extractXML ( $savegame::$xml, $options ['general'] ['farmId'], $mapconfig  );
 		include ('./include/savegame/Animals.class.php');
 		Animals::loadStables ( $savegame::$xml );
 		
@@ -64,7 +64,7 @@ switch ($mode) {
 		}
 		$prices = Price::getAllPrices ();
 		foreach ( Commodity::getAllCommodities () as $l_fillType => $commodity ) {
-			$fillType = strval ( $commodity ['i3dName'] );
+			$fillType = $commodity ['i3dName'];
 			if ($fillType == 'CHAFF') {
 				// Chaff will be silage after some time in a silo
 				$l_fillType = translate ( 'SILAGE' );
@@ -87,13 +87,8 @@ switch ($mode) {
 		/*
 		 * LIABILITIES
 		 */
-		$startingCapital = array (
-				1 => 100000,
-				2 => 1250000,
-				3 => 500000 
-		);
 		$liabilities = array (
-				'A1' => $startingCapital [$savegame->getCareerMode ()],
+				'A1' => 500000,
 				'B1' => Farm::getLoan ( $_SESSION ['farmId'] ),
 				'B2' => (($money < 0) ? $money : 0) * - 1 
 		);
@@ -191,6 +186,7 @@ switch ($mode) {
 		
 		// $operatingResult = array_sum ( $financeSummary );
 		$financeHistory = Farm::getAllFarms () [$_SESSION ['farmId']] ['finances'];
+		//var_dump($financeHistory);
 		$smarty->assign ( 'financeHistory', $financeHistory );
 		$smarty->assign ( 'financeElements', $financeElements );
 		$smarty->assign ( 'money', Farm::getAllFarms () [$_SESSION ['farmId']] ['money'] );

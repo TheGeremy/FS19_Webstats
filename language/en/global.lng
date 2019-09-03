@@ -21,8 +21,6 @@ TIME=Time
 MONEY=Money
 ON=On
 OFF=Off
-ONMAP=Landscape
-OUTOFMAP=Out of map
 
 //install.tpl
 CHANGE_BUTTON=Change

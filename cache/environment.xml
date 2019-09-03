@@ -1,0 +1,25 @@
+﻿<environment>
+    <dayTime>1185.818970</dayTime>
+    <currentDay>8</currentDay>
+    <realHourTimer>37574</realHourTimer>
+    <weather timeSinceLastRain="2568">
+        <forecast>
+            <instance durationLeft="6.986351" typeName="CLOUDY" variationIndex="3" duration="7.000000"/>
+            <instance typeName="SUN" variationIndex="1" duration="14.000000"/>
+            <instance typeName="RAIN" variationIndex="2" duration="11.000000"/>
+            <instance typeName="SUN" variationIndex="4" duration="14.000000"/>
+            <instance typeName="CLOUDY" variationIndex="1" duration="10.000000"/>
+            <instance typeName="RAIN" variationIndex="1" duration="7.000000"/>
+            <instance typeName="CLOUDY" variationIndex="4" duration="10.000000"/>
+            <instance typeName="CLOUDY" variationIndex="2" duration="10.000000"/>
+            <instance typeName="SUN" variationIndex="4" duration="13.000000"/>
+            <instance typeName="SUN" variationIndex="4" duration="13.000000"/>
+            <instance typeName="SUN" variationIndex="4" duration="17.000000"/>
+            <instance typeName="CLOUDY" variationIndex="2" duration="9.000000"/>
+            <instance typeName="CLOUDY" variationIndex="2" duration="8.000000"/>
+            <instance typeName="SUN" variationIndex="4" duration="12.000000"/>
+            <instance typeName="SUN" variationIndex="4" duration="13.000000"/>
+        </forecast>
+        <fog currentMieScale="2.000000" lastMieScale="9.000000" targetMieScale="2.000000" alpha="1.000000" duration="14400000.000000" nightFactor="0.250000" dayFactor="0.250000"/>
+    </weather>
+</environment>

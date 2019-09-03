@@ -32,7 +32,7 @@
 			<de>Großer Schafweide</de>
 		</text>		
 		<text name="husbandryHorseLarge">
-			<sk>Veľké stajne</sk>
+			<sk>Veľká stajňa</sk>
 			<cz>Velká konírna</cz>				
 			<en>Large Horse Husbandry</en>
 			<de>Großer Pferdestall</de>
@@ -91,7 +91,12 @@
 			<sk>Bioplyn</sk>
 			<cz>Bioplynka</cz>
 			<en>BGA</en>
-		</text>		
+		</text>	
+		<text name="sellingStationWool">
+			<sk>Výkup vlny</sk>
+			<cz>Vlnarna</cz>
+			<en>Wool Sale</en>
+		</text>	
 		<text name="sellingStationWoodChips">
             <de>Sägewerk</de>
             <en>Sawmill</en>

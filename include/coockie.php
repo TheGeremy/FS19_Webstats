@@ -33,7 +33,8 @@ if (isset ( $_COOKIE ['fs19webstats'] )) {
 if (! isset ( $options ['general'] )) {
 	$options ['version'] = $cookieVersion;
 	$options ['general'] ['reload'] = false;
-	$options ['general'] ['language'] = $defaultLanguage;
+	##$options ['general'] ['language'] = $defaultLanguage;
+	$options ['general'] ['language'] = 'sk';	
 	$options ['general'] ['style'] = $defaultStyle;
 	$options ['general'] ['hideFooter'] = 0;
 	$options ['general'] ['farmId'] = 1;

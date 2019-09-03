@@ -1,0 +1,97 @@
+﻿<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Multiplayer</savegameName>
+        <mapId>FS19_Agrodaje.SampleModMap</mapId>
+        <mapTitle>Agrodaje</mapTitle>
+        <saveDate>2019-09-03</saveDate>
+        <playerModelIndex>1</playerModelIndex>
+        <playerColorIndex>1</playerColorIndex>
+        <playerBodyIndex>1</playerBodyIndex>
+        <playerHatIndex>0</playerHatIndex>
+        <playerAccessoryIndex>0</playerAccessoryIndex>
+        <playerHairIndex>1</playerHairIndex>
+        <playerJacketIndex>0</playerJacketIndex>
+        <playerName>Server</playerName>
+        <resetVehicles>false</resetVehicles>
+        <isPlantWitheringEnabled>true</isPlantWitheringEnabled>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <fuelUsageLow>false</fuelUsageLow>
+        <helperBuyFuel>false</helperBuyFuel>
+        <helperBuySeeds>false</helperBuySeeds>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperSlurrySource>1</helperSlurrySource>
+        <helperManureSource>1</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>1</splitShapesRevision>
+        <tipCollisionRevision>1</tipCollisionRevision>
+        <placementCollisionRevision>1</placementCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <difficulty>2</difficulty>
+        <economicDifficulty>2</economicDifficulty>
+        <plantGrowthRate>2</plantGrowthRate>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>1.000000</timeScale>
+        <autoSaveInterval>20.000000</autoSaveInterval>
+    </settings>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>104477</money>
+        <playTime>4077.958252</playTime>
+    </statistics>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="FS19_GuidanceSteering" title="Guidance Steering" version="1.0.0.3" required="false" fileHash="5ce41a7a76e5580eadbb7c4a3c7c480f"/>
+    <mod modName="FS19_AdjustableWeight" title="Adjustable Weight" version="1.0.0.0" required="false" fileHash="fd9dbc119210b1c7b83f227553d204ee"/>
+    <mod modName="FS19_setRadioVolumeDirectlyInGame" title="Set Radio Volume" version="1.0.0.1" required="false" fileHash="3ecf83f53e53205cfcc6ba5ea7b27b04"/>
+    <mod modName="FS19_RealFillManureHeaps" title="Real Fill Manure Heaps" version="19.0.0.0" required="false" fileHash="0e53311379b826c3f81f60bd23d65413"/>
+    <mod modName="FS19_flieglAnimalTrailer" title="Fliegl Animal Transporter" version="1.0.0.0" required="false" fileHash="a4996b741f650163b397f27b21e0b8c7"/>
+    <mod modName="FS19_RealClock" title="RealClock Mod" version="1.1.2.0" required="false" fileHash="c87a7ee7f189239f6d8f9b52f1f53233"/>
+    <mod modName="FS19_compositeHallPack" title="Composite machinesheds" version="1.0.0.0" required="false" fileHash="3d0c6e3cd2431d12c2a2d763cb4f7c38"/>
+    <mod modName="FS19_autoTurnOffTurnLights" title="Auto turn off turn lights" version="1.0.0.0" required="false" fileHash="59ccbfd872e769795e03fd49ae9d94ac"/>
+    <mod modName="FS19_AdditionalFieldInfo" title="Additional field info" version="1.0.0.0" required="false" fileHash="eadff953eaadc7b0587153b76b61e863"/>
+    <mod modName="pdlc_johnDeereCottonPack" title="John Deere Cotton Pack" version="1.0.0.0" required="false" fileHash="016cd10c66fb7218c80d7e5d6bd03366"/>
+    <mod modName="FS19_realDirtColor" title="Real Dirt Color" version="1.1.0.2" required="false" fileHash="aa70e9fa363c807a1fdbba81d0487a94"/>
+    <mod modName="FS19_JohnDeereGatorPack" title="John Deere Gator Pack" version="1.0.0.1" required="false" fileHash="0af257efcde6c74cea1ae06288814ddd"/>
+    <mod modName="FS19_MW_PlaceableHofs" title="MODDING WELT FARMCOMPLEX" version="1.3.3" required="false" fileHash="2225ad3943e0c125812ffc13c3cf256d"/>
+    <mod modName="FS19_Agribumper" title="Agribumper" version="1.0.0.0" required="false" fileHash="414b48281ddb27360aa76d4dc233ca78"/>
+    <mod modName="FS19_KuhnGF8702_GA" title="Kuhn GF8702 with ground adaptation" version="1.0.0.0" required="false" fileHash="4ad74cb81ca5b8c381cdfa4f0ff71533"/>
+    <mod modName="FS19_disableVehicleCameraCollision" title="Disable Vehicle Camera Collision" version="1.0.0.0" required="false" fileHash="fddba7935574c4cc665fc9ea63683750"/>
+    <mod modName="FS19_Valtra_Hitech" title="Valtra HiTech" version="1.0.0.0" required="false" fileHash="8cbe82785d929ac68ec6806bd51f9bac"/>
+    <mod modName="FS19_Standpipe" title="Water Standpipe" version="1.0.0.0" required="false" fileHash="eb0f6d82809b364485f6f2a7598934dc"/>
+    <mod modName="FS19_cultivatorFieldCreator" title="Cultivator Field Creator" version="1.0.0.0" required="false" fileHash="f201c0d7c7d7bd273b37d5b9254e0d63"/>
+    <mod modName="pdlc_andersonPack" title="Anderson Group Equipment Pack" version="1.0.1.0" required="false" fileHash="5f80c1d76b1adeadba21204a64187da8"/>
+    <mod modName="FS19_fendtVario_1000" title="Fendt Vario 1000" version="1.0.0.0" required="false" fileHash="4fdafe947c92bdf3f2e703c4eff97f87"/>
+    <mod modName="FS19_workshopTabber" title="Workshop Tabber" version="1.1.0.0" required="false" fileHash="a98900b465fd11fb6182e0eb481dbcb4"/>
+    <mod modName="FS19_TipSideHUD" title="Tip Side HUD" version="1.0.0.1" required="false" fileHash="6e64c4b2bad3a53f230816563ca768d5"/>
+    <mod modName="FS19_SwitchToTrain" title="Switch To Trains" version="1.0.0.0" required="false" fileHash="0155fe5ef46a093ea184cf8413ca88d3"/>
+    <mod modName="FS19_horschPack" title="Horsch Pack" version="1.0.1.0" required="false" fileHash="6a77738a90dc7c4c743e5cdf9d89c984"/>
+    <mod modName="FS19_SpeedControl" title="Speed Control" version="19.0.0.1" required="false" fileHash="6ed58a49c16f09d99bc8369fbdf094b2"/>
+    <mod modName="FS19_holmerPack" title="HOLMER Terra Variant DLC" version="1.0.1.0" required="false" fileHash="210ce1fe1b3d0227bcb5f40651416e40"/>
+    <mod modName="FS19_poettingerNovacatA10CF" title="Pöttinger Novacat A10 Cross Flow" version="1.0.0.1" required="false" fileHash="be76d5c5c6f8c620bacf7efe2b7192d8"/>
+    <mod modName="FS19_SKCZFlags" title="SK/CZ Flags" version="1.0.0.5" required="false" fileHash="036f95f50e4922d585549027327a9a9c"/>
+    <mod modName="FS19_RM_Subsidy" title="Government Subsidy" version="1.0.0.0" required="false" fileHash="3ecae20c9e07843a8c1a72e8db27ec9b"/>
+    <mod modName="FS19_MultipleMissions" title="Multiple Missions" version="1.0" required="false" fileHash="ec56051204824398c1a75b1cf2f1a39e"/>
+    <mod modName="FS19_Hofpack" title="Farm Building Pack" version="1.1.2" required="false" fileHash="b044ef8b9e8b7174313d9011e9ca09fc"/>
+    <mod modName="FS19_PlaceAnywhere" title="Place Anywhere" version="1.2" required="false" fileHash="a9d52f7a6809859cd893c2312e61fa54"/>
+    <mod modName="FS19_BaleCounter" title="Bale Counter" version="1.0.0.1" required="false" fileHash="35b6fec7e7c19fe2b2b6b42641d6b7d3"/>
+    <mod modName="FS19_deckChair" title="Deck Chair For Sleeping" version="1.0.0.0" required="false" fileHash="8c221c65e04401c438aff3aab95d72a2"/>
+    <mod modName="FS19_cameraZoomExtension" title="Extends cam zoom of a vehicle." version="1.0.0.0" required="false" fileHash="92dd40e29740134db23229d64910cb37"/>
+    <mod modName="FS19_agcoWeight2800" title="AGCO 2800KG Weight" version="1.0.0.1" required="false" fileHash="9c8b46fc5c0acad8e26a55e6b146bbf9"/>
+    <mod modName="FS19_lsfmUniversalTankPack" title="LSFM Universal Tank Pack" version="1.0.0.4" required="false" fileHash="242eb77c58bd184a1e456e611bb12fc7"/>
+    <mod modName="FS19_Agrodaje" title="Agrodaje" version="1.0.0.4" required="true" fileHash="ed7d3d54561c74adab3a805bd49af362"/>
+    <mod modName="FS19_LimeToAugerWagon" title="Lime To Augerwagon" version="1.0.0.0" required="false" fileHash="cc60407197897d441f93c8f7f036481c"/>
+</careerSavegame>

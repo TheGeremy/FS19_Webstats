@@ -1,0 +1,335 @@
+[11-Jul-2019 14:25:26 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[12-Jul-2019 14:15:25 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/loadConfig.php on line 46
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 59
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Undefined index: farms in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Notice:  Undefined index: farms in /volume2/web/FS19_Webstats/include/savegame/Farm.class.php on line 37
+[15-Jul-2019 11:45:40 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Farm.class.php on line 37
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/loadConfig.php on line 46
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 59
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Undefined index: farms in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Undefined index: items in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 57
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 57
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Notice:  Undefined index: vehicles in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 162
+[15-Jul-2019 11:45:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 162
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/loadConfig.php on line 46
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 59
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Undefined index: farms in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Undefined index: items in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 57
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 57
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Notice:  Undefined index: vehicles in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 162
+[15-Jul-2019 11:46:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 162
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/loadConfig.php on line 46
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 118 of 355 bytes in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 59
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Undefined index: farms in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Undefined index: items in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 57
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 57
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Notice:  Undefined index: vehicles in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 162
+[15-Jul-2019 11:46:14 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Commodities.class.php on line 162
+[15-Jul-2019 11:55:19 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[15-Jul-2019 14:25:30 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:44:25 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:45:32 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:45:41 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:45:43 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:47:16 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:49:13 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:49:22 Europe/Berlin] PHP Notice:  Undefined index: Farmlands in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:51:24 Europe/Berlin] PHP Notice:  Undefined offset: 17 in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:51:26 Europe/Berlin] PHP Notice:  Undefined offset: 17 in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:51:28 Europe/Berlin] PHP Notice:  Undefined offset: 17 in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:51:31 Europe/Berlin] PHP Notice:  Undefined offset: 17 in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:52:54 Europe/Berlin] PHP Notice:  Undefined offset: 17 in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 15:56:03 Europe/Berlin] PHP Notice:  Undefined offset: 17 in /volume2/web/FS19_Webstats/include/finances.php on line 62
+[15-Jul-2019 16:15:28 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 16:15:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 19:52:28 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 19:52:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 20:56:42 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 20:56:42 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 21:01:28 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 21:01:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 23:57:45 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 23:57:45 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 23:57:57 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[15-Jul-2019 23:57:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[18-Jul-2019 21:08:22 Europe/Berlin] PHP Warning:  ftp_login(): User cannot log in. in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 158
+[18-Jul-2019 21:10:06 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 310 of 344 bytes in /volume2/web/FS19_Webstats/include/loadConfig.php on line 46
+[18-Jul-2019 21:10:06 Europe/Berlin] PHP Notice:  unserialize(): Error at offset 310 of 344 bytes in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 59
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 106
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Undefined index: environment in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 107
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 108
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Undefined index: careerSavegame in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 109
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Undefined index: farms in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 124
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Notice:  Undefined index: farms in /volume2/web/FS19_Webstats/include/savegame/Farm.class.php on line 37
+[18-Jul-2019 21:10:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Farm.class.php on line 37
+[18-Jul-2019 23:06:24 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[18-Jul-2019 23:06:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[21-Jul-2019 15:51:42 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Jul-2019 15:52:30 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Jul-2019 15:52:44 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Jul-2019 15:52:45 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Jul-2019 15:52:46 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Jul-2019 15:52:46 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Jul-2019 15:52:47 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[22-Jul-2019 19:10:04 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 14:40:20 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[24-Jul-2019 16:34:57 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[24-Jul-2019 16:34:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : AttValue: " or ' expected in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : attributes construct error in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : Couldn't find end of Start Tag vehicle line 521 in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Notice:  Undefined index: vehicles in /volume2/web/FS19_Webstats/include/loadConfig.php on line 67
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in /volume2/web/FS19_Webstats/include/loadConfig.php on line 70
+[24-Jul-2019 19:12:54 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in /volume2/web/FS19_Webstats/include/loadConfig.php on line 78
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:12:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : AttValue: " or ' expected in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : attributes construct error in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : Couldn't find end of Start Tag vehicle line 521 in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Notice:  Undefined index: vehicles in /volume2/web/FS19_Webstats/include/loadConfig.php on line 67
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in /volume2/web/FS19_Webstats/include/loadConfig.php on line 70
+[24-Jul-2019 19:13:27 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in /volume2/web/FS19_Webstats/include/loadConfig.php on line 78
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:13:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : AttValue: " or ' expected in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : attributes construct error in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file(): ./config/_gameOwn/vehicles.xml:521: parser error : Couldn't find end of Start Tag vehicle line 521 in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file(): sename="stollFrontLoaderFZ.xml" type="attachableFrontloader" name="FZ 30" brand= in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  simplexml_load_file():                                                                                ^ in /volume2/web/FS19_Webstats/include/functions.php on line 79
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Notice:  Undefined index: vehicles in /volume2/web/FS19_Webstats/include/loadConfig.php on line 67
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in /volume2/web/FS19_Webstats/include/loadConfig.php on line 70
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in /volume2/web/FS19_Webstats/include/loadConfig.php on line 78
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 19:15:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /volume2/web/FS19_Webstats/include/savegame/Vehicles.class.php on line 58
+[24-Jul-2019 22:47:03 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 22:49:26 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 22:50:50 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 22:52:57 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 22:54:46 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 23:09:37 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 23:18:48 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 23:36:44 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Jul-2019 23:36:44 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[24-Jul-2019 23:36:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[24-Jul-2019 23:51:08 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Jul-2019 00:27:08 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Jul-2019 00:34:20 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Jul-2019 00:48:57 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Jul-2019 17:20:04 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[25-Jul-2019 17:20:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[25-Jul-2019 17:57:17 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[25-Jul-2019 17:57:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[25-Jul-2019 18:00:15 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[25-Jul-2019 18:00:15 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[25-Jul-2019 18:00:24 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[25-Jul-2019 18:00:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[27-Jul-2019 09:09:18 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[27-Jul-2019 09:09:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[27-Jul-2019 17:15:42 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[31-Jul-2019 20:12:14 Europe/Berlin] PHP Warning:  ftp_get(): The system cannot find the file specified.  in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 164
+[01-Aug-2019 09:02:25 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[01-Aug-2019 09:02:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[01-Aug-2019 09:09:22 Europe/Berlin] PHP Notice:  Undefined index: cols in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[01-Aug-2019 09:09:22 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 138
+[06-Aug-2019 21:36:16 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[07-Aug-2019 05:25:59 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[07-Aug-2019 13:11:49 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[08-Aug-2019 20:54:09 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[09-Aug-2019 21:28:01 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[11-Aug-2019 15:13:12 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[11-Aug-2019 21:05:19 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[11-Aug-2019 23:00:33 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 02:58:52 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 19:53:26 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:10:03 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:10:16 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:10:30 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:10:45 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:11:01 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:11:08 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:11:19 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:11:33 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:11:44 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[12-Aug-2019 20:11:57 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[13-Aug-2019 06:33:52 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[13-Aug-2019 13:41:17 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[13-Aug-2019 16:54:43 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[14-Aug-2019 02:14:41 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[14-Aug-2019 03:16:52 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[14-Aug-2019 04:37:11 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[14-Aug-2019 17:56:19 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[15-Aug-2019 02:16:46 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[15-Aug-2019 06:25:59 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[15-Aug-2019 18:02:58 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[16-Aug-2019 01:33:07 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[16-Aug-2019 10:58:00 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[17-Aug-2019 04:43:40 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[17-Aug-2019 18:54:51 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[17-Aug-2019 20:07:35 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[18-Aug-2019 07:45:18 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[18-Aug-2019 20:34:12 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[19-Aug-2019 05:14:43 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[19-Aug-2019 08:15:59 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[19-Aug-2019 19:10:16 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[20-Aug-2019 04:04:35 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[20-Aug-2019 18:13:56 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Aug-2019 10:12:34 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[21-Aug-2019 13:05:12 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[21-Aug-2019 13:05:14 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[21-Aug-2019 21:02:03 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[22-Aug-2019 08:44:29 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[22-Aug-2019 09:07:50 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[22-Aug-2019 23:01:18 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[23-Aug-2019 00:07:40 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[23-Aug-2019 13:02:33 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[23-Aug-2019 13:53:58 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[23-Aug-2019 16:11:53 Europe/Berlin] PHP Warning:  ftp_connect(): php_network_getaddresses: gethostbyname failed in /volume2/web/FS19_Webstats/include/savegame/Savegame.class.php on line 153
+[24-Aug-2019 01:24:51 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Aug-2019 09:34:02 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[24-Aug-2019 16:45:08 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Aug-2019 04:20:53 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Aug-2019 07:08:21 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Aug-2019 12:39:03 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[25-Aug-2019 14:45:24 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[26-Aug-2019 00:27:27 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[27-Aug-2019 05:16:42 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[27-Aug-2019 15:38:40 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[27-Aug-2019 16:41:58 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[27-Aug-2019 21:27:50 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[28-Aug-2019 04:55:29 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[28-Aug-2019 17:03:03 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[28-Aug-2019 18:31:50 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[28-Aug-2019 18:39:20 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[28-Aug-2019 18:44:53 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[28-Aug-2019 20:31:54 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[28-Aug-2019 20:31:55 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[29-Aug-2019 07:04:54 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[29-Aug-2019 13:34:32 Europe/Berlin] PHP Notice:  Undefined index: class in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 88
+[29-Aug-2019 13:34:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /volume2/web/FS19_Webstats/templates_c/fs19webstats^f5e620ec6b3f4f2302524d6203b566c737dcef05_0.file.prices.tpl.php on line 88
+[29-Aug-2019 21:10:39 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[30-Aug-2019 10:48:36 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[30-Aug-2019 20:00:35 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[30-Aug-2019 22:59:21 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[31-Aug-2019 13:34:29 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[31-Aug-2019 21:33:56 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[01-Sep-2019 01:02:04 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[01-Sep-2019 15:49:41 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[02-Sep-2019 03:38:24 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[02-Sep-2019 08:23:07 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[02-Sep-2019 22:50:15 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[03-Sep-2019 03:33:01 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[03-Sep-2019 12:23:41 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25
+[03-Sep-2019 14:30:30 Europe/Berlin] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /volume2/web/FS19_Webstats/include/language.php on line 25

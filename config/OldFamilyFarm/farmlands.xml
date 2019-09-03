@@ -20,6 +20,6 @@
 		<Farmland id="16" price="223888" x="0" z="0" />
 		<Farmland id="17" price="152864" x="0" z="0" />
 		<Farmland id="18" price="115804" x="0" z="0" />
-		<farmland id="63" price="0"/>
+		<Farmland id="63" price="0"/>
 	</Farmlands>
 </mapconfig>

@@ -59,6 +59,7 @@ $userLang = $_SESSION ['language'];
 // Kartenkonfiguration aus XML Dateien laden
 $loadedConfig = loadXMLMapConfig ( '_gameOwn', $userLang );
 $mapconfig = $loadedConfig [0];
+//var_dump($loadedConfig [0]);
 $lang = $loadedConfig [1];
 // load installed mods
 $loadedConfig = loadXMLMapConfig ( '_mods', $userLang );
