@@ -5,7 +5,14 @@
 		<div class="list-group">
 			{foreach $stables as $stableI3dName => $stable}
 			<button type="button" class="list-group-item list-group-item-dark">
-				<strong>{$stable.name}</strong>
+				<strong>
+					{$stable.name}
+					{if isset($stable.animals_count)} 
+						&#45;&nbsp;{$stable.animals_count} <!-- format: stable_name - count -->
+					{else} 
+						&#45;&nbsp;0  <!-- format: stable_name - count -->
+					{/if}
+				</strong>
 			</button>
 			{foreach $stable.animals as $animalI3dName => $animal} <a href="index.php?page={$page}&stable={$stableI3dName}&animal={$animalI3dName}" class="list-group-item list-group-item-action"> {if $animal.isHorse}##HORSE##{/if} {$animal.name}{if $animal.isHorse}<br> <small>##DAY_RIDE##<span class="float-right">{$animal.ridingTimer|number_format:0:",":"."}
 						%</span></small>{else} {$animal.count}<br> <small>##PRODUCTIVITY## {$stable.productivity|number_format:0:",":"."} %</small>{/if}

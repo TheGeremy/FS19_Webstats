@@ -119,6 +119,7 @@ if (!$no_animals) {
 						// insert value in $stable array under trough trough#, 
 						// later accessible in template like $food.valuePercent
 						$stables [$stable] ['trough'] ['trough'.$i] ['valuePercent'] = $valuePercent;	
+						$stables [$stable] ['animals_count'] = $animals_count[$animalType];
 					}
 				} elseif ($stables [$stable] ['animals'] [$animal] ["isHorse"]) {
 					// horse has no standart code like HORSE_ and color, but name you give him in game...
@@ -126,7 +127,8 @@ if (!$no_animals) {
 					foreach ($stables [$stable] ['trough'] as $food) {
 						$valuePercent = floor(($food ['value']/($animals_count['HORSE']*$food_rates['HORSE']))*100);
 						$i++;
-						$stables [$stable] ['trough'] ['trough'.$i] ['valuePercent'] = $valuePercent;		
+						$stables [$stable] ['trough'] ['trough'.$i] ['valuePercent'] = $valuePercent;
+						$stables [$stable] ['animals_count'] = $animals_count['HORSE'];
 					}
 				}
 			}
