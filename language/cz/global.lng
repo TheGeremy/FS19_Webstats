@@ -26,6 +26,8 @@ CREATED_BY=vytvořil
 EDITED_BY=upravil
 TIME=Čas
 MONEY=Peníze
+ONMAP=na zemi
+OUTOFMAP=Mimo mapu
 
 //install.tpl
 CHANGE_BUTTON=Změna

@@ -25,6 +25,8 @@ OFF=Aus
 CREATED_BY=erstellt von
 TIME=Zeit
 MONEY=Geld
+ONMAP=Landschaft
+OUTOFMAP=Außerhalb der Karte
 
 //install.tpl
 CHANGE_BUTTON=Ändern
