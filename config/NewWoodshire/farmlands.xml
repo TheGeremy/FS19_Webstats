@@ -13,7 +13,7 @@
       <Farmland id="9"  price="100" x="0" z="0" />
       <Farmland id="10" price="100" x="0" z="0" />
       <Farmland id="11" price="100" x="0" z="0" />
-      <Farmland id="12" price="100" x="0" z="0" />
+      <Farmland id="12" price="130104" x="0" z="0" />
       <Farmland id="13" price="309048" x="0" z="0" />
       <Farmland id="14" price="102672" x="0" z="0" />
       <Farmland id="15" price="64800" x="0" z="0" />
@@ -36,13 +36,13 @@
       <Farmland id="32" price="66456" x="0" z="0" />
       <Farmland id="33" price="100" x="0" z="0" />
       <Farmland id="34" price="100" x="0" z="0" />
-      <Farmland id="35" price="100" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
-      <Farmland id="36" price="100" x="0" z="0" />
+      <Farmland id="35" price="104544" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
+      <Farmland id="36" price="157992" x="0" z="0" />
       <Farmland id="37" price="197304" x="0" z="0" />
-      <Farmland id="38" price="100" x="0" z="0" /> <!-- half is useless rock -->
+      <Farmland id="38" price="162043" x="0" z="0" /> <!-- half is useless rock -->
       <Farmland id="39" price="100" x="0" z="0" />
-      <Farmland id="40" price="100" x="0" z="0" />
-      <Farmland id="41" price="100" x="0" z="0" />
+      <Farmland id="40" price="117600" x="0" z="0" />
+      <Farmland id="41" price="18144" x="0" z="0" />
       <Farmland id="42" price="161664" x="0" z="0" /> <!-- defaultFarmProperty="true" -->
       <Farmland id="43" price="100" x="0" z="0" />
       <Farmland id="44" price="100" x="0" z="0" />
