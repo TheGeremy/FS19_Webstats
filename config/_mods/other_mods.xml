@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
 	<l10n>	
+		<text name="axion">
+			<sk>Claas Axion 920-960</sk>
+			<cz>Claas Axion 920-960</cz>
+			<en>Claas Axion 920-960</en>
+			<de>Claas Axion 920-960</de>
+		</text>		
 		<text name="FraDiscV6000">
 			<sk>FraDisc V6000</sk>
 			<cz>FraDisc V6000</cz>
