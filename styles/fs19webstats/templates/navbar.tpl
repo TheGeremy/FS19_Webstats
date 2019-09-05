@@ -30,6 +30,9 @@
 				{/if}
 			{/if}
 		{/foreach}
+			<li class="{$class}">
+				<a class="nav-link py-0" href="http://fs19.nuba.synology.me/"><img src="{#IMAGES#}/black_sheep.png" class="img-fluid d-none d-lg-block"><span class="d-lg-none d-md-block">Černá ovce WEB</span></a>
+			</li>
 		</ul>
 		<span class="navbar-text  bg-secondary text-white px-3 text-right font-weight-bold text-nowrap">##DAY## {$currentDay} | ##TIME## {$dayTime}{if $money !== false} | ##MONEY## {$money|number_format:0:",":"."} €{/if}</span>
 	</div>
