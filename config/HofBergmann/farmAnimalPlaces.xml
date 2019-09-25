@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- translation of farm animal places -->
+<mapconfig>   
+    <l10n>
+        <text name="chickenHusbandry">
+            <sk>Kurín</sk>
+            <cz>Kurín</cz>
+            <en>Chicken Husbandry</en>
+            <de>chickenHusbandry</de>
+            <fr>chickenHusbandry</fr>
+        </text>
+        <text name="cowHusbandry">
+            <sk>Kravín</sk>
+            <cz>cowHusbandry</cz>
+            <en>Cow Husbandry</en>
+            <de>cowHusbandry</de>
+            <fr>cowHusbandry</fr>            
+        </text> 
+        <text name="sheepHusbandry">
+            <sk>Salaš</sk>
+            <cz>sheepHusbandry</cz>
+            <en>Sheep Husbandry</en>
+            <de>sheepHusbandry</de>
+            <fr>sheepHusbandry</fr>            
+        </text>  
+        <text name="paddock01">
+            <sk>Výbeh pre kone</sk>
+            <cz>Výbeh pro koně</cz>
+            <en>Paddock I</en>
+            <de>paddock01</de>
+            <fr>paddock01</fr>            
+        </text> 
+        <text name="horseStable">
+            <sk>Stajňa pre kone</sk>
+            <cz>Konské stáje</cz>
+            <en>Horse Stable</en>
+            <de>horseStable</de>
+            <fr>horseStable</fr>            
+        </text>   
+        <text name="cheeseProduction">
+            <sk>Výroba syra</sk>
+            <cz>Produkce syra</cz>
+            <en>Cheese Production</en>
+            <de>cheeseProduction</de>
+            <fr>cheeseProduction</fr>            
+        </text> 
+        <text name="pigStable_farm">
+            <sk>Chliev</sk>
+            <cz>Chlév</cz>
+            <en>Pig Stable</en>
+            <de>pigStable_farm</de>
+            <fr>pigStable_farm</fr>            
+        </text> 
+        <text name="cowPasture01">
+            <sk>Pasienok pre kravy</sk>
+            <cz>Pastvina pro krávy</cz>
+            <en>Cow Pasture I</en>
+            <de>cowPasture01</de>
+            <fr>cowPasture01</fr>            
+        </text>                         
+    </l10n>
+</mapconfig>

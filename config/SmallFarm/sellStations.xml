@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- positions are not accurate -->
+<mapconfig>
+    <item position="-828.7420 57.2295 -89.9271" name="sellingStationSpinnery" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-416.1260 90.6104 -723.0010" name="sellingStationSkinner" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="3.5810 66.9178 254.5981" name="farmShop" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-793.1260 57.1281 112.7299" name="sellingStationInn" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="678.3300 68.5733 -212.3185" name="sellingStationDairy" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="332.4520 58.1710 497.7580" name="sellingStationWoodChips" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="694.0160 67.4463 -64.7327" name="sellingStationGrainMill" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-817.8470 57.1474 221.7980" name="sellingStationRaiffeisen" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-830.9040 56.3985 -427.1959" name="sellingStationAnimalDealer" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-722.2970 56.7483 -86.5624" name="sellingStationHorseRanch" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-738.1580 57.2164 87.0452" name="sellingStationHousehold03" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-734.1890 57.2331 318.6588" name="sellingStationHousehold07" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-729.4930 57.1535 65.0122"  name="sellingStationHousehold02" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-744.7830 57.1779 28.9470" name="sellingStationHousehold01" locationType="TipTrigger" isSellingPoint="true" />    
+    <item position="-813.4550 57.1938 85.9841" name="sellingStationHousehold04" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-832.3330 57.0874 359.8984" name="sellingStationHousehold08" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-740.3440 57.1412 291.5334" name="sellingStationHousehold06" locationType="TipTrigger" isSellingPoint="true" />    
+    <item position="-838.8150 57.2149 88.7352" name="sellingStationHousehold05" locationType="TipTrigger" isSellingPoint="true" />    
+    <l10n>
+        <text name="sellingStationSpinnery">
+            <sk>Přádelna</sk>
+        </text>
+        <text name="sellingStationSkinner">
+            <sk>Kožišník</sk>
+        </text>
+        <text name="farmShop">
+            <sk>Farmářská prodejna</sk>
+        </text>
+        <text name="sellingStationInn">
+            <sk>Hospoda</sk>
+        </text>
+        <text name="sellingStationDairy">
+            <sk>Mlékárna</sk>
+        </text>
+        <text name="sellingStationWoodChips">
+            <sk>Výkup štiepky</sk>
+        </text>
+        <text name="sellingStationGrainMill">
+            <sk>Mlýn pro zrní</sk>
+        </text>
+        <text name="sellingStationRaiffeisen">
+            <sk>Cestovní kancelář</sk>
+        </text>
+        <text name="sellingStationAnimalDealer">
+            <sk>Prodejce zvířat</sk>
+        </text>
+        <text name="sellingStationHorseRanch">
+            <sk>Ranč Divoké kone</sk>
+        </text>    
+        <text name="sellingStationWoodChips">
+            <cz>Pila</cz>
+            <en>Pila</en>           
+            <de>Pila</de>
+            <sk>Píla</sk>               
+        </text> 
+        <text name="station_household01">
+            <sk>Jano Bača</sk>    
+        </text>
+        <text name="station_household02">
+            <sk>Milan Orech</sk>
+        </text>  
+        <text name="station_household03">
+            <sk>Jozef Borievka</sk>
+        </text>   
+        <text name="station_household04">
+            <sk>Samo Chalúpka</sk>
+        </text>   
+        <text name="station_household05">
+            <sk>Juraj Jánošík</sk>
+        </text>   
+        <text name="station_household06">
+            <sk>Fero Šuster</sk>
+        </text>
+        <text name="station_household07">
+            <sk>Anna Milá</sk>
+        </text>        
+        <text name="station_household08">
+            <sk>Zuzana Malá</sk>
+        </text>
+    </l10n>
+</mapconfig>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>	
+		<text name="lsfmUniversalTankTrailer18000L">
+			<sk>Univerzálna cisterna 18.000L</sk>
+			<cz>Universální cisterna 18.000L</cz>
+			<en>Universal Tank Trailer 18.000L</en>
+			<de>lsfmUniversalTankTrailer18000L</de>
+			<fr>lsfmUniversalTankTrailer18000L</fr>
+		</text>								
+	</l10n>
+</mapconfig>

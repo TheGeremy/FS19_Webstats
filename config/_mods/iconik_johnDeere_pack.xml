@@ -38,5 +38,59 @@
 			<sk>John Deere 50/10</sk>
 			<cz>John Deere 50/10</cz>
 		</text>			
+		<text name="JD_Sprayer">
+			<en>John Deere Sprayer</en>
+			<de>John Deere Sprayer</de>
+			<sk>John Deere rozprašovač</sk>
+			<cz>John Deere postřikovač</cz>
+		</text>	
+		<text name="JD_1290">
+			<en>John Deere 1290</en>
+			<de>John Deere 1290</de>
+			<sk>John Deere 1290</sk>
+			<cz>John Deere 1290</cz>
+		</text>		
+		<text name="JD_BaleTrailer">
+			<en>John Deere Bale Trailer</en>
+			<de>John Deere Bale Trailer</de>
+			<sk>John Deere príves na balíky</sk>
+			<cz>John Deere přívěs na balíky</cz>
+		</text>
+		<text name="JD_Cultivator">
+			<en>John Deere Cultivator</en>
+			<de>John Deere Cultivator</de>
+			<sk>John Deere kultivátor</sk>
+			<cz>John Deere kultivátor</cz>
+		</text>
+		<text name="JD_Forks">
+			<en>John Deere Fork</en>
+			<de>John Deere Fork</de>
+			<sk>John Deere vidlice</sk>
+			<cz>John Deere vidlice</cz>
+		</text>
+		<text name="JD_Ripper">
+			<en>John Deere Ripper</en>
+			<de>John Deere Ripper</de>
+			<sk>John Deere trhač</sk>
+			<cz>John Deere rozparovač</cz>
+		</text>
+		<text name="JD_Tedder">
+			<en>John Deere Tedder</en>
+			<de>John Deere Tedder</de>
+			<sk>John Deere obracač</sk>
+			<cz>John Deere obraceč</cz>
+		</text>
+		<text name="JD_Weeder">
+			<en>John Deere Weeder</en>
+			<de>John Deere Weeder</de>
+			<sk>John Deere plečka</sk>
+			<cz>John Deere plečka</cz>
+		</text>
+		<text name="JD_Windrower1">
+			<en>John Deere Windrower</en>
+			<de>John Deere Windrower</de>
+			<sk>John Deere riadkovač</sk>
+			<cz>John Deere řádkovač</cz>
+		</text>																
 	</l10n>
 </mapconfig>

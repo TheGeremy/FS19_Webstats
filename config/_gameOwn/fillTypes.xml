@@ -322,6 +322,13 @@
 			<de>Gras</de>
 			<fr>Herbe</fr>
 		</text>
+		<text name="CLOVER_WINDROW">
+			<sk>Ďatelina</sk>
+			<cz>Jetel</cz>
+			<en>Clover</en>
+			<de>CLOVER_WINDROW</de>
+			<fr>CLOVER_WINDROW</fr>
+		</text>		
 		<text name="CHAFF">
 			<sk>Rezanka</sk>
 			<cz>Řezanka</cz>

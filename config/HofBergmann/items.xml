@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>	
+		<text name="bigBagLifter">
+			<sk>BigBag&#8482; zdvihák</sk>
+			<cz>BigBag&#8482; zvedák</cz>
+			<en>BigBag&#8482; Lifter</en>
+			<de>bigBagLifter</de>
+			<fr>bigBagLifter</fr>
+		</text>	
+		<text name="bigBag">
+			<sk>BigBag&#8482;</sk>
+			<cz>BigBag&#8482;</cz>
+			<en>BigBag&#8482;</en>
+			<de>BigBag&#8482;</de>
+			<fr>BigBag&#8482;</fr>
+		</text>	
+		<text name="cagebox">
+			<sk>Kovová klietka</sk>
+			<cz>Kovová klec</cz>
+			<en>Cage Box</en>
+			<de>cagebox</de>
+			<fr>cagebox</fr>
+		</text>	
+		<text name="fillableBucket">
+			<sk>Kýbel</sk>
+			<cz>Vedro</cz>
+			<en>Bucket</en>
+			<de>fillableBucket</de>
+			<fr>fillableBucket</fr>
+		</text>	
+		<text name="fillableWoodBox">
+			<sk>Drevená debna</sk>
+			<cz>Dřevěná bedna</cz>
+			<en>Wood Box</en>
+			<de>fillableWoodBox</de>
+			<fr>fillableWoodBox</fr>
+		</text>											
+		<text name="RUBINTT">
+			<sk>RUBINTT &#8482;</sk>
+			<cz>RUBINTT (bílá)</cz>
+			<en>RUBINTT (White)</en>
+			<de>RUBINTT</de>
+			<fr>RUBINTT</fr>
+		</text>	
+		<text name="milkCan">
+			<sk>Nádoba na mlieko</sk>
+			<cz>Nádoba na mléko</cz>
+			<en>Milk Canister</en>
+			<de>milkCan</de>
+			<fr>milkCan</fr>
+		</text>			
+		<text name="seedStainTank">
+			<sk>BigBag&#8482; nádrž</sk>
+			<cz>Prenosnej tank</cz>
+			<en>Tank pallete</en>
+			<de>seedStainTank</de>
+			<fr>seedStainTank</fr>
+		</text>	
+		<text name="fillableBox">
+			<sk>Plniteľný box</sk>
+			<cz>Vyplnitelná krabice</cz>
+			<en>Fillable Box</en>
+			<de>fillableBox</de>
+			<fr>fillableBox</fr>
+		</text>	
+		<text name="woolBale">
+			<sk>Balík vlny</sk>
+			<cz>Balík vlny</cz>
+			<en>Wool Bale</en>
+			<de>woolBale</de>
+			<fr>woolBale</fr>
+		</text>	
+		<text name="duckBathtub">
+			<sk>Vaňa pre kačice</sk>
+			<cz>Vana pro kachny</cz>
+			<en>Duck Bathtub</en>
+			<de>duckBathtub</de>
+			<fr>duckBathtub</fr>
+		</text>				
+		<text name="woodChipsBag">
+			<sk>Vrece na drevenú štiepku</sk>
+			<cz>Pytel dřevěné štěpky</cz>
+			<en>Wood Chips Bag</en>
+			<de>woodChipsBag</de>
+			<fr>woodChipsBag</fr>
+		</text>	
+		<text name="bigBagPigFood">
+			<sk>BigBag&#8482; potrava pre ošípané</sk>
+			<cz>BigBag&#8482; krmivo pro prasata</cz>
+			<en>BigBag&#8482; Pig Food</en>
+			<de>bigBagPigFood</de>
+			<fr>bigBagPigFood</fr>
+		</text>
+		<text name="bigBagPigFoodEmpty">
+			<sk>BigBag&#8482; potrava pre ošípané</sk>
+			<cz>BigBag&#8482; krmivo pro prasata</cz>
+			<en>BigBag&#8482; Pig Food</en>
+			<de>bigBagPigFood</de>
+			<fr>bigBagPigFood</fr>
+		</text>		
+		<text name="bigBagForage">
+			<sk>BigBag&#8482; krmivo</sk>
+			<cz>BigBag&#8482; krmivo</cz>
+			<en>BigBag&#8482; Forage</en>
+			<de>bigBagForageEmpty</de>
+			<fr>bigBagForageEmpty</fr>
+		</text>		
+		<text name="bigBagForageEmpty">
+			<sk>BigBag&#8482; krmivo</sk>
+			<cz>BigBag&#8482; krmivo</cz>
+			<en>BigBag&#8482; Forage</en>
+			<de>bigBagForageEmpty</de>
+			<fr>bigBagForageEmpty</fr>
+		</text>
+		<text name="bigBagSeedsEmpty">
+			<sk>BigBag&#8482; sejivo</sk>
+			<cz>BigBag&#8482; semena</cz>
+			<en>BigBag&#8482; Seeds</en>
+			<de>bigBagSeedsEmpty</de>
+			<fr>bigBagSeedsEmpty</fr>
+		</text>
+		<text name="bigBagSeeds">
+			<sk>BigBag&#8482; sejivo</sk>
+			<cz>BigBag&#8482; semena</cz>
+			<en>BigBag&#8482; Seeds</en>
+			<de>bigBagSeeds</de>
+			<fr>bigBagSeeds</fr>
+		</text>
+		<text name="bigBagHorseFoodEmpty">
+			<sk>BigBag&#8482; potrava pre kone</sk>
+			<cz>BigBag&#8482; krmivo pro koně</cz>
+			<en>BigBag&#8482;</en>
+			<de>seedStainTank</de>
+			<fr>seedStainTank</fr>
+		</text>
+		<text name="bigBagHorseFood">
+			<sk>BigBag&#8482; potrava pre kone</sk>
+			<cz>BigBag&#8482; krmivo pro koně</cz>
+			<en>BigBag&#8482;</en>
+			<de>seedStainTank</de>
+			<fr>seedStainTank</fr>
+		</text>
+		<text name="bigBagRackEmpty">
+			<sk>BigBag&#8482; rám</sk>
+			<cz>BigBag&#8482; rám</cz>
+			<en>BigBag&#8482; Rack</en>
+			<de>bigBagRackEmpty</de>
+			<fr>bigBagRackEmpty</fr>
+		</text>								
+	</l10n>
+</mapconfig>

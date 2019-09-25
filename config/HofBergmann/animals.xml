@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>
+		<!-- Animals -->		
+		<text name="DUCK_TYPE_WHITE">
+			<sk>Kačka (biela)</sk>
+			<cz>Kačica (bílá)</cz>
+			<en>Duck (White)</en>
+			<de>DUCK_TYPE_WHITE</de>
+			<fr>DUCK_TYPE_WHITE</fr>
+		</text>	
+		<text name="DUCK_TYPE_BLACK">
+			<sk>Kačka (čierna)</sk>
+			<cz>Kačica (černá)</cz>
+			<en>Duck (White)</en>
+			<de>DUCK_TYPE_BLACK</de>
+			<fr>DUCK_TYPE_BLACK</fr>
+		</text>	
+		<text name="DUCK_TYPE_BROWN">
+			<sk>Kačka (hnedá)</sk>
+			<cz>Kačica (hnedá)</cz>
+			<en>Duck (Brown)</en>
+			<de>DUCK_TYPE_BROWN</de>
+			<fr>DUCK_TYPE_BROWN</fr>
+		</text>					
+		<text name="GOAT_TYPE_WHITE">
+			<sk>Koza (biela)</sk>
+			<cz>Koza (bílá)</cz>
+			<en>Goat (White)</en>
+			<de>GOAT_TYPE_WHITE</de>
+			<fr>GOAT_TYPE_WHITE</fr>
+		</text>
+		<text name="GOAT_TYPE_BLACK">
+			<sk>Koza (čierna)</sk>
+			<cz>Koza (černá)</cz>
+			<en>Duck (White)</en>
+			<de>GOAT_TYPE_BLACK</de>
+			<fr>GOAT_TYPE_BLACK</fr>
+		</text>
+		<text name="GOAT_TYPE_BROWN">
+			<sk>Koza (hnedá)</sk>
+			<cz>Koza (hnedá)</cz>
+			<en>Goat (Brown)</en>
+			<de>GOAT_TYPE_BROWN</de>
+			<fr>GOAT_TYPE_BROWN</fr>
+		</text>
+		<text name="RAM_TYPE_BLACK">
+			<sk>Baran (čierny)</sk>
+			<cz>Beran (černej)</cz>
+			<en>Ram (Black)</en>
+			<de>RAM_TYPE_BLACK</de>
+			<fr>RAM_TYPE_BLACK</fr>
+		</text>		
+		<text name="PRODUNIT1">
+			<sk>Produkt I</sk>
+			<cz>PRODUNIT1</cz>
+			<en>Product I</en>
+			<de>PRODUNIT1</de>
+			<fr>PRODUNIT1</fr>
+		</text>			
+	</l10n>
+</mapconfig>

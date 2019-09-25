@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <item isSellingPoint="true" locationType="TipTrigger" id="3" position="700.6340 100.2230 -634.2060" name="sellingStationWood" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="6" position="-15.8010 100.3740 -791.6870" name="Gospodarstwo Rolne" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="7" position="-9.5910 100.3750 -763.4200"  name="Gosporarstwo Rolne - Magazyn" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="9" position="-658.0040 103.8800 -848.5720" name="sellingStationBales" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="11" position="-447.5360 99.9640 -798.2690" name="sellingStationWool" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="12" position="636.4330 100.1420 -655.0620" name="sellingStationWoodChips" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="13" position="805.5040 99.6640 -620.3240"  name="Gorzelnia" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="16" position="-861.7360 100.6280 79.1560"  name="egg" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="18" position="682.9940 99.6660 -408.9850" name="Polskie Młyny Sp.z.o.o" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="19" position="-940.6850 100.2680 41.5410" name="Milk" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="21" position="-554.8000 99.5880 -766.0160" name="PGR Krasna" />
+    <item isSellingPoint="true" locationType="TipTrigger" id="24" position="668.8260 99.9320 -803.0770" name="Südzucker Polska Sp. z o.o." />   
+</mapconfig>

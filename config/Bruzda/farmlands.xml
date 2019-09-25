@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <Farmlands>
+        <farmland npcName="NPC_DE_01" x="0" z="0" id="1" price="659088" />  
+    	<farmland npcName="NPC_DE_02" x="0" z="0" id="2" price="244535" />  
+    	<farmland npcName="NPC_DE_03" x="0" z="0" id="3" price="157320" />  
+	    <farmland npcName="NPC_DE_04" x="0" z="0" id="4" price="484752" />  
+	    <farmland npcName="NPC_DE_05" x="0" z="0" id="5" price="576720" />  
+	    <farmland npcName="NPC_DE_06" x="0" z="0" id="6" price="891336" />  
+	    <farmland npcName="NPC_DE_07" x="0" z="0" id="7" price="466416" />  
+	    <farmland npcName="NPC_DE_08" x="0" z="0" id="8" price="922200" />  
+	    <farmland npcName="NPC_DE_09" x="0" z="0" id="9" price="86136" />  
+	    <farmland npcName="NPC_DE_10" x="0" z="0" id="10" price="338136" /> 
+	    <farmland npcName="NPC_DE_11" x="0" z="0" id="11" price="269376" /> 
+	    <farmland npcName="NPC_DE_12" x="0" z="0" id="12" price="1090128" /> 
+	    <farmland npcName="NPC_DE_13" x="0" z="0" id="13" price="493511" /> 
+	    <farmland npcName="NPC_DE_14" x="0" z="0" id="14" price="256392" /> 
+	    <farmland npcName="NPC_DE_15" x="0" z="0" id="15" price="334556" /> 
+	    <farmland npcName="NPC_DE_16" x="0" z="0" id="16" price="488246" /> 
+	    <farmland npcName="NPC_DE_17" x="0" z="0" id="17" price="292992" /> 
+	    <farmland npcName="NPC_DE_18" x="0" z="0" id="18" price="328176" /> 
+	    <farmland npcName="NPC_DE_19" x="0" z="0" id="19" price="869256" /> 
+	    <farmland npcName="NPC_DE_20" x="0" z="0" id="20" price="130344" /> 
+	    <farmland npcName="NPC_DE_21" x="0" z="0" id="21" price="384048" /> 
+	    <farmland npcName="NPC_DE_22" x="0" z="0" id="22" price="284472" /> 
+	    <farmland npcName="NPC_DE_23" x="0" z="0" id="23" price="302304" /> 
+	    <farmland npcName="NPC_DE_24" x="0" z="0" id="24" price="289386" /> 
+	    <farmland npcName="NPC_DE_25" x="0" z="0" id="25" price="247392" /> 
+	    <farmland npcName="NPC_DE_26" x="0" z="0" id="26" price="1297962" /> 
+	    <farmland npcName="NPC_DE_27" x="0" z="0" id="27" price="464544" /> 
+	    <farmland npcName="NPC_DE_28" x="0" z="0" id="28" price="398899" /> 
+	    <farmland npcName="NPC_DE_29" x="0" z="0" id="29" price="262627" /> 
+	    <farmland npcName="NPC_DE_30" x="0" z="0" id="30" price="356832" /> 
+	    <farmland npcName="NPC_DE_31" x="0" z="0" id="31" price="763334" /> 
+	    <farmland npcName="NPC_DE_32" x="0" z="0" id="32" price="199152" /> 
+	    <farmland npcName="NPC_DE_33" x="0" z="0" id="33" price="276672" /> 
+	    <farmland npcName="NPC_DE_34" x="0" z="0" id="34" price="469497" />
+	    <farmland npcName="NPC_DE_35" x="0" z="0" id="35" price="0" />   <!--Krávy-->
+	    <farmland npcName="NPC_DE_36" x="0" z="0" id="36" price="79824" />
+	    <farmland npcName="NPC_DE_37" x="0" z="0" id="37" price="0"/>   <!--Slepice-->
+	    <farmland npcName="NPC_DE_38" x="0" z="0" id="38" price="166368" /> <!--Ovce-->
+	    <farmland npcName="NPC_DE_39" x="0" z="0" id="39" price="0" />   <!--Prasata-->
+	    <farmland npcName="NPC_DE_40" x="0" z="0" id="40" price="13416" /> 
+	    <farmland npcName="NPC_DE_41" x="0" z="0" id="41" price="0" /-->
+	    <farmland npcName="NPC_DE_42" x="0" z="0" id="42" price="0" /> 
+	    <farmland npcName="NPC_DE_43" x="0" z="0" id="43" price="129000" /> 
+	    <farmland npcName="NPC_DE_44" x="0" z="0" id="44" price="149616" /> <!-- bioplyn -->
+	    <farmland npcName="NPC_DE_63" x="0" z="0" id="63" price="0" />
+    </Farmlands>
+</mapconfig>

@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
-	<l10n>	
-		<text name="axion">
-			<sk>Claas Axion 920-960</sk>
-			<cz>Claas Axion 920-960</cz>
-			<en>Claas Axion 920-960</en>
-			<de>Claas Axion 920-960</de>
-		</text>		
-		<text name="FraDiscV6000">
-			<sk>FraDisc V6000</sk>
-			<cz>FraDisc V6000</cz>
-			<en>FraDisc V6000</en>
-			<de>FraDisc V6000</de>
+	<l10n>
+		<text name="360Tank">
+			<sk>360 nádrž</sk>
+			<cz>360 nádrž</cz>
+			<en>360 Tank</en>
+			<de>360 ank</de>
 		</text>	
-		<text name="Valtra">
-        		<en>Valtra HiTech</en>
-        		<de>Valtra HiTech</de>
-        		<cz>Valtra HiTech</cz>		
-		</text>        
-		<text name="novacatA10CF">
-			<sk>Novacat A10CF</sk>
-			<cz>Novacat A10CF</cz>
-			<en>Novacat A10CF</en>
-			<de>Novacat A10CF</de>
+		<text name="JD7530">
+			<sk>John Deere 7530</sk>
+			<cz>John Deere 7530</cz>
+			<en>John Deere 7530</en>
+			<de>John Deere 7530</de>
 		</text>	
-		<text name="shovel_FL">
-			<sk>Lyžica 5K</sk>	
-			<cz>lžíce 5K</cz>
-			<en>Shovel 5K</en>
-			<de>Schaufel 5K</de>
-		</text>					
-		<text name="standpipe">
-			<sk>Vodovodná prípojka</sk>
-			<cz>Vodovodní přípojka</cz>
-			<en>Water-service pipe</en>
-			<de>Wasseranschluss</de>
-		</text>		
-		<text name="lsfmUniversalTankTrailer7500L">
-			<sk>Univerzálna cisterna 7500L </sk>
-			<cz>Univerzální cisterna 7500L</cz>
-			<en>Universal Trailer Tank 7500L</en>
-			<de>Universal-Anhängertank 7500L</de>
-		</text>
+		<text name="NHT">
+			<sk>NHT</sk>
+			<cz>NHT</cz>
+			<en>NHT</en>
+			<de>NHT</de>
+		</text>	
+		<text name="mc18">
+			<sk>MC18</sk>
+			<cz>MC18</cz>
+			<en>MC18</en>
+			<de>MC18</de>
+		</text>			
+		<text name="containerLiquids">
+			<sk>Kontajner na tekutiny</sk>
+			<cz>Kontejner na tekutiny</cz>
+			<en>Container Liquids</en>
+			<de>containerLiquids</de>
+		</text>	
+		<text name="favorit500_gearshift">
+			<sk>Favorit 500 Gearshift</sk>
+			<cz>Favorit 500 Gearshift</cz>
+			<en>Favorit 500 Gearshift</en>
+			<de>Favorit 500 Gearshift</de>
+		</text>									
+		<text name="TA23071">
+			<sk>TA 23071</sk>
+			<cz>TA 23071</cz>
+			<en>TA 23071</en>
+			<de>TA 23071</de>
+		</text>				
 		<text name="deckChair">
 			<sk>Lehátko</sk>
 			<cz>Lehátko</cz>
@@ -61,11 +62,6 @@
 			<de>Horsch Transport Trailer</de>
 		</text>				
 		<!-- john deere gator pack -->
-		<text name="JDT1000">
-			<sk>John Deere JDT1000</sk>
-			<en>John Deere JDT1000</en>
-			<de>John Deere JDT1000</de>
-		</text>
 		<text name="JDUT4000">
 			<sk>John Deere UT4000</sk>
 			<en>John Deere UT4000</en>

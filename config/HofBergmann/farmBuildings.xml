@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>	
+		<text name="farmSiloBig">
+			<sk>Silo na farme</sk>
+			<cz>Silo na farmě</cz>
+			<en>Farm Silo</en>
+			<de>farmSiloBig</de>
+			<fr>farmSiloBig</fr>
+		</text>	
+		<text name="hayDryer">
+			<sk>Sušič sena</sk>
+			<cz>Sušič sena</cz>
+			<en>Hay Dryer</en>
+			<de>hayDryer</de>
+			<fr>hayDryer</fr>
+		</text>											
+		<text name="bigBagFillingStation">
+			<sk>BigBag&#8482; baliaca stanica</sk>
+			<cz>BigBag&#8482; balicí stanice</cz>
+			<en>BigBag&#8482; Filling Station</en>
+			<de>bigBagFillingStation</de>
+			<fr>bigBagFillingStation</fr>
+		</text>	
+		<text name="universalStorageSilo">
+			<sk>Univerzálne silo</sk>
+			<cz>Univerzální silo</cz>
+			<en>Universal Storage Silo</en>
+			<de>Universal Storage Silo</de>
+			<fr>Universal Storage Silo</fr>
+		</text>			
+		<text name="vertiMixPigFood">
+			<sk>VertiMix&#8482; PF</sk>
+			<cz>VertiMix&#8482; PF</cz>
+			<en>VertiMix&#8482; PF</en>
+			<de>VertiMix&#8482; PF</de>
+			<fr>VertiMix&#8482; PF</fr>
+		</text>	
+		<text name="vertiMixTMR">
+			<sk>VertiMix&#8482; TMR</sk>
+			<cz>VertiMix&#8482; TMR</cz>
+			<en>VertiMix&#8482; TMR</en>
+			<de>VertiMix&#8482; TMR</de>
+			<fr>VertiMix&#8482; TMR</fr>
+		</text>	
+		<text name="squareBaleStorage">
+			<sk>Sklad hranatých balíkov</sk>
+			<cz>Sklad hranatých balíků</cz>
+			<en>Square Bale Storage</en>
+			<de>Square Bale Storage</de>
+			<fr>Square Bale Storage</fr>
+		</text>	
+		<text name="roundBaleStorage">
+			<sk>Sklad guľatých balíkov</sk>
+			<cz>Sklad kulatých balíků</cz>
+			<en>Round Bale Storage</en>
+			<de>Round Bale Storage</de>
+			<fr>Round Bale Storage</fr>
+		</text>	
+		<text name="siloHopper">
+			<sk>Silo Hopper</sk>
+			<cz>Silo Hopper</cz>
+			<en>Silo Hopper</en>
+			<de>Silo Hopper</de>
+			<fr>Silo Hopper</fr>
+		</text>	
+		<text name="seedMaster">
+			<sk>Seed Master&#8482;</sk>
+			<cz>Seed Master&#8482;</cz>
+			<en>Seed Master&#8482;</en>
+			<de>Seed Master&#8482;</de>
+			<fr>Seed Master&#8482;</fr>
+		</text>	
+		<text name="fixFerm">
+			<sk>FixFerm&#8482; fermentačnný stroj</sk>
+			<cz>FixFerm&#8482; fermentační stroj</cz>
+			<en>FixFerm&#8482;</en>
+			<de>FixFerm&#8482;</de>
+			<fr>FixFerm&#8482;</fr>
+		</text>	
+		<text name="roundBaleStorageSilage">
+			<sk>Sklad silážnych balíkov</sk>
+			<cz>Sklad silážních balíků</cz>
+			<en>Round Bale Storage Silage</en>
+			<de>Round Bale Storage Silage</de>
+			<fr>Round Bale Storage Silage</fr>
+		</text>	
+		<text name="milkStorageTank">
+			<sk>Zásobník mlieka</sk>
+			<cz>Nádrž na mléko</cz>
+			<en>Milk Storage Tank</en>
+			<de>Milk Storage Tank</de>
+			<fr>Milk Storage Tank</fr>
+		</text>	
+		<text name="hayDryer_overloadModul">
+			<sk>Prekladový modul susiča sena</sk>
+			<cz>Překladový modul vysoušeče sena</cz>
+			<en>Hay Dryer Overload Modul</en>
+			<de>Hay Dryer Overload Modul</de>
+			<fr>Hay Dryer Overload Modul</fr>
+		</text>	
+		<text name="liquidManureStorage">
+			<sk>Sklad tekutého hnoja</sk>
+			<cz>Sklad tekutého hnoje</cz>
+			<en>Liquid Manure Storage</en>
+			<de>Liquid Manure Storage</de>
+			<fr>Liquid Manure Storage</fr>
+		</text>	
+		<text name="hayBarn">
+			<sk>Stodola na seno</sk>
+			<cz>Stodola pro seno</cz>
+			<en>Hay Barn</en>
+			<de>Hay Barn</de>
+			<fr>Hay Barn</fr>
+		</text>	
+		<text name="grainMill">
+			<sk>Mlyn</sk>
+			<cz>Mlýn</cz>
+			<en>Grain Mill</en>
+			<de>Grain Mill</de>
+			<fr>Grain Mill</fr>
+		</text>	
+		<text name="fuelStorage">
+			<sk>Zásobník paliva</sk>
+			<cz>Zásobník paliva</cz>
+			<en>Fuel Storage</en>
+			<de>Fuel Storage</de>
+			<fr>Fuel Storage</fr>
+		</text>	
+		<text name="compostSilo">
+			<sk>Kompostovacie silo</sk>
+			<cz>Kompostovací silo</cz>
+			<en>Compost Silo</en>
+			<de>Compost Silo</de>
+			<fr>Compost Silo</fr>
+		</text>	
+		<text name="cowSiloDouble">
+			<sk>Dvojitá silážna jama</sk>
+			<cz>Dvojitá silážní jáma</cz>
+			<en>Cow Silo Double</en>
+			<de>Cow Silo Double</de>
+			<fr>Cow Silo Double</fr>
+		</text>
+		<text name="pigFoodStorageSilo">
+			<sk>Silo na krmivo pre prasata</sk>
+			<cz>Silo na krmivo pro prasata</cz>
+			<en>Pig Food Storage Silo</en>
+			<de>Pig Food Storage Silo</de>
+			<fr>Pig Food Storage Silo</fr>
+		</text>
+		<text name="farmBuilding">
+			<sk>Farmársky dom</sk>
+			<cz>Zemědělský dům</cz>
+			<en>Farm House</en>
+			<de>Farm House</de>
+			<fr>Farm House</fr>
+		</text>				
+		<text name="farmShed">
+			<sk>Farmársky prístrešok</sk>
+			<cz>Zemědělský přístřešek</cz>
+			<en>Farm Shed</en>
+			<de>Farm Shed</de>
+			<fr>Farm Shed</fr>
+		</text>
+		<text name="garage">
+			<sk>Garáž</sk>
+			<cz>Garáž</cz>
+			<en>Garage</en>
+			<de>Garage</de>
+			<fr>Garage</fr>
+		</text>
+	</l10n>
+</mapconfig>

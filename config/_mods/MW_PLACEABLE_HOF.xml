@@ -6,36 +6,6 @@
 	<item name="SCS_FUTTERMISCH_SILO" locationType="storage" />
 	<item name="SCS_BUNKER_SILO_KLEIN_ONE_WAY" locationType="bunker" />
 	<l10n>
-		<text name="SCS_SCHAFSTALL">
-			<sk>Salaš</sk>
-                	<en>Sheep stall</en>
-            	<de>Schafstall</de>
-            	<cz>Ovčín</cz>
-		</text>	
-		<text name="SCS_HORSE_STALL">
-			<sk>Konské stajne</sk>
-            	<en>Horse stable</en>
-            	<de>Horse stall</de>
-            	<cz>Koňské stáje</cz>
-		</text>		
-		<text name="SCS_BUESCHE_BIRKE">
-			<sk>Breza</sk>
-          		<en>Birch</en>
-          		<de>Birke</de>
-          		<cz>Bříza</cz>
-		</text>
-		<text name="SCS_BUESCHE_Laubbaum">
-			<sk>Listnatý strom</sk>
-            	<en>Foliage tree</en>
-            	<de>Laubbaum</de>
-            	<cz>Listnatý strom</cz>
-		</text>
-		<text name="SCS_LIQUID_HERBICIDE">
-			<sk>Stanica s Herbicídom</sk>
-		  	<en>Liquid Herbicide Station</en>
-		  	<de>Flüssige Herbizidstation</de>
-          		<cz>Stanice s herbicídem</cz>
-		</text>
 		<text name="SCS_HOFSILO">
 			<sk>SCS Silo</sk>
 			<cz>SCS Silo</cz>
@@ -96,5 +66,23 @@
 			<en>SCS Shelter A2</en>
 			<de>SCS Unterstand A2</de>
 		</text>
+		<text name="SCS_UNTERSTAND_BIG">
+			<sk>SCS Prístrešok A2</sk>
+			<cz>SCS Přístřešek A2</cz>
+			<en>SCS Shelter A2</en>
+			<de>SCS Unterstand A2</de>
+		</text>
+		<text name="SCS_PALETTEN_REGAL">
+			<sk>SCS veľký regál</sk>
+			<cz>SCS velký regál</cz>
+			<en>SCS Paletten Regal</en>
+			<de>SCS Paletten Regal</de>
+		</text>		
+		<text name="unterstand04">
+			<sk>Prístrešok IV</sk>
+			<cz>Přístřešek IV</cz>
+			<en>Shelter IV</en>
+			<de>Unterstand IV</de>
+		</text>	
 	</l10n>
 </mapconfig>

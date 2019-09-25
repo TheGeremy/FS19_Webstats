@@ -40,35 +40,35 @@
 		<text name="COW_TYPE_BROWN">
 			<sk>Krava (hnedá)</sk>
 			<cz>Kráva (hnedá)</cz>
-			<en>Cow (brown)</en>
+			<en>Cow (Brown)</en>
 			<de>Kuh (Braun)</de>
 			<fr>Vache</fr>
 		</text>	
 		<text name="COW_TYPE_BROWN_WHITE">
 			<sk>Krava (hnedobiela)</sk>
 			<cz>Kráva (hnedobílá)</cz>
-			<en>Cow (brown-white)</en>
+			<en>Cow (Brown-white)</en>
 			<de>Kuh (Braun &amp; Weiß)</de>
 			<fr>Vache</fr>
 		</text>
 		<text name="COW_TYPE_BLACK_WHITE">
 			<sk>Krava (černobiela)</sk>
 			<cz>Kráva (černobílá)</cz>
-			<en>Cow (black-white)</en>
+			<en>Cow (Black-white)</en>
 			<de>Kuh (Schwarz &amp; Weiß)</de>
 			<fr>Vache</fr>
 		</text>
 		<text name="COW_TYPE_BLACK">
 			<sk>Krava (černa)</sk>
 			<cz>Kráva (černá)</cz>
-			<en>Cow (black)</en>
+			<en>Cow (Black)</en>
 			<de>Kuh (Schwarz)</de>
 			<fr>Vache</fr>
 		</text>		
 		<text name="PIG_TYPE_RED">
 			<sk>Prasa (ružové)</sk>
 			<cz>Prase (růžové)</cz>
-			<en>Pig (red)</en>
+			<en>Pig (Red)</en>
 			<de>Schwein (Rosa)</de>
 			<fr>PIG_TYPE_RED</fr>
 		</text>
@@ -82,104 +82,130 @@
 		<text name="CHICKEN_TYPE_WHITE">
 			<sk>Sliepka (biela)</sk>
 			<cz>Slepice (bílá)</cz>
-			<en>Chicken</en>
+			<en>Chicken (White)</en>
 			<de>Huhn (Weiß)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="CHICKEN_TYPE_BROWN">
 			<sk>Sliepka (hnedá)</sk>
 			<cz>Slepice (hnědá)</cz>
-			<en>Chicken</en>
+			<en>Chicken (Brown)</en>
 			<de>Huhn (Braun)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="CHICKEN_TYPE_BLACK">
 			<sk>Sliepka (čierna)</sk>
 			<cz>Slepice (černá)</cz>
-			<en>Chicken</en>
+			<en>Chicken (Black)</en>
 			<de>Huhn (Schwarz)</de>
 			<fr>CHICKEN_TYPE_ROOSTER</fr>
 		</text>
 		<text name="SHEEP_TYPE_BLACK_WHITE">
 			<sk>Ovca (čiernobiela)</sk>
 			<cz>Ovce (černobílá)</cz>
-			<en>Sheep</en>
+			<en>Sheep (White)</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
-		</text>
+		</text>	
 		<text name="SHEEP_TYPE_BLACK">
 			<sk>Ovca (čierna)</sk>
 			<cz>Ovce (černá)</cz>
-			<en>Sheep</en>
+			<en>Sheep (Black)</en>
 			<de>Schaf (Schwarz)</de>
 			<fr>Mouton</fr>
 		</text>		
 		<text name="SHEEP_TYPE_WHITE">
 			<sk>Ovca (biela)</sk>
 			<cz>Ovce (bílá)</cz>
-			<en>Sheep</en>
+			<en>Sheep (White)</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
 		</text>		
 		<text name="SHEEP_TYPE_BROWN">
 			<sk>Ovca (hnedá)</sk>
 			<cz>Ovce (hnědá)</cz>
-			<en>Sheep</en>
+			<en>Sheep (Brown)</en>
 			<de>Schaf (Schwarz &amp; Weiß)</de>
 			<fr>Mouton</fr>
 		</text>		
 		<text name="HORSE_TYPE_GREY">
 			<sk>Kôň (šedý)</sk>
-			<en>Horse (grey)</en>
+			<en>Horse (Grey)</en>
 			<de>Pferd (Schimmel)</de>
 			<cz>Kůň (šedý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BROWN_WHITE">
 			<sk>Kôň (hnedobiely)</sk>
-			<en>Horse (brown-white)</en>
+			<en>Horse (Brown-white)</en>
 			<de>Pferd (Schecke)</de>
 			<cz>Kůň (hnědobílý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BEIGE">
 			<sk>Kôň (béžový)</sk>
-			<en>Horse (beige)</en>
+			<en>Horse (Beige)</en>
 			<de>Pferd (Isabell)</de>
 			<cz>Kůň (béžový)</cz>
 		</text>
 		<text name="HORSE_TYPE_BROWN">
 			<sk>Kôň (hnedý)</sk>
-			<en>Horse (brown)</en>
+			<en>Horse (Brown)</en>
 			<de>Pferd (Fuchs)</de>
 			<cz>Kůň (hnědý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_RED_BROWN">
 			<sk>Kôň (červenohnědý)</sk>
-			<en>Horse (red-brown)</en>
+			<en>Horse (Red-brown)</en>
 			<de>Pferd (Brauner)</de>
 			<cz>Kůň (červenohnědý)</cz>				
 		</text>
 		<text name="HORSE_TYPE_BLACK">
-			<en>HORSE_TYPE_BLACK</en>
+			<sk>Kôň (čierny)</sk>
+			<en>Horse (Black)</en>
 			<de>Pferd (Rappe)</de>
 			<cz>Kůň (černý)</cz>				
 		</text>
 		<text name="HORSE_TYPE_DARK_BROWN">
 			<sk>Kôň (tmavohnedý)</sk>
-			<en>Horse (dark brown)</en>
+			<en>Horse (Dark-brown)</en>
 			<de>Pferd (Schwarzbrauner)</de>
 			<cz>Kůň (tmavě hnědý)</cz>			
 		</text>
 		<text name="HORSE_TYPE_BROWN_WHITE">
 			<sk>Kôň (bielo hnedý)</sk>
-			<en>Horse (white-brown)</en>
+			<en>Horse (White-brown)</en>
 			<de>Pferd (Schwarzbrauner)</de>
 			<cz>Kůň (bilo hnědý)</cz>	
 		</text>			
 		<text name="HORSE_TYPE_LIGHT_BROWN">
 			<sk>Kôň (bledohnedý)</sk>
-			<en>Horse (light brown)</en>
+			<en>Horse (Light-brown)</en>
 			<de>Pferd (Falble)</de>
 			<cz>Kůň (bledě hnědý)</cz>			
 		</text>
+		<text name="COW_TYPE_BRAHMAN_BROWN">
+			<sk>Brahman (hnedý)</sk>
+			<en>Brahman (Brown)</en>
+			<de>Brahman (Fuchs)</de>
+			<cz>Brahman (hnědý)</cz>				
+		</text>
+		<text name="COW_TYPE_BRAHMAN_WHITE">
+			<sk>Brahman (biely)</sk>
+			<cz>Brahman (bílý)</cz>
+			<en>Brahman (White)</en>
+			<de>Brahman (Weiß)</de>
+			<fr>Brahman</fr>			
+		</text>
+		<text name="COW_TYPE_BRAHMAN_LIGHT_BROWN">
+			<sk>Brahman (bledohnedý)</sk>
+			<en>Brahman (Light-brown)</en>
+			<de>Brahman (Falble)</de>
+			<cz>Brahman (bledě hnědý)</cz>			
+		</text>
+		<text name="COW_TYPE_BRAHMAN_GREY">
+			<sk>Brahman (šedý)</sk>
+			<cz>Brahman (šedý)</cz>			
+			<en>Brahman (Grey)</en>
+			<de>Brahman (Schimmel)</de>			
+		</text>								
 	</l10n>
 </mapconfig>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>
+		<text name="$l10n_shopItem_skidSteerBaleFork">
+			<sk>Skidsteer vidlica na balíky</sk>
+			<cz>Skidsteer vidlice na balíky</cz>			
+			<en>Skidsteer Bale Fork</en>
+			<de>$l10n_shopItem_skidSteerBaleFork</de>
+		</text>		
+		<text name="Mbp9">
+			<sk>MBP9</sk>
+			<cz>MBP9</cz>			
+			<en>MBP9</en>
+			<de>MBP9</de>
+		</text>
+		<text name="Manubal_L6000">
+			<sk>Manubal L6000</sk>
+			<cz>Manubal L6000</cz>			
+			<en>Manubal L6000</en>
+			<de>Manubal L6000</de>
+		</text>
+		<text name="lsfmUniversalTankTrailer7500L">
+			<sk>Univerzálny cisterna 7.500L</sk>
+			<cz>Univerzální cisterna 7.500L</cz>			
+			<en>Universal Tank Trailer 7.500L</en>
+			<de>Universal Tank Trailer 7.500L</de>
+		</text>
+		<text name="LF180">
+			<sk>LF180</sk>
+			<cz>LF180</cz>			
+			<en>LF180</en>
+			<de>LF180</de>
+		</text>
+		<text name="HKD402">
+			<sk>HKD402</sk>
+			<cz>HKD402</cz>			
+			<en>HKD402</en>
+			<de>HKD402</de>
+		</text>
+		<text name="flieglAnimalTrailer">
+			<sk>Fliegl príves na zvieratá</sk>
+			<cz>Fliegl zvířecí přívěs</cz>			
+			<en>Fliegl Animal Trailer</en>
+			<de>Fliegl Animal Trailer</de>
+		</text>
+		<text name="dk280w">
+			<sk>DK 280w príves</sk>
+			<cz>DK 280w přívěs</cz>			
+			<en>DK 280w</en>
+			<de>DK 280w</de>
+		</text>
+		<text name="tajfunEGV80AHK">
+			<sk>TajfunEGV80AHK</sk>
+			<cz>TajfunEGV80AHK</cz>			
+			<en>TajfunEGV80AHK</en>
+			<de>TajfunEGV80AHK</de>
+		</text>
+		<text name="dk280wBaleTrailer">
+			<sk>DK 280w príves na balíky</sk>
+			<cz>DK 280w přívěs na balíky</cz>			
+			<en>DK 280w Bale Trailer</en>
+			<de>DK 280w Bale Trailer</de>
+		</text>
+		<text name="db20000premium">
+			<sk>DB 20000 Premium</sk>
+			<cz>DB 20000 Premium</cz>			
+			<en>DB 20000 Premium</en>
+			<de>DB 20000 Premium</de>
+		</text>
+		<text name="bresselUndLadeH40">
+			<sk>Bressel UndLade H40</sk>
+			<cz>Bressel UndLade H40</cz>			
+			<en>Bressel UndLade H40</en>
+			<de>Bressel UndLade H40</de>
+		</text>
+		<text name="820FrontLoader">
+			<sk>820 čelný nakladač</sk>
+			<cz>820 čelní nakladač</cz>			
+			<en>820 Front Loader</en>
+			<de>820 Front Loader</de>
+		</text>		
+		<text name="tajfunEGV80AHK">
+			<sk>TajfunEGV80AHK</sk>
+			<cz>TajfunEGV80AHK</cz>			
+			<en>TajfunEGV80AHK</en>
+			<de>TajfunEGV80AHK</de>
+		</text>
+		<text name="portableToolbox">
+			<sk>Prenosný Toolbox</sk>
+			<cz>Přenosný Toolbox</cz>			
+			<en>Portable Toolbox</en>
+			<de>portableToolbox</de>
+		</text>
+		<text name="kaercher">
+			<sk>Kaercher</sk>
+			<cz>Kaercher</cz>			
+			<en>Kaercher</en>
+			<de>Kaercher</de>
+		</text>		
+	</l10n>
+</mapconfig>

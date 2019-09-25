@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ingameShop>
 	<l10n>
-		<!-- Some items sharing their names -->		
-		<text name="joskinBetimaxRDS7500">
-			<sk>Joskin Betimax RDS7500</sk>
-			<cz>Joskin Betimax RDS7500</cz>
-			<en>Joskin Betimax RDS7500</en>
-			<de>Joskin Betimax RDS7500</de>
-		</text>
-		<text name="$l10n_shopItem_frontloaderSilageCutter">
-			<sk>Vidlica na siláž</sk>
-			<cz>Vidlice na siláž</cz>
-			<en>Silage Fork</en>
-			<de>Silagegabel</de>
-		</text>
+		<!-- Some items sharing their names -->
 		<text name="$l10n_shopItem_frontloaderLogFork">
 			<sk>Vidlica na drevo (predný nakladač)</sk>
 			<en>Front Loader Log Fork</en>
