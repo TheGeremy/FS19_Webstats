@@ -42,12 +42,16 @@ class Price {
 		self::$priceMultiplier = $savegame->getPriceMultiplier();
 		foreach ( $savegame->items as $item ) {
 			$location = cleanFileName ( $item ['filename'] );
+			//var_dump($location);
 			$stationId = intval ( $item ['id'] );
+			//var_dump($stationId);
 			// Lager, Fabriken usw. analysieren
+			//var_dump($mapconfig [$location]);
 			if (! isset ( $mapconfig [$location] ['locationType'] )) {
 				// Objekte, die nicht in der Kartenkonfiguration aufgeführt sind, werden ignoriert
 				continue;
 			} else {
+				//var_dump($mapconfig [$location]);
 				if (isset ( $mapconfig [$location] ['isSellingPoint'] ) && $mapconfig [$location] ['isSellingPoint']) {
 					self::$sellStations [translate ( $location )] = $location;
 					if ($mapconfig [$location] ['locationType'] == 'bga') {

@@ -25,6 +25,7 @@ OFF=Aus
 CREATED_BY=erstellt von
 TIME=Zeit
 MONEY=Geld
+EDITED_BY=bearbeitet von
 
 //install.tpl
 CHANGE_BUTTON=Ändern
@@ -236,6 +237,8 @@ ENTER_PASSWORD=Bitte Passwort eingeben
 PASSWORD_ERROR=Das eingegebene Passwort ist falsch.
 
 //animals.tpl
+HORSE=Pferd
+DAY_RIDE=Täglicher Ausritt
 ANIMALS=Tiere
 NOSTABLES=Keine Ställe vorhanden.
 FITNESS=Fitness
@@ -258,6 +261,7 @@ PROCEEDS=möglicher Verkaufserlös
 PERCENT=%
 
 //finances.tpl
+FINANCES_SUM=Finanzzusammenfassung
 FINANCES=Finanzen
 INCOME_EXPENDITURE=Einnahmen/Ausgaben
 TODAY=Heute

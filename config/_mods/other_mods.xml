@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
 	<l10n>
+		<text name="flieglShovel2800">
+			<sk>Fliegl naberačka 2.800L</sk>
+			<cz>Fliegl naběračka 2.800L</cz>
+			<en>Fliegl Shovel 2.800L</en>
+			<de>Fliegl Shovel 2.800L</de>
+		</text>
+		<text name="hsrb5390">
+			<sk>HSRB 5390</sk>
+			<cz>HSRB 5390</cz>
+			<en>HSRB 5390</en>
+			<de>HSRB 5390</de>
+		</text><text name="maxKehr30">
+			<sk>Max Kehr 30</sk>
+			<cz>Max Kehr 30</cz>
+			<en>Max Kehr 30</en>
+			<de>Max Kehr 30</de>
+		</text><text name="novacatA10CF">
+			<sk>Novacat A10CF</sk>
+			<cz>Novacat A10CF</cz>
+			<en>Novacat A10CF</en>
+			<de>Novacat A10CF</de>
+		</text><text name="Pickup1978">
+			<sk>Pickup 1978</sk>
+			<cz>Pickup 1978</cz>
+			<en>Pickup 1978</en>
+			<de>Pickup 1978</de>
+		</text><text name="Platak">
+			<sk>Platak</sk>
+			<cz>Platak</cz>
+			<en>Platak</en>
+			<de>Platak</de>
+		</text><text name="RBM2000">
+			<sk>RBM 2000</sk>
+			<cz>RBM 2000</cz>
+			<en>RBM 2000</en>
+			<de>RBM 2000</de>
+		</text>
 		<text name="360Tank">
 			<sk>360 nádrž</sk>
 			<cz>360 nádrž</cz>
@@ -13,6 +50,12 @@
 			<en>John Deere 7530</en>
 			<de>John Deere 7530</de>
 		</text>	
+		<text name="tajfunEGV80AHK">
+			<sk>Tajfun EGV80AHK</sk>
+			<cz>Tajfun EGV80AHK</cz>			
+			<en>Tajfun EGV80AHK</en>
+			<de>Tajfun EGV80AHK</de>
+		</text>
 		<text name="NHT">
 			<sk>NHT</sk>
 			<cz>NHT</cz>
