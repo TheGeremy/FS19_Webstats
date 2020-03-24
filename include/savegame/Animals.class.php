@@ -49,6 +49,9 @@ class Animals {
 						case 'animals' :
 							foreach ( $module->animal as $animal ) {
 								$animalType = strval ( $animal ['fillType'] );
+								// var_dump("<br>");
+								// //var_dump($animal);
+								// var_dump($animalType);
 								if (stristr ( $animalType, 'HORSE' ) !== false) {
 									// Animal is a horse
 									$horseName = strval ( $animal ['name'] );
@@ -207,7 +210,13 @@ class Animals {
 					}
 				}
 				$food = array_keys ( self::$stables [$stable] ['food'] ); // troughs
-				if (in_array ( 'MAIZE', $food )) {
+				//var_dump($stable);
+				//var_dump($animal);
+				//var_dump($food);
+				unset($animalTypeShort);
+				$animalTypeShort = substr($animalType, 0, strpos($animalType, "_"));
+				//var_dump($animalTypeShort);
+				/*if (in_array ( 'MAIZE', $food )) {
 					self::calculateTrougs ( $stable, 'pig' );
 				} elseif (in_array ( 'FORAGE', $food )) {
 					self::calculateTrougs ( $stable, 'cow' );
@@ -216,6 +225,15 @@ class Animals {
 					self::calculateTrougs ( $stable, 'horse' );
 				} elseif (in_array ( 'GRASS_WINDROW', $food )) {
 					self::calculateTrougs ( $stable, 'sheep' );
+				} */
+				if (in_array ( 'OAT', $food )) {
+					self::$stables [$stable] ['forHorses'] = true;
+					self::calculateTrougs ( $stable, 'HORSE' );					
+				} elseif (isset($animalType)) {
+					// var_dump("<br>");
+					// var_dump($animalType);
+					// var_dump($animalTypeShort);					
+					self::calculateTrougs ( $stable, $animalTypeShort );					
 				} else {
 					self::$stables [$stable] ['product'] ['egg'] = self::$stables [$stable] ['product'] ['wool'];
 					self::$stables [$stable] ['product'] ['egg'] ['name'] = translate ( 'EGG' );
@@ -230,7 +248,10 @@ class Animals {
 		return array(
 			"COW" => 3500,
 	   	"SHEEP" => 500,
+	   	"GOAT" => 500,
+	   	"RAM" => 500,
 	   	"CHICKEN" => 50,
+	   	"DUCK" => 50,
 	   	"PIG" => 900,
 	   	"HORSE" => 4000
 		);
@@ -251,73 +272,128 @@ class Animals {
 		return $ret;
 	}
 	public static function getStables() {
+		// var_dump("aaaaaaaaaaaaaaaaaaaaaa");
+		// var_dump(self::$stables);
+		// var_dump("######################");
 		return self::$stables;
 	}
 	private static function calculateTrougs($stable, $animal) {
 		$troughs = array (
-				'pig' => array (
+				'PRODUNIT1' => array (
+						'trough1' => array (
+								'MILK' 
+						)
+				),			
+				'PIG' => array (
 						'trough1' => array (
 								'MAIZE' 
 						),
 						'trough2' => array (
 								'WHEAT',
-								'BARLEY' 
+								'BARLEY',
+								'RYE',
+								'CLOVER'
 						),
 						'trough3' => array (
 								'SOYBEAN',
 								'CANOLA',
-								'SUNFLOWER' 
+								'SUNFLOWER'								
 						),
 						'trough4' => array (
 								'POTATO',
-								'SUGARBEET' 
-						) 
+								'SUGARBEET',
+								'CARROT'
+						), 
 				),
-				'cow' => array (
+				'COW' => array (
 						'trough1' => array (
 								'FORAGE' 
 						),
 						'trough2' => array (
+								'SILAGE',
 								'DRYGRASS_WINDROW',
-								'SILAGE' 
+								'CLOVER'
 						),
 						'trough3' => array (
+								'SOYBEAN',
+								'MAIZE' 
+						),
+						'trough4' => array (
 								'GRASS_WINDROW' 
-						) 
+						)  
 				),
-				'sheep' => array (
+				'SHEEP' => array (
 						'trough1' => array (
 								'GRASS_WINDROW',
-								'DRYGRASS_WINDROW' 
+								'DRYGRASS_WINDROW',
+						), 
+						'trough2' => array (
+								'CLOVER' 
+						) 						
+				),
+				'GOAT' => array (
+						'trough1' => array (
+								'GRASS_WINDROW',
+								'DRYGRASS_WINDROW',
+								'CLOVER_WINDROW' 
 						) 
 				),
-				'chicken' => array (
+				'RAM' => array (
+						'trough1' => array (
+								'GRASS_WINDROW',
+								'DRYGRASS_WINDROW',
+								'CLOVER_WINDROW' 
+						) 
+				),
+				'CHICKEN' => array (
 						'trough1' => array (
 								'WHEAT',
-								'BARLEY' 
+								'BARLEY',
+								'MAIZE'  
 						) 
 				),
-				'horse' => array (
+				'DUCK' => array (
+						'trough1' => array (
+								'WHEAT',
+								'BARLEY',
+								'MAIZE'  
+						) 
+				),				
+				'HORSE' => array (
 						'trough1' => array (
 								'OAT' 
 						),
 						'trough2' => array (
-								'DRYGRASS_WINDROW' 
+								'DRYGRASS_WINDROW',
+								'CLOVER' 
 						) 
 				) 
 		);
-		foreach ( $troughs [$animal] as $trough => $troughFoods ) {
-			foreach ( $troughFoods as $food ) {
-				if (! isset ( self::$stables [$stable] ['trough'] [$trough] )) {
-					self::$stables [$stable] ['trough'] [$trough] = array (
-							'name' => translate ( $food ),
-							'value' => self::$stables [$stable] ['food'] [$food] ['value'],
-							'unit' => 'l',
-							'factor' => 100 
-					);
-				} else {
-					self::$stables [$stable] ['trough'] [$trough] ['name'] .= ' / ' . translate ( $food );
-					self::$stables [$stable] ['trough'] [$trough] ['value'] += self::$stables [$stable] ['food'] [$food] ['value'];
+		//foreach ( $troughs [$animal] as $trough => $troughFoods ) {
+		//var_dump("bbbbbbbbbbbbbbbbb");	
+		//var_dump($troughs);
+		//var_dump("ccccccccccccccccc");	
+		// if(! isset($troughs [$animal])) {
+		// 	var_dump("not set");
+		// 	var_dump($animal);
+		// }
+		if (isset($troughs [$animal])) {
+			foreach ( $troughs [$animal] as $trough => $troughFoods ) {
+				//var_dump($troughFoods);
+				foreach ( $troughFoods as $food ) {
+					if (! isset ( self::$stables [$stable] ['trough'] [$trough] )) {
+						//var_dump(self::$stables);
+						//var_dump($food);	
+						self::$stables [$stable] ['trough'] [$trough] = array (
+								'name' => translate ( $food ),
+								'value' => self::$stables [$stable] ['food'] [$food] ['value'],
+								'unit' => 'l',
+								'factor' => 100 
+						);
+					} else {
+						self::$stables [$stable] ['trough'] [$trough] ['name'] .= ' / ' . translate ( $food );
+						self::$stables [$stable] ['trough'] [$trough] ['value'] += self::$stables [$stable] ['food'] [$food] ['value'];
+					}
 				}
 			}
 		}
@@ -332,9 +408,18 @@ class Animals {
 		if (stristr ( $animalName, 'SHEEP' ) !== false) {
 			return 960;
 		}
+		if (stristr ( $animalName, 'GOAT' ) !== false) {
+			return 960;
+		}
+		if (stristr ( $animalName, 'RAM' ) !== false) {
+			return 960;
+		}				
 		if (stristr ( $animalName, 'CHICKEN' ) !== false) {
 			return 240;
 		}
+		if (stristr ( $animalName, 'DUCK' ) !== false) {
+			return 240;
+		}		
 		return 999;
 	}
 	private static function getTimeString($time) {

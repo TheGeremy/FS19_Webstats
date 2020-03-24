@@ -69,8 +69,14 @@ if (!$no_animals) {
 	   "SHEEP" => 0,
 	   "CHICKEN" => 0,
 	   "PIG" => 0,
-	   "HORSE" => 0
+	   "HORSE" => 0,
+	   "RAM" => 0,
+	   "GOAT" => 0,
+	   "DUCK" => 0
 	);
+
+	$animalList = array_keys($animals_count); // troughs
+	//var_dump($animalList);
 
 	// find stable that has at least one animal
 	foreach (array_keys($stables) as $stable) {
@@ -91,7 +97,16 @@ if (!$no_animals) {
 					}						
 					if ($animalType == "PIG") {
 						$animals_count['PIG'] += $stables [$stable] ['animals'] [$animal] ['count'];
-					}				
+					}	
+					if ($animalType == "RAM") {
+						$animals_count['RAM'] += $stables [$stable] ['animals'] [$animal] ['count'];
+					}									
+					if ($animalType == "GOAT") {
+						$animals_count['GOAT'] += $stables [$stable] ['animals'] [$animal] ['count'];
+					}	
+					if ($animalType == "DUCK") {
+						$animals_count['DUCK'] += $stables [$stable] ['animals'] [$animal] ['count'];
+					}											
 				} elseif ($stables [$stable] ['animals'] [$animal] ["isHorse"]) {
 					$animals_count['HORSE'] += 1;
 				}
@@ -112,14 +127,22 @@ if (!$no_animals) {
 				if (array_key_exists('count', $stables [$stable] ['animals'] [$animal]) ) {
 					$animalType = substr($animal, 0, strpos($animal, "_"));
 					$i = 0;
-					foreach ($stables [$stable] ['trough'] as $food) {
-													    // actual food value in liters divided by animal count multiplied by animal rates per animal
-						$valuePercent = floor(   ($food ['value']/($animals_count[$animalType]*$food_rates[$animalType])                )*100);
-						$i++;
-						// insert value in $stable array under trough trough#, 
-						// later accessible in template like $food.valuePercent
-						$stables [$stable] ['trough'] ['trough'.$i] ['valuePercent'] = $valuePercent;	
-						$stables [$stable] ['animals_count'] = $animals_count[$animalType];
+/*					var_dump("<br>");
+					var_dump($stable);
+					var_dump($animalType);*/
+					if (in_array($animalType,$animalList)) {
+						foreach ($stables [$stable] ['trough'] as $food) {
+														    // actual food value in liters divided by animal count multiplied by animal rates per animal
+							// var_dump("<br>");
+							// var_dump($animalType);
+							// var_dump($animals_count[$animalType]);
+							$valuePercent = floor(   ($food ['value']/($animals_count[$animalType]*$food_rates[$animalType])                )*100);
+							$i++;
+							// insert value in $stable array under trough trough#, 
+							// later accessible in template like $food.valuePercent
+							$stables [$stable] ['trough'] ['trough'.$i] ['valuePercent'] = $valuePercent;	
+							$stables [$stable] ['animals_count'] = $animals_count[$animalType];
+						}
 					}
 				} elseif ($stables [$stable] ['animals'] [$animal] ["isHorse"]) {
 					// horse has no standart code like HORSE_ and color, but name you give him in game...
