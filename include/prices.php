@@ -25,6 +25,8 @@ if (! defined ( 'IN_FS19WS' )) {
 include ('./include/savegame/Prices.class.php');
 Price::extractXML ( $savegame );
 $prices = Price::getAllPrices ();
+//var_dump($prices);
+//var_dump(Price::getSellStations ());
 
 include ('./include/savegame/Commodities.class.php');
 Commodity::loadCommodities ( $savegame::$xml );
