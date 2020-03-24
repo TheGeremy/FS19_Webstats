@@ -77,7 +77,7 @@
 			</div>
 			<div class="card">
 				<div class="card-body">
-					<h5 class="card-title">{$map.Name}</h5>
+					<h5 class="card-title">{$map.Name} {$map.Version}</h5>
 					<p class="card-text">{$map.Copyright}</p>
 					<p class="card-text">
 						<a href="{$map.Link}" class="btn btn-primary">{$map.Link|truncate:40:"...":true}</a>
