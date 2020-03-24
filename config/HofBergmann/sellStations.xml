@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- positions are not accurate -->
 <mapconfig>
-    <item position="-828.7420 57.2295 -89.9271" name="sellingStationSpinnery" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-416.1260 90.6104 -723.0010" name="sellingStationSkinner" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-828.7420 57.2295 -89.9271" name="sellingPoint_spinnery" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-416.1260 90.6104 -723.0010" name="sellingPoint_skinner" locationType="TipTrigger" isSellingPoint="true" />
     <item position="3.5810 66.9178 254.5981" name="farmShop" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-793.1260 57.1281 112.7299" name="sellingStationInn" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="678.3300 68.5733 -212.3185" name="sellingStationDairy" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-793.1260 57.1281 112.7299" name="sellingPoint_inn" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="678.3300 68.5733 -212.3185" name="sellingPoint_dairy" locationType="TipTrigger" isSellingPoint="true" />
     <item position="332.4520 58.1710 497.7580" name="sellingStationWoodChips" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="694.0160 67.4463 -64.7327" name="sellingStationGrainMill" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-817.8470 57.1474 221.7980" name="sellingStationRaiffeisen" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-830.9040 56.3985 -427.1959" name="sellingStationAnimalDealer" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-722.2970 56.7483 -86.5624" name="sellingStationHorseRanch" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-738.1580 57.2164 87.0452" name="sellingStationHousehold03" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-734.1890 57.2331 318.6588" name="sellingStationHousehold07" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-729.4930 57.1535 65.0122"  name="sellingStationHousehold02" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-744.7830 57.1779 28.9470" name="sellingStationHousehold01" locationType="TipTrigger" isSellingPoint="true" />    
-    <item position="-813.4550 57.1938 85.9841" name="sellingStationHousehold04" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-832.3330 57.0874 359.8984" name="sellingStationHousehold08" locationType="TipTrigger" isSellingPoint="true" />
-    <item position="-740.3440 57.1412 291.5334" name="sellingStationHousehold06" locationType="TipTrigger" isSellingPoint="true" />    
-    <item position="-838.8150 57.2149 88.7352" name="sellingStationHousehold05" locationType="TipTrigger" isSellingPoint="true" />    
+    <item position="694.0160 67.4463 -64.7327" name="sellingPoint_grainMill" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-817.8470 57.1474 221.7980" name="sellingPoint_raiffeisen" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-830.9040 56.3985 -427.1959" name="sellingPoint_animalDealer" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-722.2970 56.7483 -86.5624" name="sellingPoint_horseRanch" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-738.1580 57.2164 87.0452" name="sellingPoint_household03" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-734.1890 57.2331 318.6588" name="sellingPoint_household07" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-729.4930 57.1535 65.0122"  name="sellingPoint_household02" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-744.7830 57.1779 28.9470" name="sellingPoint_household01" locationType="TipTrigger" isSellingPoint="true" />    
+    <item position="-813.4550 57.1938 85.9841" name="sellingPoint_household04" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-832.3330 57.0874 359.8984" name="sellingPoint_household08" locationType="TipTrigger" isSellingPoint="true" />
+    <item position="-740.3440 57.1412 291.5334" name="sellingPoint_household06" locationType="TipTrigger" isSellingPoint="true" />    
+    <item position="-838.8150 57.2149 88.7352" name="sellingPoint_household05" locationType="TipTrigger" isSellingPoint="true" />    
     <l10n>
-        <text name="sellingStationSpinnery">
+        <text name="sellingPoint_spinnery">
             <sk>Pradiareň</sk>
             <cz>Přádelna</cz>
         </text>
-        <text name="sellingStationSkinner">
+        <text name="sellingPoint_skinner">
             <sk>Kožušník</sk>
             <cz>Kožišník</cz>
         </text>
@@ -33,30 +33,30 @@
             <cz>Farmářska prodejna</cz>
             <en>Farm Shop</en>
         </text>
-        <text name="sellingStationInn">
+        <text name="sellingPoint_inn">
             <sk>Krčma</sk>
             <cz>Hospoda</cz>
         </text>
-        <text name="sellingStationDairy">
+        <text name="sellingPoint_dairy">
             <sk>Mliekáreň</sk>
             <cz>Mlékárna</cz>
         </text>
         <text name="sellingStationWoodChips">
             <sk>Výkup štiepky</sk>
         </text>
-        <text name="sellingStationGrainMill">
+        <text name="sellingPoint_grainMill">
             <sk>Mlyn</sk>
             <cz>Mlýn pro zrní</cz>            
         </text>
-        <text name="sellingStationRaiffeisen">
+        <text name="sellingPoint_raiffeisen">
             <sk>Raiffeisen</sk>
             <cz>Raiffeisen</cz>
         </text>
-        <text name="sellingStationAnimalDealer">
+        <text name="sellingPoint_animalDealer">
             <sk>Prodajca zvierat</sk>
             <cz>Prodejce zvířat</cz>
         </text>
-        <text name="sellingStationHorseRanch">
+        <text name="sellingPoint_horseRanch">
             <sk>Ranč Divoké kone</sk>
         </text>    
         <text name="sellingStationWoodChips">
@@ -65,28 +65,28 @@
             <de>Pila</de>
             <sk>Píla</sk>               
         </text> 
-        <text name="station_household01">
+        <text name="sellingPoint_household01">
             <sk>Hospodár Ritter</sk>    
         </text>
-        <text name="station_household02">
+        <text name="sellingPoint_household02">
             <sk>Hospodár Freisler</sk>    
         </text>  
-        <text name="station_household03">
+        <text name="sellingPoint_household03">
             <sk>Hospodár Miller</sk>    
         </text>   
-        <text name="station_household04">
+        <text name="sellingPoint_household04">
             <sk>Hospodár Meyer</sk>    
         </text>   
-        <text name="station_household05">
+        <text name="sellingPoint_household05">
             <sk>Hospodár Geis</sk>    
         </text>   
-        <text name="station_household06">
+        <text name="sellingPoint_household06">
             <sk>Hospodár Schroeder</sk>    
         </text>
-        <text name="station_household07">
+        <text name="sellingPoint_household07">
             <sk>Hospodár Lehmann</sk>    
         </text>        
-        <text name="station_household08">
+        <text name="sellingPoint_household08">
             <sk>Hospodár Schreiber</sk>    
         </text>
     </l10n>

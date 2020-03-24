@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
-	<l10n>	
+	<l10n>			
+		<text name="fillableButterBarrel">
+			<sk>Plniteľný maslový sud</sk>
+			<cz>Plnitelný máslový sud</cz>
+			<en>Fillable Butter Barrel</en>
+			<de>Fillable Butter Barrel</de>
+			<fr>Fillable Butter Barrel</fr>
+		</text>	
+		<text name="butterMax">
+			<sk>Butter Max&#8482;</sk>
+			<cz>Butter Max&#8482;</cz>
+			<en>Butter Max&#8482;</en>
+			<de>Butter Max&#8482;</de>
+			<fr>Butter Max&#8482;</fr>
+		</text>	
+		<text name="bigBagChickenFoodEmpty">
+			<sk>BigBag&#8482; krmivo pre sliepky</sk>
+			<cz>BigBag&#8482; krmivo pro slepice</cz>
+			<en>BigBag&#8482; Chicken Food</en>
+			<de>bigBagChickenFoodEmpty</de>
+			<fr>bigBagChickenFoodEmpty</fr>
+		</text>
+		<text name="WHOLEGRAIN">
+			<sk>Šrot pre prasata</sk>
+			<cz>šrot pro prasata</cz>
+			<en>Whole Grain</en>
+			<de>Getreideschrot</de>
+			<fr>Whole Grain</fr>
+		</text>	
+		<text name="bigBagWholeGrainMill">
+			<sk>BigBag&#8482; Šrot</sk>
+			<cz>BigBag&#8482; Šrot</cz>
+			<en>BigBag&#8482; Whole Grain</en>
+			<de>BigBag&#8482; Getreideschrot</de>
+			<fr>BigBag&#8482; Whole Grain</fr>
+		</text>	
+		<text name="cheese">
+			<sk>Syr</sk>
+			<cz>Sýr</cz>
+			<en>Cheese</en>
+			<de>Käse</de>
+			<fr>Cheese</fr>
+		</text>			
+		<text name="CHEESE">
+			<sk>Syr</sk>
+			<cz>Sýr</cz>
+			<en>Cheese</en>
+			<de>Käse</de>
+			<fr>Cheese</fr>
+		</text>					
 		<text name="bigBagLifter">
 			<sk>BigBag&#8482; zdvihák</sk>
 			<cz>BigBag&#8482; zvedák</cz>
@@ -86,14 +135,14 @@
 			<fr>woodChipsBag</fr>
 		</text>	
 		<text name="bigBagPigFood">
-			<sk>BigBag&#8482; potrava pre ošípané</sk>
+			<sk>BigBag&#8482; krmivo pre ošípané</sk>
 			<cz>BigBag&#8482; krmivo pro prasata</cz>
 			<en>BigBag&#8482; Pig Food</en>
 			<de>bigBagPigFood</de>
 			<fr>bigBagPigFood</fr>
 		</text>
 		<text name="bigBagPigFoodEmpty">
-			<sk>BigBag&#8482; potrava pre ošípané</sk>
+			<sk>BigBag&#8482; krmivo pre ošípané</sk>
 			<cz>BigBag&#8482; krmivo pro prasata</cz>
 			<en>BigBag&#8482; Pig Food</en>
 			<de>bigBagPigFood</de>
@@ -128,14 +177,14 @@
 			<fr>bigBagSeeds</fr>
 		</text>
 		<text name="bigBagHorseFoodEmpty">
-			<sk>BigBag&#8482; potrava pre kone</sk>
+			<sk>BigBag&#8482; krmivo pre kone</sk>
 			<cz>BigBag&#8482; krmivo pro koně</cz>
 			<en>BigBag&#8482;</en>
 			<de>seedStainTank</de>
 			<fr>seedStainTank</fr>
 		</text>
 		<text name="bigBagHorseFood">
-			<sk>BigBag&#8482; potrava pre kone</sk>
+			<sk>BigBag&#8482; krmivo pre kone</sk>
 			<cz>BigBag&#8482; krmivo pro koně</cz>
 			<en>BigBag&#8482;</en>
 			<de>seedStainTank</de>

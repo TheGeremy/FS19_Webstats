@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
 	<l10n>	
+		<text name="universalSilo">
+			<sk>Univerzálne silo</sk>
+			<cz>Univerzální Silo</cz>
+			<en>Universal Silo</en>
+			<de>Universal Silo</de>
+			<fr>Universal Silo</fr>
+		</text>
 		<text name="farmSiloBig">
 			<sk>Silo na farme</sk>
 			<cz>Silo na farmě</cz>

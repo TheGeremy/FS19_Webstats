@@ -52,11 +52,11 @@
 			<fr>RAM_TYPE_BLACK</fr>
 		</text>		
 		<text name="PRODUNIT1">
-			<sk>Produkt I</sk>
-			<cz>PRODUNIT1</cz>
-			<en>Product I</en>
-			<de>PRODUNIT1</de>
-			<fr>PRODUNIT1</fr>
+			<sk>Syr</sk>
+			<cz>sýr</cz>
+			<en>Cheese</en>
+			<de>Käse</de>
+			<fr>Fromage</fr>
 		</text>			
 	</l10n>
 </mapconfig>
