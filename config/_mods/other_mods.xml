@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
-	<l10n>
+	<l10n>		
+		<text name="garantPT20000">
+			<sk>Garant PT 20.000L</sk>
+			<cz>Garant PT 20.000L</cz>
+			<en>Garant PT 20.000L</en>
+			<de>Garant PT 20.000L</de>
+		</text>			
 		<text name="zuidberg">
 			<sk>Zuidberg 1500Kg závažie</sk>
 			<cz>Zuidberg 1500Kg závaží</cz>

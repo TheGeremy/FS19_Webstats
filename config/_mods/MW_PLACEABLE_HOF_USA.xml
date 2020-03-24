@@ -24,6 +24,12 @@
 			<cz>Velký prasečák</cz>
 			<en>Large Pig Husbandry</en>
             <de>Große Schweinehaltung</de>
-		</text>					
+		</text>	
+		<text name="farmSilo01">
+			<sk>Silo na farme</sk>
+			<cz>Silo na farme</cz>
+			<en>Farm silo</en>
+            <de>Bauernhof Silo</de>
+		</text>		
 	</l10n>
 </mapconfig>
