@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>
+		<text name="defCanister">
+			<sk>DEF Canister</sk>
+			<cz>DEF Canister</cz>
+			<en>DEF Canister</en>
+			<de>DEF Canister</de>
+		</text>
+	</l10n>
+</mapconfig>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig> 
+    <l10n>     
+        <text name="HEMP">
+            <sk>Konope</sk>
+            <cz>Konope</cz>
+            <en>Hemp</en>
+            <de>Hanf</de>
+        </text>    
+        <text name="MUSTARD">
+            <sk>Horčica</sk>
+            <cz>Hořčice</cz>
+            <en>Mustard</en>
+            <de>Senf</de>
+        </text>    
+        <text name="CLOVER">
+            <sk>Ďatelina</sk>
+            <cz>Jetel</cz>
+            <en>Clover</en>
+            <de>Klee</de>
+        </text>   
+        <text name="RYE">
+            <sk>Raž</sk>
+            <cz>Žito</cz>
+            <en>Rye</en>
+            <de>Rye</de>
+        </text>
+        <text name="CARROT">
+            <sk>Mrkva</sk>
+            <cz>Mrkev</cz>
+            <en>Carrot</en>
+            <de>Karotte</de>
+        </text>                                                           
+    </l10n>  
+</mapconfig>

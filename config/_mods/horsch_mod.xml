@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>	
+		<text name="maestroSW2475">
+			<sk>Horsch Maestro SW2475</sk>
+			<cz>Horsch Maestro SW2475</cz>
+			<en>Horsch Maestro SW2475</en>
+			<de>Horsch Maestro SW2475</de>
+		</text>
+		<text name="seedTender">
+			<sk>Horsch Seed Tender 10T</sk>
+			<cz>Horsch Seed Tender 10T</cz>
+			<en>Horsch Seed Tender 10T</en>
+			<de>Horsch Seed Tender 10T</de>
+		</text>
+		<text name="transportTrailer">
+			<sk>Horsch Transport Trailer</sk>
+			<cz>Horsch Transport Trailer</cz>			
+			<en>Horsch Transport Trailer</en>
+			<de>Horsch Transport Trailer</de>
+		</text>				
+	</l10n>
+</mapconfig>

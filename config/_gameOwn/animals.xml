@@ -59,12 +59,33 @@
 			<fr>Vache</fr>
 		</text>
 		<text name="COW_TYPE_BLACK">
-			<sk>Krava (černa)</sk>
+			<sk>Krava (čierna)</sk>
 			<cz>Kráva (černá)</cz>
 			<en>Cow (Black)</en>
 			<de>Kuh (Schwarz)</de>
 			<fr>Vache</fr>
-		</text>		
+		</text>	
+		<text name="PIG_TYPE_BLACK_WHITE">
+			<sk>Prasa (bieločierne)</sk>
+			<cz>Prase (bíločerné)</cz>
+			<en>Pig (Black-white)</en>
+			<de>Schwein (Schwarz)</de>
+			<fr>PIG_TYPE_BLACK_WHITE</fr>
+		</text>
+		<text name="PIG_TYPE_BLACK">
+			<sk>Prasa (čierne)</sk>
+			<cz>Prase (černé)</cz>
+			<en>Pig (Black)</en>
+			<de>Schwein (Schwarz &amp; Weiß)</de>
+			<fr>PIG_TYPE_BLACK</fr>
+		</text>
+		<text name="PIG_TYPE_WHITE">
+			<sk>Prasa (biele)</sk>
+			<cz>Prase (bílé)</cz>
+			<en>Pig (White)</en>
+			<de>Schwein (Weiß)</de>
+			<fr>PIG_TYPE_WHITE</fr>
+		</text>
 		<text name="PIG_TYPE_RED">
 			<sk>Prasa (ružové)</sk>
 			<cz>Prase (růžové)</cz>

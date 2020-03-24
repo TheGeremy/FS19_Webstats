@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>
+		<text name="W1800">
+			<sk>Claas W1800</sk>
+			<cz>Claas W1800</cz>			
+			<en>Claas W1800</en>
+			<de>Claas W1800</de>			
+		</text>				
+		<text name="W900">
+			<sk>Claas W900</sk>
+			<cz>Claas W900</cz>			
+			<en>Claas W900</en>
+			<de>Claas W900</de>			
+		</text>
+		<text name="quadrant5300">
+			<sk>Claas Quadrant 5300</sk>
+			<cz>Claas Quadrant 5300</cz>			
+			<en>Claas Quadrant 5300</en>
+			<de>Claas Quadrant 5300</de>			
+		</text>			
+		<text name="axion900">
+			<sk>Claas Axion 900</sk>
+			<cz>Claas Axion 900</cz>			
+			<en>Claas Axion 900</en>
+			<de>Claas Axion 900</de>			
+		</text>								
+		<text name="cargos9500">
+			<sk>Claas Cargos 9500</sk>
+			<cz>Claas Cargos 9500</cz>			
+			<en>Claas Cargos 9500</en>
+			<de>Claas Cargos 9500</de>			
+		</text>	
+		<text name="lexion8000">
+			<sk>Claas Lexion 8000</sk>
+			<cz>Claas Lexion 8000</cz>			
+			<en>Claas Lexion 8000</en>
+			<de>Claas Lexion 8000</de>			
+		</text>	
+		<text name="xxxx">
+			<sk>xxxx</sk>
+			<cz>xxxx</cz>			
+			<en>xxxx</en>
+			<de>xxxx</de>			
+		</text>	
+		<text name="xxxx">
+			<sk>xxxx</sk>
+			<cz>xxxx</cz>			
+			<en>xxxx</en>
+			<de>xxxx</de>			
+		</text>	
+		<text name="xxxx">
+			<sk>xxxx</sk>
+			<cz>xxxx</cz>			
+			<en>xxxx</en>
+			<de>xxxx</de>			
+		</text>							
+	</l10n>
+</mapconfig>

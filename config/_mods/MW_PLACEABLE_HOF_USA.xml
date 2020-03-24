@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+	<l10n>
+		<text name="SCS_SHEEP_BARN">
+			<sk>Salaš</sk>
+			<cz>Salaš</cz>
+			<en>Sheep Husbandry</en>
+			<de>Sheep Husbandry</de> 
+		</text>	
+		<text name="SCS_HORSE_STABLE">
+            <sk>Stajňa pre kone</sk>
+            <cz>Konské stáje</cz>
+            <en>Horse Stable</en>
+            <de>Horse Stable</de>
+		</text>	
+		<text name="SCS_COW_BARN_MODERN">
+			<sk>Veľký kravín</sk>
+			<cz>Velký kravín</cz>
+			<en>Large Cow Husbandry</en>
+			<de>Große Kuhhaltung</de>
+		</text>	
+		<text name="SCS_OLD_PIG_BARN">
+			<sk>Veľká ošipáreň</sk>
+			<cz>Velký prasečák</cz>
+			<en>Large Pig Husbandry</en>
+            <de>Große Schweinehaltung</de>
+		</text>					
+	</l10n>
+</mapconfig>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <Farmlands>
+        <Farmland price="0" id="1"  priceScale="1" npcName="NPC_US_03" />    <!-- Main sellpoints -->                               
+        <Farmland price="0" id="2"  priceScale="1" npcName="NPC_US_01" />    <!-- Default Main Farm yard -->
+        <Farmland price="0" id="3"  priceScale="1" npcName="NPC_US_07" />    <!-- Default Cows -->
+        <Farmland price="0" id="4"  priceScale="1" npcName="NPC_US_02" />    <!-- Default Sheep -->
+        <Farmland price="0" id="5"  priceScale="1" npcName="NPC_US_12" />    <!-- Default Pigs -->
+        <Farmland price="0" id="6"  priceScale="1" npcName="NPC_US_13" />    <!-- Default Horse -->
+        <Farmland price="0" id="7"  priceScale="1" npcName="NPC_US_08" />    <!-- Default Field 15 -->
+        <Farmland price="0" id="8"  priceScale="1" npcName="NPC_US_10" />    <!-- Default Field 14 -->
+        <Farmland price="0" id="9"  priceScale="1" npcName="NPC_US_20" />    <!-- Default Field 13 -->
+        <Farmland price="0" id="10" priceScale="1" npcName="NPC_US_01" />    <!-- BGA -->
+        <Farmland price="0" id="11" priceScale="1" npcName="NPC_US_18" />    <!-- Field 16 -->
+        <Farmland price="0" id="12" priceScale="1" npcName="NPC_US_04" />    <!-- Field 17 -->
+        <Farmland price="0" id="13" priceScale="1" npcName="NPC_US_03" />    <!-- Field 18 -->
+        <Farmland price="0" id="14" priceScale="1" npcName="NPC_US_17" />    <!-- Field 19 -->
+        <Farmland price="0" id="15" priceScale="1" npcName="NPC_US_05" />    <!-- Field 20 -->
+        <Farmland price="0" id="16" priceScale="1" npcName="NPC_US_06" />    <!-- Field 21 -->
+        <Farmland price="0" id="17" priceScale="1" npcName="NPC_US_11" />    <!-- Field 22 -->
+        <Farmland price="0" id="18" priceScale="1" npcName="NPC_US_16" />    <!-- Field 23 -->
+        <Farmland price="0" id="19" priceScale="1" npcName="NPC_US_09" />    <!-- Field 24 -->
+        <Farmland price="0" id="20" priceScale="1" npcName="NPC_US_13" />    <!-- Field 25 -->
+        <Farmland price="0" id="21" priceScale="1" npcName="NPC_US_04" />    <!-- Field 26 -->
+        <Farmland price="0" id="22" priceScale="1" npcName="NPC_US_11" />    <!-- Field 27 -->
+        <Farmland price="0" id="23" priceScale="1" npcName="NPC_US_08" />    <!-- Field 28 -->
+        <Farmland price="0" id="24" priceScale="1" npcName="NPC_US_01" />    <!-- Field 29 -->
+        <Farmland price="0" id="25" priceScale="1" npcName="NPC_US_16" />    <!-- Field 30 -->
+        <Farmland price="0" id="26" priceScale="1" npcName="NPC_US_10" />    <!-- Field 31 -->
+        <Farmland price="0" id="27" priceScale="2" npcName="NPC_US_09" />    <!-- Forest02 1 -->
+        <Farmland price="0" id="28" priceScale="1" npcName="NPC_US_02" />    <!-- Forest02 2 -->
+        <Farmland price="0" id="29" priceScale="1" npcName="NPC_US_20" />    <!-- Forest01 1 -->
+        <Farmland price="0" id="30" priceScale="1" npcName="NPC_US_18" />    <!-- Forest01 2 -->
+        <Farmland price="0" id="31" priceScale="1" npcName="NPC_US_03" />    <!-- Forest01 3 -->
+        <Farmland price="0" id="32" priceScale="1" npcName="NPC_US_16" />    <!-- Forest01 4 -->
+        <Farmland price="0" id="33" priceScale="1" npcName="NPC_US_19" />    <!-- Field 1 -->
+        <Farmland price="0" id="34" priceScale="1" npcName="NPC_US_03" />    <!-- Field 2 -->
+        <Farmland price="0" id="35" priceScale="1" npcName="NPC_US_12" />    <!-- Field 3 -->
+        <Farmland price="0" id="36" priceScale="1" npcName="NPC_US_20" />    <!-- Field 4 -->
+        <Farmland price="0" id="37" priceScale="1" npcName="NPC_US_18" />    <!-- Field 5 -->
+        <Farmland price="0" id="38" priceScale="1" npcName="NPC_US_16" />    <!-- Field 6 -->
+        <Farmland price="0" id="39" priceScale="1" npcName="NPC_US_18" />    <!-- Field 7 -->
+        <Farmland price="0" id="40" priceScale="1" npcName="NPC_US_05" />    <!-- Field 8 -->
+        <Farmland price="0" id="41" priceScale="1" npcName="NPC_US_07" />    <!-- Field 9 -->
+        <Farmland price="0" id="42" priceScale="1" npcName="NPC_US_15" />    <!-- Field 10 -->
+        <Farmland price="0" id="43" priceScale="1" npcName="NPC_US_19" />    <!-- Field 11 -->
+        <Farmland price="0" id="44" priceScale="1" npcName="NPC_US_06" />    <!-- Field 12 -->
+        <Farmland price="0" id="45" priceScale="12" npcName="NPC_US_10" />    <!-- GC Nursery -->
+        <Farmland price="0" id="46" priceScale="1" npcName="NPC_US_15" />    <!-- Field 32 -->
+        <Farmland price="0" id="47" priceScale="1" npcName="NPC_US_10" />    <!-- Field 33 -->
+        <Farmland price="0" id="48" priceScale="1" npcName="NPC_US_17" />    <!-- Field 34 -->
+        <Farmland price="0" id="49" priceScale="1" npcName="NPC_US_04" />    <!-- Forest03 1 -->
+        <Farmland price="0" id="50" priceScale="1" npcName="NPC_US_13" />    <!-- Forest03 2 -->
+        <Farmland price="0" id="51" priceScale="1" npcName="NPC_US_17" />    <!-- Forest03 3 -->
+        <Farmland price="0" id="52" priceScale="1" npcName="NPC_US_15" />    <!-- Forest03 4 -->
+        <Farmland price="0" id="53" priceScale="1" npcName="NPC_US_02" />    <!-- Field 35 -->
+        <Farmland price="0" id="54" priceScale="1" npcName="NPC_US_03" />    <!-- Field 36 -->
+        <Farmland price="0" id="55" priceScale="1" npcName="NPC_US_10" />    <!-- Field 37 -->
+        <Farmland price="0" id="56" priceScale="1" npcName="NPC_US_10" />    <!-- Field 38 -->
+        <Farmland price="0" id="57" priceScale="1" npcName="NPC_US_09" />    <!-- Field 39 -->
+        <Farmland price="0" id="58" priceScale="1" npcName="NPC_US_16" />    <!-- Field 40 -->
+        <Farmland price="0" id="59" priceScale="1" npcName="NPC_US_09" />    <!-- Field 41 -->
+        <Farmland price="0" id="60" priceScale="1" npcName="NPC_US_13" />    <!-- Field 42 -->
+        <Farmland price="0" id="61" priceScale="1" npcName="NPC_US_04" />    <!-- Field 43 -->
+        <Farmland price="0" id="62" priceScale="1" npcName="NPC_US_11" />    <!-- Field 44 -->
+        <Farmland price="0" id="63" priceScale="1" npcName="NPC_US_19" />    <!-- Plc/Area -->
+        <Farmland price="0" id="64" priceScale="1" npcName="NPC_US_02" />    <!-- Field 45 -->
+        <Farmland price="0" id="65" priceScale="1" npcName="NPC_US_03" />    <!-- Field 46 -->
+        <Farmland price="0" id="66" priceScale="1" npcName="NPC_US_10" />    <!-- Field 47 -->
+        <Farmland price="0" id="67" priceScale="1" npcName="NPC_US_10" />    <!-- Field 48 -->
+        <Farmland price="0" id="68" priceScale="1" npcName="NPC_US_09" />    <!-- Field 49 -->
+        <Farmland price="0" id="69" priceScale="1" npcName="NPC_US_16" />    <!-- Field 50 -->
+        <Farmland price="0" id="70" priceScale="1" npcName="NPC_US_09" />    <!-- Field 51 -->
+        <Farmland price="0" id="71" priceScale="1" npcName="NPC_US_13" />    <!-- Field 52 -->
+        <Farmland price="0" id="72" priceScale="1" npcName="NPC_US_11" />    <!-- Field 53 -->
+        <Farmland price="0" id="73" priceScale="1" npcName="NPC_US_16" />    <!-- Field 54 -->
+        <Farmland price="0" id="74" priceScale="1" npcName="NPC_US_09" />    <!-- Plc/Area Port -->
+        <Farmland price="0" id="75" priceScale="1" npcName="NPC_US_01" />    <!-- Field 55 -->
+        <Farmland price="0" id="76" priceScale="1" npcName="NPC_US_16" />    <!-- Field 56 -->
+        <Farmland price="0" id="77" priceScale="1" npcName="NPC_US_10" />    <!-- Field 57 -->
+        <Farmland price="0" id="78" priceScale="2" npcName="NPC_US_09" />    <!-- Field 58 -->
+        <Farmland price="0" id="79" priceScale="1" npcName="NPC_US_02" />    <!-- Field 59 -->
+        <Farmland price="0" id="80" priceScale="1" npcName="NPC_US_20" />    <!-- Field 60 -->
+        <Farmland price="0" id="81" priceScale="1" npcName="NPC_US_18" />    <!-- Field 61 -->
+        <Farmland price="0" id="82" priceScale="1" npcName="NPC_US_03" />    <!-- Field 62 -->
+        <Farmland price="0" id="83" priceScale="1" npcName="NPC_US_16" />    <!-- Field 63 -->
+        <Farmland price="0" id="84" priceScale="1" npcName="NPC_US_19" />    <!-- Field 64 -->
+        <Farmland price="0" id="85" priceScale="1" npcName="NPC_US_03" />    <!-- Field 65 -->
+        <Farmland price="0" id="86" priceScale="1" npcName="NPC_US_12" />    <!-- Field 66 -->
+        <Farmland price="0" id="87" priceScale="1" npcName="NPC_US_20" />    <!-- Field 67 -->
+        <Farmland price="0" id="88" priceScale="1" npcName="NPC_US_18" />    <!-- Field 68 -->
+        <Farmland price="0" id="89" priceScale="1" npcName="NPC_US_16" />    <!-- Field 69 -->
+        <Farmland price="0" id="90" priceScale="1" npcName="NPC_US_18" />    <!-- Forest04 1 -->
+        <Farmland price="0" id="91" priceScale="1" npcName="NPC_US_05" />    <!-- Forest04 2 -->
+        <Farmland price="0" id="92" priceScale="1" npcName="NPC_US_05" />    <!-- Field 70 -->
+        <Farmland price="0" id="93" priceScale="1" npcName="NPC_US_06" />    <!-- Field 71 -->
+        <Farmland price="0" id="94" priceScale="1" npcName="NPC_US_11" />    <!-- Field 72 -->
+        <Farmland price="0" id="95" priceScale="1" npcName="NPC_US_16" />    <!-- Field 73 -->
+        <Farmland price="0" id="96" priceScale="1" npcName="NPC_US_09" />    <!-- Field 74 -->
+        <Farmland price="0" id="97" priceScale="1" npcName="NPC_US_13" />    <!-- Field 75 -->
+        <Farmland price="0" id="98" priceScale="1" npcName="NPC_US_04" />    <!-- Field 76 -->
+        <Farmland price="0" id="99" priceScale="1" npcName="NPC_US_09" />    <!-- Plc/Area sw -->
+        <Farmland price="0" id="100" priceScale="1" npcName="NPC_US_04" />    <!-- Forest05 1 -->
+        <Farmland price="0" id="101" priceScale="1" npcName="NPC_US_13" />    <!-- Forest05 2 -->
+        <Farmland price="0" id="102" priceScale="1" npcName="NPC_US_17" />    <!-- Forest05 3 -->
+        <Farmland price="0" id="103" priceScale="1" npcName="NPC_US_15" />    <!-- Forest05 4 -->
+        <Farmland price="0" id="104" priceScale="1" npcName="NPC_US_10" />    <!-- Field 77 -->
+        <Farmland price="0" id="105" priceScale="1" npcName="NPC_US_10" />    <!-- Field 78 -->
+        <Farmland price="0" id="106" priceScale="1" npcName="NPC_US_09" />    <!-- Field 79 -->
+        <Farmland price="0" id="107" priceScale="1" npcName="NPC_US_16" />    <!-- Field 80 -->
+        <Farmland price="0" id="108" priceScale="1" npcName="NPC_US_09" />    <!-- Plc/Area North -->
+        <Farmland price="0" id="109" priceScale="1" npcName="NPC_US_18" />    <!-- Field 81 -->
+        <Farmland price="0" id="110" priceScale="1" npcName="NPC_US_03" />    <!-- Field 82 -->
+        <Farmland price="0" id="111" priceScale="1" npcName="NPC_US_16" />    <!-- Field 83 -->
+        <Farmland price="0" id="112" priceScale="1" npcName="NPC_US_09" />    <!-- Field 84 -->
+        <Farmland price="0" id="113" priceScale="1" npcName="NPC_US_13" />    <!-- Field 85 -->
+        <Farmland price="0" id="114" priceScale="1" npcName="NPC_US_04" />    <!-- Field 86 -->
+        <Farmland price="0" id="115" priceScale="1" npcName="NPC_US_11" />    <!-- Field 87 -->
+        <Farmland price="0" id="116" priceScale="1" npcName="NPC_US_08" />    <!-- Field 88 -->
+        <Farmland price="0" id="117" priceScale="1" npcName="NPC_US_01" />    <!-- Field 89 -->
+        <Farmland price="0" id="118" priceScale="1" npcName="NPC_US_16" />    <!-- Field 90 -->
+        <Farmland price="0" id="119" priceScale="1" npcName="NPC_US_10" />    <!-- Field 91 -->
+        <Farmland price="0" id="120" priceScale="2" npcName="NPC_US_09" />    <!-- Field 92 -->
+        <Farmland price="0" id="121" priceScale="1" npcName="NPC_US_02" />    <!-- Field 93 -->
+        <Farmland price="0" id="122" priceScale="1" npcName="NPC_US_20" />    <!-- Field 94 -->
+        <Farmland price="0" id="123" priceScale="1" npcName="NPC_US_09" />    <!-- Plc/Area se -->
+        <Farmland price="0" id="124" priceScale="1" npcName="NPC_US_18" />    <!-- Field 95 -->
+        <Farmland price="0" id="125" priceScale="1" npcName="NPC_US_16" />    <!-- Field 96 -->
+        <Farmland price="0" id="126" priceScale="1" npcName="NPC_US_18" />    <!-- Field 97 -->
+        <Farmland price="0" id="127" priceScale="1" npcName="NPC_US_05" />    <!-- Field 98 -->
+        <Farmland price="0" id="128" priceScale="1" npcName="NPC_US_07" />    <!-- Field 99 -->
+        <Farmland price="0" id="129" priceScale="1" npcName="NPC_US_09" />    <!-- Plc/Area w -->
+        <Farmland price="0" id="130" priceScale="1" npcName="NPC_US_09" />    <!-- Plc/Area Nursery -->
+        <Farmland price="0" id="131" priceScale="1" npcName="NPC_US_16" />    <!-- Field 100 -->
+        <Farmland price="0" id="132" priceScale="1" npcName="NPC_US_09" />    <!-- Field 101 -->
+        <Farmland price="0" id="133" priceScale="1" npcName="NPC_US_13" />    <!-- Field 102 -->
+        <Farmland price="0" id="134" priceScale="1" npcName="NPC_US_04" />    <!-- Field 103 -->
+        <Farmland price="0" id="135" priceScale="1" npcName="NPC_US_11" />    <!-- Field 104 -->
+        <Farmland price="0" id="136" priceScale="1" npcName="NPC_US_18" />    <!-- Field 105 -->
+        <Farmland price="0" id="137" priceScale="1" npcName="NPC_US_16" />    <!-- Field 106 -->
+        <Farmland price="0" id="138" priceScale="1" npcName="NPC_US_18" />    <!-- Field 107 -->
+        <Farmland price="0" id="139" priceScale="1" npcName="NPC_US_05" />    <!-- Field 108 -->
+        <Farmland price="0" id="140" priceScale="1" npcName="NPC_US_09" />    <!-- Plc/Area -->
+        <!--<farmland id="54" priceScale="1"    npcName="NPC_US_03" />
+        <farmland id="55" priceScale="1"    npcName="NPC_US_10" />-->
+  </Farmlands>
+</mapconfig>

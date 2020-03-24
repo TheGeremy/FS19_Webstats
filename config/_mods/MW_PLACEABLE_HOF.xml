@@ -6,6 +6,18 @@
 	<item name="SCS_FUTTERMISCH_SILO" locationType="storage" />
 	<item name="SCS_BUNKER_SILO_KLEIN_ONE_WAY" locationType="bunker" />
 	<l10n>
+		<text name="SCS_LATERNE">
+			<sk>SCS lampa</sk>
+			<cz>SCS svítilna</cz>
+			<en>SCS Lamp</en>
+			<de>SCS Laterne</de>
+		</text>
+		<text name="SCS_LIQUID_HERBICIDE">
+			<sk>SCS nádrž na Herbicid</sk>
+			<cz>SCS nádrž pro Herbicid</cz>
+			<en>SCS Herbicide Tank</en>
+			<de>SCS Herbicide Tank</de>
+		</text>				
 		<text name="SCS_HOFSILO">
 			<sk>SCS Silo</sk>
 			<cz>SCS Silo</cz>
@@ -84,5 +96,17 @@
 			<en>Shelter IV</en>
 			<de>Unterstand IV</de>
 		</text>	
+		<text name="unterstand02">
+			<sk>Prístrešok II</sk>
+			<cz>Přístřešek II</cz>
+			<en>Shelter II</en>
+			<de>Unterstand II</de>
+		</text>	
+		<text name="unterstand01">
+			<sk>Prístrešok I</sk>
+			<cz>Přístřešek I</cz>
+			<en>Shelter I</en>
+			<de>Unterstand I</de>
+		</text>					
 	</l10n>
 </mapconfig>

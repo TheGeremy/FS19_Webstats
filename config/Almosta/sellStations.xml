@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationPort" />                                                                       
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationMillStation" />                                                                        
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationGrainMill" />                                                                      
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWesternMill" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationRanch" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationRestaurant"/>
+    <item isSellingPoint="true" locationType="TipTrigger" name="Restaurant"/>
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationBales" /> 
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWood" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWoodChips" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationManure" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationGardenCenter" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationDiesel" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWool" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationDairy" />
+
+    <l10n>        
+        <text name="Restaurant">
+            <sk>Briana's Beer and Burgers</sk>
+            <cz>Briana's Beer and Burgers</cz>
+            <en>Briana's Beer and Burgers</en>
+            <de>Briana's Beer and Burgers</de>
+        </text> 
+        <text name="sellingStationPort">
+            <sk>Port Sales</sk>
+            <cz>Port Sales</cz>
+            <en>Port Sales</en>
+            <de>Port Sales</de>
+        </text>                                                                                         
+        <text name="sellingStationMillStation">
+            <sk>Honest Newalls Mill</sk>
+            <cz>Honest Newalls Mill</cz>
+            <en>Honest Newalls Mill</en>
+            <de>Honest Newalls Mill</de>
+        </text>                                                                          
+        <text name="sellingStationGrainMill">
+            <sk>Reliable Robd's Mill</sk>
+            <cz>Reliable Robd's Mill</cz>
+            <en>Reliable Robd's Mill</en>
+            <de>Reliable Robd's Mill</de>
+        </text>                                                                        
+        <text name="sellingStationWesternMill">
+            <sk>It’s All Legal Mill</sk>
+            <cz>It’s All Legal Mill</cz>
+            <en>It’s All Legal Mill</en>
+            <de>It’s All Legal Mill</de>
+        </text>  
+        <text name="sellingStationRanch">
+            <sk>Wacky Do Ranch</sk>
+            <cz>Wacky Do Ranch</cz>
+            <en>Wacky Do Ranch</en>
+            <de>Wacky Do Ranch</de>
+        </text>  
+        <text name="sellingStationRestaurant">
+            <sk>sellingStationRestaurant</sk>
+            <cz>sellingStationRestaurant</cz>
+            <en>sellingStationRestaurant</en>
+            <de>sellingStationRestaurant</de>
+        </text> 
+        <text name="sellingStationBales">
+            <sk>Bales Sales</sk>
+            <cz>Bales Sales</cz>
+            <en>Bales Sales</en>
+            <de>Bales Sales</de>
+        </text>   
+        <text name="sellingStationWood">
+            <sk>Píla - Výkup Dreva</sk>
+            <cz>Pila - Výkup Dřeva</cz>
+            <en>Sawmill - Wood</en>
+            <de>Sägewerk - Holz</de>
+        </text>  
+        <text name="sellingStationWoodChips">
+            <sk>Píla - Výkup Štiepky</sk>
+            <cz>Pila - Výkup Štěpky</cz>
+            <en>Sawmill - Woodchips</en>
+            <de>Sägewerk - Hackschnitzel</de>
+        </text>  
+        <text name="sellingStationManure">
+            <sk>Farmer John's Manure</sk>
+            <cz>Farmer John's Manure</cz>
+            <en>Farmer John's Manure</en>
+            <de>Farmer John's Manure</de>
+        </text>  
+        <text name="sellingStationGardenCenter">
+            <sk>Lukah’s Garden Center</sk>
+            <cz>Lukah’s Garden Center</cz>
+            <en>Lukah’s Garden Center</en>
+            <de>Lukah’s Garden Center</de>
+        </text>  
+        <text name="sellingStationDiesel">
+            <sk>Diesel Sales</sk>
+            <cz>Diesel Sales</cz>
+            <en>Diesel Sales</en>
+            <de>Diesel Sales</de>
+        </text>  
+        <text name="sellingStationWool">
+            <sk>Wicked Wicky’s Wool</sk>
+            <cz>Wicked Wicky’s Wool</cz>
+            <en>Wicked Wicky’s Wool</en>
+            <de>Wicked Wicky’s Wool</de>
+        </text>  
+        <text name="sellingStationDairy">
+            <sk>Zeke's White &amp; Creamy Dairy</sk>
+            <cz>Zeke's White &amp; Creamy Dairy</cz>
+            <en>Zeke's White &amp; Creamy Dairy</en>
+            <de>Zeke's White &amp; Creamy Dairy</de>
+        </text>   
+    </l10n>  
+</mapconfig>

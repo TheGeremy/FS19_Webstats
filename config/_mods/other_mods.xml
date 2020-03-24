@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
 	<l10n>
+		<text name="zuidberg">
+			<sk>Zuidberg 1500Kg závažie</sk>
+			<cz>Zuidberg 1500Kg závaží</cz>
+			<en>Zuidberg 1500Kg Weight</en>
+			<de>Zuidberg 1500Kg Weight</de>
+		</text>		
+		<text name="hauerXB150">
+			<sk>Hauer XB150</sk>
+			<cz>Hauer XB150</cz>
+			<en>Hauer XB150</en>
+			<de>Hauer XB150</de>
+		</text>
+		<text name="hauerXB150">
+			<sk>HSRB 5390</sk>
+			<cz>HSRB 5390</cz>
+			<en>HSRB 5390</en>
+			<de>HSRB 5390</de>
+		</text>
+		<text name="EcoLiner">
+			<sk>Annaburger EcoLiner</sk>
+			<cz>Annaburger EcoLiner</cz>
+			<en>Annaburger EcoLiner</en>
+			<de>Annaburger EcoLiner</de>
+		</text>	
+		<text name="HTS_29_79">
+			<sk>Annaburger HTS 29.79</sk>
+			<cz>Annaburger HTS 29.79</cz>
+			<en>Annaburger HTS 29.79</en>
+			<de>Annaburger HTS 29.79</de>
+		</text>			
+		<text name="EB7">
+			<sk>Príves EB7/70</sk>
+			<cz>Přívěs EB7/70</cz>
+			<en>Trailer EB7/70</en>
+			<de>Trailer EB7/70</de>
+		</text>	
+		<text name="ChevyK30Dually">
+			<sk>Chevy K30 Dually</sk>
+			<cz>Chevy K30 Dually</cz>
+			<en>Chevy K30 Dually</en>
+			<de>Chevy K30 Dually</de>
+		</text>		
+		<text name="flieglShovel2800">
+			<sk>Fliegl naberačka 2.800L</sk>
+			<cz>Fliegl naběračka 2.800L</cz>
+			<en>Fliegl Shovel 2.800L</en>
+			<de>Fliegl Shovel 2.800L</de>
+		</text>
+		<text name="hsrb5390">
+			<sk>HSRB 5390</sk>
+			<cz>HSRB 5390</cz>
+			<en>HSRB 5390</en>
+			<de>HSRB 5390</de>
+		</text>
+		<text name="maxKehr30">
+			<sk>Max Kehr 30</sk>
+			<cz>Max Kehr 30</cz>
+			<en>Max Kehr 30</en>
+			<de>Max Kehr 30</de>
+		</text>
+		<text name="novacatA10CF">
+			<sk>Novacat A10CF</sk>
+			<cz>Novacat A10CF</cz>
+			<en>Novacat A10CF</en>
+			<de>Novacat A10CF</de>
+		</text>
+		<text name="Pickup1978">
+			<sk>Pickup 1978</sk>
+			<cz>Pickup 1978</cz>
+			<en>Pickup 1978</en>
+			<de>Pickup 1978</de>
+		</text>
+		<text name="Platak">
+			<sk>Platak</sk>
+			<cz>Platak</cz>
+			<en>Platak</en>
+			<de>Platak</de>
+		</text>
+		<text name="RBM2000">
+			<sk>RBM 2000</sk>
+			<cz>RBM 2000</cz>
+			<en>RBM 2000</en>
+			<de>RBM 2000</de>
+		</text>
 		<text name="360Tank">
 			<sk>360 nádrž</sk>
 			<cz>360 nádrž</cz>
@@ -13,6 +97,12 @@
 			<en>John Deere 7530</en>
 			<de>John Deere 7530</de>
 		</text>	
+		<text name="tajfunEGV80AHK">
+			<sk>Tajfun EGV80AHK</sk>
+			<cz>Tajfun EGV80AHK</cz>			
+			<en>Tajfun EGV80AHK</en>
+			<de>Tajfun EGV80AHK</de>
+		</text>
 		<text name="NHT">
 			<sk>NHT</sk>
 			<cz>NHT</cz>
