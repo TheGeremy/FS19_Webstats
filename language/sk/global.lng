@@ -23,6 +23,9 @@ MONEY=Financie
 //farms.tpl
 LEAVE_FARM=Opustiť farmu
 JOIN_FARM=Vstúpiť na farmu
+CONTRACTS=Zmluvy:
+HASWORKSFOR=Ma zmluvu s:
+WORKSFOR=Pracuje pre:
 
 //install.tpl
 CHANGE_BUTTON=Zmeniť
@@ -227,7 +230,7 @@ LOAN=Úver
 
 //prices.tpl
 //bestprices
-PRICES1000=Analýza trhových cien
+PRICES1000=Najlepšie trhové ceny
 MIN_PRICE=Cena (Min)
 MAX_PRICE=Cena (Max)
 BEST_PRICE=Aktuálna cena
@@ -358,7 +361,7 @@ DAY_RIDE=Povinná denná jazda
 FOOD=Strava
 STABLE_STATE=Ohrada
 STABLE_INFO=Prehľad potrieb
-NOSTABLES=farma nemá zvieratá
+NOSTABLES=táto mapa má riešené zvieratá inak
 
 //info.tpl
 //page=info

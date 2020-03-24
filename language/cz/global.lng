@@ -114,8 +114,8 @@ FACTORY=Továrny
 INFO=Info
 FARMS=Farma
 VEHICLES=Vozidla
-BESTPRICES=Nejlepší prodejní ceny
-ALLPRICES=Všechny prodejní ceny
+BESTPRICES=Nejlepší tržní ceny
+ALLPRICES=Přehled tržních cen
 BALANCESHEET=Účetnictví
 RATIOS=Koeficient
 BUILDINGS=Budovy
@@ -252,15 +252,18 @@ FOOD=Jídlo
 MANURE_HELP=Množství hnoje uloženého na stodole již není uloženo v paměti savegame od Farming Simulator 19. Namísto uloženého hnoje se zde zobrazuje hodnota "manureToDrop".
 DAY_RIDE=Denní jízdy
 HORSE=Kůň
-NOSTABLES=farma nemá zvířata
+NOSTABLES=tahle mapa má zvířata řešená jinak
 
 //prices.tpl
-PRICES1000=Ceny / 1000 L
+PRICES1000=Nejlepší tržní ceny
 MIN_PRICE=Nejnižší cena
 MAX_PRICE=Nejvyšší cena
 BEST_PRICE=Aktuální cena
 PROCEEDS=Možný výnos
 PERCENT=Výhodné
+ALLPRICES_LABEL=Přehled tržních cen
+SELLTRIGGER=Místo
+PRICE_INFO=POZOR: Tržní ceny nemusí být aktuální!
 
 //finances.tpl
 FINANCES=Finance
@@ -392,6 +395,9 @@ WORKSFOR=pracuje pro
 HASWORKSFOR=Pracuje pro
 JOIN_FARM=Připojte se k farmě
 LEAVE_FARM=Opustit farmu
+CONTRACTS=Smlouvy:
+HASWORKSFOR=Má smlouvu s:
+WORKSFOR=Pracuje pro:
 
 //vehicles.tpl
 VEH_VEHICLES=Přehled vozidel

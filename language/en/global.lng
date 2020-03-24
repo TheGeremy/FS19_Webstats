@@ -213,7 +213,7 @@ VERSION=Version
 COPYRIGHT=Copyrights
 3RDPARTY=3rd Party Applications:
 
-//overview.tpl
+//farm.tpl
 PLAYER=Player
 UPTIME=Uptime
 ISADMIN=Is admin
@@ -222,6 +222,11 @@ INVEHICLE=In Vehicle
 NOPLAYER=At the moment is no player online.
 FINANCES=Money
 FARMMANAGER=Farm Manager
+LEAVE_FARM=Leave farm
+JOIN_FARM=Join farm
+CONTRACTS=Contracts:
+HASWORKSFOR=Has contract with:
+WORKSFOR=Works for:
 
 //commodity.tpl
 DETAILVIEW=detailed view
