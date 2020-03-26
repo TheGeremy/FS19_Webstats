@@ -349,8 +349,19 @@ class Animals {
 						'trough1' => array (
 								'WHEAT',
 								'BARLEY',
-								'MAIZE'  
-						) 
+								'RYE',
+								'CLOVER'
+						),
+						'trough2' => array (
+								'SUNFLOWER',
+								'MAIZE',
+								'CANOLA'
+						),
+						'trough3' => array (
+								'POTATO',
+								'CARROT',
+								'SUGARBEET'
+						)  
 				),
 				'DUCK' => array (
 						'trough1' => array (
