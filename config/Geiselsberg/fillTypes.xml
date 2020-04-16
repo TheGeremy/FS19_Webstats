@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig> 
+    <l10n>       
+        <text name="RYE">
+            <sk>Raž</sk>
+            <cz>Žito</cz>
+            <en>Rye</en>
+            <de>Rye</de>
+        </text>
+    </l10n>  
+</mapconfig>

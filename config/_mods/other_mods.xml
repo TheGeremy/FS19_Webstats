@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
-	<l10n>		
+	<l10n>	
+		<text name="pioneerPallet">
+			<sk>Paleta</sk>
+			<cz>Paleta</cz>
+			<en>Pallet</en>
+			<de>Palette</de>
+		</text>
 		<text name="garantPT20000">
 			<sk>Garant PT 20.000L</sk>
 			<cz>Garant PT 20.000L</cz>

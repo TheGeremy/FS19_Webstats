@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationBales"        /> 
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWool"         />
+    <item isSellingPoint="true" locationType="TipTrigger" name="Landhandel"                 /> <!-- Landhandel -->
+    <item isSellingPoint="true" locationType="TipTrigger" name="Baywa"                      /> <!-- Baywa -->
+    <item isSellingPoint="true" locationType="TipTrigger" name="Baywa"                      /> <!-- MilkStation -->
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWood"         /> <!-- Saegewerk -->
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWoodChips"    />
+        
+
+    <l10n>        
+        <text name="Restaurant">
+            <sk>Briana's Beer and Burgers</sk>
+            <cz>Briana's Beer and Burgers</cz>
+            <en>Briana's Beer and Burgers</en>
+            <de>Briana's Beer and Burgers</de>
+        </text>   
+    </l10n>  
+</mapconfig>

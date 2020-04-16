@@ -30,6 +30,12 @@
             <cz>Mrkev</cz>
             <en>Carrot</en>
             <de>Karotte</de>
-        </text>                                                           
+        </text>    
+        <text name="TOBACCO">
+            <sk>Tabak</sk>
+            <cz>Tabák</cz>
+            <en>Tobacco</en>
+            <de>Tabak</de>
+        </text>
     </l10n>  
 </mapconfig>

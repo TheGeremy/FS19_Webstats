@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <Farmlands>
+        <Farmland price="169461" id="1"  priceScale="0.7"      npcName="NPC_DE_01" />
+        <Farmland price="76281"  id="2"  priceScale="0.8"      npcName="NPC_DE_02" /> 
+        <Farmland price="425887" id="3"  priceScale="0.9"      npcName="NPC_DE_03" /> 
+        <Farmland price="137959" id="4"  priceScale="0.9"      npcName="NPC_DE_04" />
+        <Farmland price="85142"  id="5"  priceScale="1.4"      npcName="NPC_DE_05" />
+        <Farmland price="75515"  id="6"  priceScale="0.7"      npcName="NPC_DE_06" />
+        <Farmland price="299023" id="7"  priceScale="0.7"      npcName="NPC_DE_07" /> 
+        <Farmland price="117240" id="8"  priceScale="1"        npcName="NPC_DE_08" /> 
+        <Farmland price="113880" id="9"  priceScale="1"        npcName="NPC_DE_09" /> 
+        <Farmland price="86880"  id="10" priceScale="1"        npcName="NPC_DE_10" /> 
+        <Farmland price="34406"  id="11" priceScale="0.8"      npcName="NPC_DE_11" /> 
+        <Farmland price="149976" id="12" priceScale="1"        npcName="NPC_DE_12" /> 
+        <Farmland price="67944"  id="13" priceScale="1"        npcName="NPC_DE_13" /> 
+        <Farmland price="90000"  id="14" priceScale="1"        npcName="NPC_DE_14" /> 
+        <Farmland price="134280" id="15" priceScale="1"        npcName="NPC_DE_15" /> <!-- Sheepfarm -->
+        <Farmland price="194520" id="16" priceScale="1"        npcName="NPC_DE_16" />
+        <Farmland price="196656" id="17" priceScale="1"        npcName="NPC_DE_17" /> 
+        <Farmland price="211123" id="18" priceScale="0.8"      npcName="NPC_DE_18" /> 
+        <Farmland price="592819" id="19" priceScale="0.8"      npcName="NPC_DE_19" /> 
+        <Farmland price="156710" id="20" priceScale="0.8"      npcName="NPC_DE_20" /> <!-- Village -->
+        <Farmland price="138508" id="21" priceScale="0.8"      npcName="NPC_DE_21" /> 
+        <Farmland price="183720" id="22" priceScale="1"        npcName="NPC_DE_22" /> 
+        <Farmland price="587030" id="23" priceScale="1.1"      npcName="NPC_DE_23" /> 
+        <Farmland price="157305" id="24" priceScale="0.8"      npcName="NPC_DE_01" /> <!-- Village -->
+        <Farmland price="198720" id="25" priceScale="1"        npcName="NPC_DE_02" /> 
+        <Farmland price="252360" id="26" priceScale="1"        npcName="NPC_DE_03" />
+        <Farmland price="132504" id="27" priceScale="1"        npcName="NPC_DE_04" /> 
+        <Farmland price="65856"  id="28" priceScale="1"        npcName="NPC_DE_05" />
+        <Farmland price="632889" id="29" priceScale="0.8"      npcName="NPC_DE_06" /> 
+        <Farmland price="98784"  id="30" priceScale="1"        npcName="NPC_DE_07" /> <!-- Baywa -->
+        <Farmland price="123263" id="31" priceScale="1"        npcName="NPC_DE_08" /> 
+        <Farmland price="448032" id="32" priceScale="1"        npcName="NPC_DE_09" />
+        <Farmland price="64915"  id="33" priceScale="0.7"      npcName="NPC_DE_10" /> <!-- BGA -->
+        <Farmland price="72491"  id="34" priceScale="0.7"      npcName="NPC_DE_11" /> 
+        <Farmland price="57019"  id="35" priceScale="0.7"      npcName="NPC_DE_12" /> 
+        <Farmland price="61739"  id="36" priceScale="0.7"      npcName="NPC_DE_13" />
+        <Farmland price="152733" id="37" priceScale="0.9"      npcName="NPC_DE_14" /> 
+        <Farmland price="69897"  id="38" priceScale="0.9"      npcName="NPC_DE_15" />
+        <Farmland price="63070"  id="39" priceScale="0.65"     npcName="NPC_DE_16" /> 
+        <Farmland price="46784"  id="40" priceScale="0.65"     npcName="NPC_DE_17" /> <!-- Village -->
+        <Farmland price="118013" id="41" priceScale="0.65"     npcName="NPC_DE_18" /> 
+        <Farmland price="150432" id="42" priceScale="1"        npcName="NPC_DE_19" /> 
+        <Farmland price="404496" id="43" priceScale="1"        npcName="NPC_DE_20" /> 
+        <Farmland price="249480" id="44" priceScale="1"        npcName="NPC_DE_21" /> 
+        <Farmland price="225696" id="45" priceScale="1"        npcName="NPC_DE_22" /> <!-- Village -->
+        <Farmland price="152736" id="46" priceScale="1"        npcName="NPC_DE_23" /> 
+        <Farmland price="297360" id="47" priceScale="1"        npcName="NPC_DE_01" /> 
+        <Farmland price="98256"  id="48" priceScale="1"        npcName="NPC_DE_02" /> 
+        <Farmland price="63936"  id="49" priceScale="0.6"      npcName="NPC_DE_03" /> 
+        <Farmland price="577151" id="50" priceScale="0.45"     npcName="NPC_DE_04" />
+        <Farmland price="51883"  id="51" priceScale="0.6"      npcName="NPC_DE_05" /> 
+        <Farmland price="224688" id="52" priceScale="1"        npcName="NPC_DE_06" /> 
+        <Farmland price="56380"  id="53" priceScale="0.7"      npcName="NPC_DE_07" /> 
+        <Farmland price="32457"  id="54" priceScale="0.6"      npcName="NPC_DE_08" /> <!-- Cowfarm new -->
+        <Farmland price="57499"  id="55" priceScale="0.6"      npcName="NPC_DE_09" /> <!-- Cowfarm old -->
+        <Farmland price="33206"  id="56" priceScale="0.6"      npcName="NPC_DE_10" /> <!-- Stream west -->
+        <Farmland price="140184" id="57" priceScale="1"        npcName="NPC_DE_11" />
+        <Farmland price="192527" id="58" priceScale="2.1"      npcName="NPC_DE_12" />
+        <Farmland price="127896" id="59" priceScale="1"        npcName="NPC_DE_13" /> 
+        <Farmland price="41395"  id="60" priceScale="0.8"      npcName="NPC_DE_14" /> 
+        <Farmland price="66739"  id="61" priceScale="0.8"      npcName="NPC_DE_15" />
+        <Farmland price="81523"  id="62" priceScale="0.8"      npcName="NPC_DE_16" />
+        <Farmland price="218613" id="63" priceScale="0.9"      npcName="NPC_DE_18" /> 
+        <Farmland price="23664"  id="64" priceScale="0.5"      npcName="NPC_DE_19" /> 
+        <Farmland price="673152" id="65" priceScale="0.8"      npcName="NPC_DE_20" /> 
+        <Farmland price="110280" id="66" priceScale="1"        npcName="NPC_DE_21" /> 
+        <Farmland price="289984" id="67" priceScale="0.7"      npcName="NPC_DE_22" /> 
+        <Farmland price="170361" id="68" priceScale="0.8"      npcName="NPC_DE_23" /> 
+        <Farmland price="123672" id="69" priceScale="1"        npcName="NPC_DE_01" /> 
+        <Farmland price="87062"  id="70" priceScale="1.2"      npcName="NPC_DE_02" /> 
+        <Farmland price="20304"  id="71" priceScale="0.5"      npcName="NPC_DE_03" /> 
+        <Farmland price="17880"  id="72" priceScale="0.5"      npcName="NPC_DE_04" /> 
+        <Farmland price="311051" id="73" priceScale="2.3"      npcName="NPC_DE_05" /> 
+        <Farmland price="562776" id="74" priceScale="1"        npcName="NPC_DE_06" /> 
+        <Farmland price="111347" id="75" priceScale="0.9"      npcName="NPC_DE_07" /> 
+        <Farmland price="73680"  id="76" priceScale="1"        npcName="NPC_DE_08" /> 
+        <Farmland price="51084"  id="77" priceScale="1.1"      npcName="NPC_DE_09" /> 
+        <Farmland price="156600" id="78" priceScale="1"        npcName="NPC_DE_10" /> 
+        <Farmland price="96216"  id="79" priceScale="1"        npcName="NPC_DE_11" /> 
+        <Farmland price="113517" id="80" priceScale="0.7"      npcName="NPC_DE_12" /> 
+        <Farmland price="339208" id="81" priceScale="0.7"      npcName="NPC_DE_13" /> 
+        <Farmland price="265775" id="82" priceScale="0.7"      npcName="NPC_DE_14" /> 
+        <Farmland price="324624" id="83" priceScale="1"        npcName="NPC_DE_15" defaultFarmProperty="true" /> 
+        <Farmland price="83016"  id="84" priceScale="1"        npcName="NPC_DE_16" defaultFarmProperty="true" /> 
+        <Farmland price="215808" id="85" priceScale="1.6"      npcName="NPC_DE_17" defaultFarmProperty="true" /> 
+        <Farmland price="156297" id="86" priceScale="1.8"      npcName="NPC_DE_18" /> 
+        <Farmland price="193416" id="87" priceScale="1"        npcName="NPC_DE_19" /> 
+        <Farmland price="557136" id="88" priceScale="1.2"      npcName="NPC_DE_20" /> 
+        <Farmland price="380671" id="89" priceScale="0.7"      npcName="NPC_DE_21" /> 
+        <Farmland price="389877" id="90" priceScale="0.7"      npcName="NPC_DE_22" /> 
+        <Farmland price="59088"  id="91" priceScale="1"        npcName="NPC_DE_23" /> 
+        <Farmland price="223896" id="92" priceScale="1"        npcName="NPC_DE_01" /> 
+        <Farmland price="389664" id="93" priceScale="1"        npcName="NPC_DE_02" /> 
+        <Farmland price="127238" id="94" priceScale="1.2"      npcName="NPC_DE_03" /> 
+        <Farmland price="289032" id="95" priceScale="1"        npcName="NPC_DE_04" /> 
+        <Farmland price="146184" id="96" priceScale="1"        npcName="NPC_DE_05" /> 
+        <Farmland price="123600" id="97" priceScale="1"        npcName="NPC_DE_06" /> 
+        <Farmland price="261696" id="98" priceScale="1"        npcName="NPC_DE_08" /> 
+        <Farmland price="152208" id="99" priceScale="1"        npcName="NPC_DE_09" /> 
+        <Farmland price="82632"  id="100" priceScale="1"       npcName="NPC_DE_10" /> 
+        <Farmland price="50764"  id="101" priceScale="0.8"     npcName="NPC_DE_11" /> 
+        <Farmland price="290424" id="102" priceScale="1"       npcName="NPC_DE_12" /> 
+        <Farmland price="347592" id="103" priceScale="1"       npcName="NPC_DE_13" /> 
+        <Farmland price="280296" id="104" priceScale="1"       npcName="NPC_DE_14" /> 
+        <Farmland price="16176"  id="105" priceScale="0.5"     npcName="NPC_DE_15" /> 
+        <Farmland price="959229" id="106" priceScale="0.7"     npcName="NPC_DE_16" /> 
+        <Farmland price="302889" id="107" priceScale="1.3"     npcName="NPC_DE_17" /> 
+        <Farmland price="241718" id="108" priceScale="1.2"     npcName="NPC_DE_18" /> 
+        <Farmland price="84816"  id="109" priceScale="1.2"     npcName="NPC_DE_19" /> 
+        <Farmland price="373161" id="110" priceScale="1.4"     npcName="NPC_DE_20" /> 
+        <Farmland price="58377"  id="111" priceScale="0.6"     npcName="NPC_DE_21" /> 
+        <Farmland price="193821" id="112" priceScale="0.7"     npcName="NPC_DE_22" /> 
+        <Farmland price="141724" id="113" priceScale="0.7"     npcName="NPC_DE_23" /> 
+        <Farmland price="399201" id="114" priceScale="0.7"     npcName="NPC_DE_01" /> 
+    </Farmlands>
+</mapconfig>
