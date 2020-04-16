@@ -348,8 +348,8 @@ ABGESCHLOSSEN=Done
 //prices.tpl
 //bestprices
 PRICES1000=Market prices analisys
-MIN_PRICE=Price (Max)
-MAX_PRICE=Price (Min)
+MIN_PRICE=Price (Min)
+MAX_PRICE=Price (Max)
 BEST_PRICE=Actual price
 PERCENT=Percentage
 PROCEEDS=Proceeds
