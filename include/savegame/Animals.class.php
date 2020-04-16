@@ -54,7 +54,8 @@ class Animals {
 								// var_dump($animalType);
 								if (stristr ( $animalType, 'HORSE' ) !== false) {
 									// Animal is a horse
-									$horseName = strval ( $animal ['name'] );
+									$horseName = preg_replace("/[^a-zA-Z0-9]/", "", strval ( $animal ['name'] ));
+									//var_dump($horseName);
 									$horseNameURL = urlencode ( $horseName );
 									$fitnessScale = floatval ( $animal ['fitnessScale'] );
 									$healthScale = floatval ( $animal ['healthScale'] );
@@ -210,11 +211,13 @@ class Animals {
 					}
 				}
 				$food = array_keys ( self::$stables [$stable] ['food'] ); // troughs
-				//var_dump($stable);
+				//var_dump(self::$stables [$stable]);
 				//var_dump($animal);
 				//var_dump($food);
 				unset($animalTypeShort);
-				$animalTypeShort = substr($animalType, 0, strpos($animalType, "_"));
+				if (isset($animalType)) {
+					$animalTypeShort = substr($animalType, 0, strpos($animalType, "_"));
+				}				
 				//var_dump($animalTypeShort);
 				/*if (in_array ( 'MAIZE', $food )) {
 					self::calculateTrougs ( $stable, 'pig' );
@@ -235,9 +238,11 @@ class Animals {
 					// var_dump($animalTypeShort);					
 					self::calculateTrougs ( $stable, $animalTypeShort );					
 				} else {
-					self::$stables [$stable] ['product'] ['egg'] = self::$stables [$stable] ['product'] ['wool'];
+					if (isset(self::$stables [$stable] ['product'] ['wool'])) {
+						self::$stables [$stable] ['product'] ['egg'] = self::$stables [$stable] ['product'] ['wool'];
+						unset ( self::$stables [$stable] ['product'] ['wool'] );
+					}					
 					self::$stables [$stable] ['product'] ['egg'] ['name'] = translate ( 'EGG' );
-					unset ( self::$stables [$stable] ['product'] ['wool'] );
 					self::calculateTrougs ( $stable, 'chicken' );
 				}
 			}
@@ -252,7 +257,7 @@ class Animals {
 	   	"RAM" => 500,
 	   	"CHICKEN" => 50,
 	   	"DUCK" => 50,
-	   	"PIG" => 900,
+	   	"PIG" => 100,   // oziginal 900
 	   	"HORSE" => 4000
 		);
 	}	
@@ -291,8 +296,8 @@ class Animals {
 						'trough2' => array (
 								'WHEAT',
 								'BARLEY',
-								'RYE',
-								'CLOVER'
+								'RYE'//,
+								//'CLOVER'
 						),
 						'trough3' => array (
 								'SOYBEAN',
@@ -301,8 +306,8 @@ class Animals {
 						),
 						'trough4' => array (
 								'POTATO',
-								'SUGARBEET',
-								'CARROT'
+								'SUGARBEET'//,
+								//'CARROT'
 						), 
 				),
 				'COW' => array (
@@ -311,8 +316,8 @@ class Animals {
 						),
 						'trough2' => array (
 								'SILAGE',
-								'DRYGRASS_WINDROW',
-								'CLOVER'
+								'DRYGRASS_WINDROW'//,
+								//'CLOVER'
 						),
 						'trough3' => array (
 								'SOYBEAN',
@@ -326,10 +331,10 @@ class Animals {
 						'trough1' => array (
 								'GRASS_WINDROW',
 								'DRYGRASS_WINDROW',
-						), 
-						'trough2' => array (
-								'CLOVER' 
-						) 						
+						)//, 
+						//'trough2' => array (
+						//		'CLOVER' 
+						//) 						
 				),
 				'GOAT' => array (
 						'trough1' => array (
@@ -349,19 +354,19 @@ class Animals {
 						'trough1' => array (
 								'WHEAT',
 								'BARLEY',
-								'RYE',
-								'CLOVER'
-						),
-						'trough2' => array (
-								'SUNFLOWER',
-								'MAIZE',
-								'CANOLA'
-						),
-						'trough3' => array (
-								'POTATO',
-								'CARROT',
-								'SUGARBEET'
-						)  
+								'RYE'//,
+								//'CLOVER'
+						)//,
+						//'trough2' => array (
+						//		'SUNFLOWER',
+						//		'MAIZE',
+						//		'CANOLA'
+						//),
+						//'trough3' => array (
+						//		'POTATO',
+						//		'CARROT',
+						//		'SUGARBEET'
+						//)  
 				),
 				'DUCK' => array (
 						'trough1' => array (
@@ -375,8 +380,8 @@ class Animals {
 								'OAT' 
 						),
 						'trough2' => array (
-								'DRYGRASS_WINDROW',
-								'CLOVER' 
+								'DRYGRASS_WINDROW'//,
+								//'CLOVER' 
 						) 
 				) 
 		);
@@ -403,7 +408,9 @@ class Animals {
 						);
 					} else {
 						self::$stables [$stable] ['trough'] [$trough] ['name'] .= ' / ' . translate ( $food );
-						self::$stables [$stable] ['trough'] [$trough] ['value'] += self::$stables [$stable] ['food'] [$food] ['value'];
+						if (isset(self::$stables [$stable] ['food'] [$food] ['value'])) {
+							self::$stables [$stable] ['trough'] [$trough] ['value'] += self::$stables [$stable] ['food'] [$food] ['value'];
+						}
 					}
 				}
 			}
