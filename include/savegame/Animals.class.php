@@ -121,7 +121,7 @@ class Animals {
 							};
 							
 							self::$stables [$stable] ['state'] [strval ( $module ['name'] )] = array (
-									'name' => translate ( 'STRAW' ),
+									'name' => translate ( 'STRAW' ) . ' / ' . translate ( 'STRAWPELLETS' ),
 									'value' => floor ( $fillLevel ),
 									'unit' => 'l',
 									'factor' => $factor 
@@ -257,7 +257,7 @@ class Animals {
 	   	"RAM" => 500,
 	   	"CHICKEN" => 50,
 	   	"DUCK" => 50,
-	   	"PIG" => 100,   // oziginal 900
+	   	"PIG" => 900,
 	   	"HORSE" => 4000
 		);
 	}	
@@ -316,14 +316,10 @@ class Animals {
 						),
 						'trough2' => array (
 								'SILAGE',
-								'DRYGRASS_WINDROW'//,
-								//'CLOVER'
+								'DRYGRASS_WINDROW',
+								'HAYPELLETS'
 						),
 						'trough3' => array (
-								'SOYBEAN',
-								'MAIZE' 
-						),
-						'trough4' => array (
 								'GRASS_WINDROW' 
 						)  
 				),
@@ -331,6 +327,7 @@ class Animals {
 						'trough1' => array (
 								'GRASS_WINDROW',
 								'DRYGRASS_WINDROW',
+								'HAYPELLETS'
 						)//, 
 						//'trough2' => array (
 						//		'CLOVER' 
@@ -353,9 +350,7 @@ class Animals {
 				'CHICKEN' => array (
 						'trough1' => array (
 								'WHEAT',
-								'BARLEY',
-								'RYE'//,
-								//'CLOVER'
+								'BARLEY'
 						)//,
 						//'trough2' => array (
 						//		'SUNFLOWER',
@@ -380,8 +375,8 @@ class Animals {
 								'OAT' 
 						),
 						'trough2' => array (
-								'DRYGRASS_WINDROW'//,
-								//'CLOVER' 
+								'DRYGRASS_WINDROW',
+								'HAYPELLETS' 
 						) 
 				) 
 		);
@@ -400,9 +395,15 @@ class Animals {
 					if (! isset ( self::$stables [$stable] ['trough'] [$trough] )) {
 						//var_dump(self::$stables);
 						//var_dump($food);	
+						if (isset(self::$stables [$stable] ['food'] [$food] ['value'])) {
+							$food_value = self::$stables [$stable] ['food'] [$food] ['value'];
+						} else {
+							$food_value = 0;
+						}
+
 						self::$stables [$stable] ['trough'] [$trough] = array (
 								'name' => translate ( $food ),
-								'value' => self::$stables [$stable] ['food'] [$food] ['value'],
+								'value' => $food_value, //self::$stables [$stable] ['food'] [$food] ['value'],
 								'unit' => 'l',
 								'factor' => 100 
 						);

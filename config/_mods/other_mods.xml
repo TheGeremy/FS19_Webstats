@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
-	<l10n>	
+	<l10n>			
+		<text name="HAYPELLETS">
+			<sk>Senné pelety</sk>
+			<cz>Senné pelety</cz>
+			<en>Hay pellets</en>
+			<de>Hay pellets</de>
+		</text>	
+		<text name="STRAWPELLETS">
+			<sk>Slamené pelety</sk>
+			<cz>Slaměné pelety</cz>
+			<en>Hay pellets</en>
+			<de>Hay pellets</de>
+		</text>					
 		<text name="pioneerPallet">
 			<sk>Paleta</sk>
 			<cz>Paleta</cz>
