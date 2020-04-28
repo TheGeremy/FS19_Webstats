@@ -272,15 +272,25 @@
 			<tbody>
 				{foreach $financeElements as $element => $category}
 				<tr>
-					<td>##{$element|strtoupper}##</td> {for $day = $days to 0 step -1}
-					<td class="text-right w-13">{$financeHistory.$day.$element|number_format:2:",":"."}</td> {/for}
+					<td>##{$element|strtoupper}##</td>
+					{for $day = 1 to $days step 1}
+						<td class="text-right w-13">{$financeHistory.$day.$element|number_format:2:",":"."}</td> 
+					{/for}
+					<!-- current day must be last in the table -->
+					{$day = 0}
+					<td class="text-right w-13">{$financeHistory.$day.$element|number_format:2:",":"."}</td> 
 				</tr>
 				{/foreach}
 			</tbody>
 			<tfoot>
 				<tr>
-					<th>##TOTAL## </th> {for $day = $days to 0 step -1}
-					<th class="text-right w-13">{$financeHistory.$day.total|number_format:0:",":"."} €</th> {/for}
+					<th>##TOTAL## </th>
+					{for $day = 1 to $days step 1}
+						<th class="text-right w-13">{$financeHistory.$day.total|number_format:0:",":"."} €</th> 
+					{/for}
+					<!-- current day must be last in the table -->
+					{$day = 0}
+					<th class="text-right w-13">{$financeHistory.$day.total|number_format:0:",":"."} €</th> 
 				</tr>		
 			</tfoot>
 		</table>
