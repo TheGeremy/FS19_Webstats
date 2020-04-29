@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig> 
+    <l10n>       
+        <text name="RYE">
+            <sk>Raž</sk>
+            <cz>Žito</cz>
+            <en>Rye</en>
+            <de>Rye</de>
+        </text>
+        <text name="MISCANTHUS">
+            <sk>Miscanthus</sk>
+            <cz>Miscanthus</cz>
+            <en>Miscanthus</en>
+            <de>Miscanthus</de>
+        </text>     
+    </l10n>  
+</mapconfig>

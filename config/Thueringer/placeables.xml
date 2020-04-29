@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig> 
+    <l10n>     
+        <text name="AlmostaFarmSilo">
+            <sk>Silo</sk>
+            <cz>Silo</cz>
+            <en>Silo</en>
+            <de>Silo</de>
+        </text>
+    </l10n>  
+</mapconfig>

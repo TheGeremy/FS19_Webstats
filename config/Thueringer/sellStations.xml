@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <item isSellingPoint="true" locationType="TipTrigger" name="Nordzucker" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="Haendler" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="Woodchips" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="Baywa" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="Dorfladen" /> 
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWoodChips" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="Raiffeisen" />
+    <l10n>          
+        <text name="Haendler">
+            <sk>Vieh Händler</sk>
+            <cz>Vieh Händler</cz>
+            <en>Vieh Händler</en>
+            <de>Vieh Händler</de>
+        </text>   
+        <text name="Dorfladen">
+            <sk>Dorfladen</sk>
+            <cz>Dorfladen</cz>
+            <en>Dorfladen</en>
+            <de>Dorfladen</de>
+        </text>      
+        <text name="Baywa">
+            <sk>Baywa</sk>
+            <cz>Baywa</cz>
+            <en>Baywa</en>
+            <de>Baywa</de>
+        </text>  
+        <text name="Nordzucker">
+            <sk>Nordzucker</sk>
+            <cz>Nordzucker</cz>
+            <en>Nordzucker</en>
+            <de>Nordzucker</de>
+        </text>  
+        <text name="Raiffeisen">
+            <sk>Raiffeisen</sk>
+            <cz>Raiffeisen</cz>
+            <en>Raiffeisen</en>
+            <de>Raiffeisen</de>
+        </text>  
+        <text name="sellingStationWoodChips">
+            <sk>HKW</sk>
+            <cz>HKW</cz>
+            <en>HKW</en>
+            <de>HKW</de>
+        </text>         
+        <text name="Woodchips">
+            <sk>Volta Hackschnitzel</sk>
+            <cz>Volta Hackschnitzel</cz>
+            <en>Volta Hackschnitzel</en>
+            <de>Volta Hackschnitzel</de>
+        </text>                                      
+    </l10n>  
+</mapconfig>
