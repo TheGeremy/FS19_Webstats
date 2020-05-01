@@ -32,8 +32,10 @@ class Animals {
 	}
 	private static function analyzeItems() {
 		foreach ( self::$xml ['items'] as $item ) {
-			$stable = cleanFileName ( $item ['filename'] );
-			$l_stable = translate ( $stable );
+			$stableName = cleanFileName ( $item ['filename'] );
+			$stable = intval($item ['id']);
+			//var_dump($stable);
+			$l_stable = translate ( $stableName );
 			if ($item ['className'] == 'AnimalHusbandry' && $item ['farmId'] == self::$farmId) {
 				$productivity = floatval ( $item ['globalProductionFactor'] ) * 100;
 				self::$stables [$stable] = array (
@@ -41,9 +43,14 @@ class Animals {
 						'name' => $l_stable,
 						'productivity' => floor ( $productivity ),
 						'animals' => array (),
-						'state' => array () 
+						'state' => array ()
 				
 				);
+				// if ($item ['farmId'] == 5) {
+				// 	var_dump(self::$stables [$stable]);
+				// 	var_dump("<br>");
+				// 	//var_dump($item ['id']);
+				// }
 				foreach ( $item->module as $module ) {
 					switch ($module ['name']) {
 						case 'animals' :
@@ -73,7 +80,11 @@ class Animals {
 								} else {
 									// Animal is not a Horse
 									$l_animal = translate ( $animalType );
+									// if the animal type is alrady set
 									if (isset ( self::$stables [$stable] ['animals'] [$animalType] )) {
+										// if ($item ['farmId'] == 5) {
+										// 	var_dump("stable and animal type already set for stable id " . strval(self::$stables [$stable] ['id']) . "<br>");
+										// }
 										self::$stables [$stable] ['animals'] [$animalType] ['count'] ++;
 									} else {
 										self::$stables [$stable] ['animals'] [$animalType] = array (
@@ -85,6 +96,9 @@ class Animals {
 												'isHorse' => false,
 												'image' => $animalType 
 										);
+										// if ($item ['farmId'] == 5) {
+										// 	var_dump("stable and animal type are new for stable id " . strval(self::$stables [$stable] ['id']) . "<br>");
+										// }
 									}
 								}
 							}

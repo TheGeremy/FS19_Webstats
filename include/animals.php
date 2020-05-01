@@ -65,14 +65,14 @@ if ($no_animals) {
 if (!$no_animals) {
 	// if any animal, then count by types COW,SHEEP,CHICKEN,PIG,HORSE
 	$animals_count = array(
-		"COW" => 0,
-	   "SHEEP" => 0,
-	   "CHICKEN" => 0,
-	   "PIG" => 0,
-	   "HORSE" => 0,
-	   "RAM" => 0,
-	   "GOAT" => 0,
-	   "DUCK" => 0
+		"COW" => array(),
+	   "SHEEP" => array(),
+	   "CHICKEN" => array(),
+	   "PIG" => array(),
+	   "HORSE" => array(),
+	   "RAM" => array(),
+	   "GOAT" => array(),
+	   "DUCK" => array()
 	);
 
 	$animalList = array_keys($animals_count); // troughs
@@ -87,28 +87,60 @@ if (!$no_animals) {
 				if (array_key_exists('count', $stables [$stable] ['animals'] [$animal]) ) {
 					$animalType = substr($animal, 0, strpos($animal, "_"));
 					if ($animalType == "COW") {
-						$animals_count['COW'] += $stables [$stable] ['animals'] [$animal] ['count'];
+						if(array_key_exists($stable, $animals_count['COW'])) {
+							$animals_count['COW'] [$stable] += $stables [$stable] ['animals'] [$animal] ['count'];;
+						} else {
+							$animals_count['COW'] [$stable] = $stables [$stable] ['animals'] [$animal] ['count'];;
+						}
 					}
 					if ($animalType == "SHEEP") {
-						$animals_count['SHEEP'] += $stables [$stable] ['animals'] [$animal] ['count'];
+						if(array_key_exists($stable, $animals_count['SHEEP'])) {
+							$animals_count['SHEEP'] [$stable] += $stables [$stable] ['animals'] [$animal] ['count'];;
+						} else {
+							$animals_count['SHEEP'] [$stable] = $stables [$stable] ['animals'] [$animal] ['count'];;
+						}
 					}
 					if ($animalType == "CHICKEN") {
-						$animals_count['CHICKEN'] += $stables [$stable] ['animals'] [$animal] ['count'];
+						if(array_key_exists($stable, $animals_count['CHICKEN'])) {
+							$animals_count['CHICKEN'] [$stable] += $stables [$stable] ['animals'] [$animal] ['count'];;
+						} else {
+							$animals_count['CHICKEN'] [$stable] = $stables [$stable] ['animals'] [$animal] ['count'];;
+						}
 					}						
 					if ($animalType == "PIG") {
-						$animals_count['PIG'] += $stables [$stable] ['animals'] [$animal] ['count'];
+						if(array_key_exists($stable, $animals_count['PIG'])) {
+							$animals_count['PIG'] [$stable] += $stables [$stable] ['animals'] [$animal] ['count'];;
+						} else {
+							$animals_count['PIG'] [$stable] = $stables [$stable] ['animals'] [$animal] ['count'];;
+						}
 					}	
 					if ($animalType == "RAM") {
-						$animals_count['RAM'] += $stables [$stable] ['animals'] [$animal] ['count'];
+						if(array_key_exists($stable, $animals_count['RAM'])) {
+							$animals_count['RAM'] [$stable] += $stables [$stable] ['animals'] [$animal] ['count'];;
+						} else {
+							$animals_count['RAM'] [$stable] = $stables [$stable] ['animals'] [$animal] ['count'];;
+						}
 					}									
 					if ($animalType == "GOAT") {
-						$animals_count['GOAT'] += $stables [$stable] ['animals'] [$animal] ['count'];
+						if(array_key_exists($stable, $animals_count['GOAT'])) {
+							$animals_count['GOAT'] [$stable] += $stables [$stable] ['animals'] [$animal] ['count'];;
+						} else {
+							$animals_count['GOAT'] [$stable] = $stables [$stable] ['animals'] [$animal] ['count'];;
+						}
 					}	
 					if ($animalType == "DUCK") {
-						$animals_count['DUCK'] += $stables [$stable] ['animals'] [$animal] ['count'];
+						if(array_key_exists($stable, $animals_count['DUCK'])) {
+							$animals_count['DUCK'] [$stable] += $stables [$stable] ['animals'] [$animal] ['count'];;
+						} else {
+							$animals_count['DUCK'] [$stable] = $stables [$stable] ['animals'] [$animal] ['count'];;
+						}
 					}											
 				} elseif ($stables [$stable] ['animals'] [$animal] ["isHorse"]) {
-					$animals_count['HORSE'] += 1;
+					if(array_key_exists($stable, $animals_count['HORSE'])) {
+						$animals_count['HORSE'] [$stable] += 1;
+					} else {
+						$animals_count['HORSE'] [$stable] = 1;
+					}
 				}
 			}
 		}
@@ -127,31 +159,32 @@ if (!$no_animals) {
 				if (array_key_exists('count', $stables [$stable] ['animals'] [$animal]) ) {
 					$animalType = substr($animal, 0, strpos($animal, "_"));
 					$i = 0;
-/*					var_dump("<br>");
-					var_dump($stable);
-					var_dump($animalType);*/
+					//var_dump("<br>");
+					//var_dump($stable);
+					//var_dump($animalType);
 					if (in_array($animalType,$animalList)) {
 						foreach ($stables [$stable] ['trough'] as $food) {
 														    // actual food value in liters divided by animal count multiplied by animal rates per animal
 							// var_dump("<br>");
 							// var_dump($animalType);
 							// var_dump($animals_count[$animalType]);
-							$valuePercent = floor(   ($food ['value']/($animals_count[$animalType]*$food_rates[$animalType])                )*100);
+							$valuePercent = floor(   ($food ['value']/($animals_count[$animalType][$stable] * $food_rates[$animalType])                )*100);
 							$i++;
 							// insert value in $stable array under trough trough#, 
 							// later accessible in template like $food.valuePercent
+							//var_dump($animals_count[$animalType] [$stable]);
 							$stables [$stable] ['trough'] ['trough'.$i] ['valuePercent'] = $valuePercent;	
-							$stables [$stable] ['animals_count'] = $animals_count[$animalType];
+							$stables [$stable] ['animals_count'] = $animals_count[$animalType][$stable];
 						}
 					}
 				} elseif ($stables [$stable] ['animals'] [$animal] ["isHorse"]) {
 					// horse has no standart code like HORSE_ and color, but name you give him in game...
 					$i = 0;
 					foreach ($stables [$stable] ['trough'] as $food) {
-						$valuePercent = floor(($food ['value']/($animals_count['HORSE']*$food_rates['HORSE']))*100);
+						$valuePercent = floor(($food ['value']/($animals_count['HORSE'][$stable] * $food_rates['HORSE']))*100);
 						$i++;
 						$stables [$stable] ['trough'] ['trough'.$i] ['valuePercent'] = $valuePercent;
-						$stables [$stable] ['animals_count'] = $animals_count['HORSE'];
+						$stables [$stable] ['animals_count'] = $animals_count['HORSE'][$stable];
 					}
 				}
 			}
