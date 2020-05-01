@@ -17,8 +17,7 @@
 				</button>
 				{foreach $stable.animals as $animalI3dName => $animal}
 					<a href="index.php?page={$page}&stable={$stableI3dName}&animal={$animalI3dName}" class="list-group-item list-group-item-action">
-						{if $animal.isHorse}##HORSE##{/if} 
-							{$animal.name} 
+						{$animal.name} 
 							{if $animal.isHorse}
 								<small>
 									&nbsp;(€ {$animal.value|number_format:0:",":"."})
