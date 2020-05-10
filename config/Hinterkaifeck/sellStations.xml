@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig>
+    <item isSellingPoint="true" locationType="TipTrigger" name="VERKAUF_HK_WIRTSCHAFT"  mapBoundId="WIRTSCHAFT" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="VERKAUF_HK_AGRARHANDEL_FRUITS"   mapBoundId="AGRARHANDEL FRUCHT VERKAUF" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="VERKAUF_HK_VIEHAENDLER_GRAS"  mapBoundId="VIEHAENDLER FRUCHT VERKAUF" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="VERKAUF_HK_VIEHAENDLER" pBoundId="VIEHAENDLER FUTTER VERKAUF" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="VERKAUF_HK_AGRARHANDEL_LIQUIDMANURE"          mapBoundId="AGRARHANDEL GÜLLE VERKAUF" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="VERKAUF_HK_AGRARHANDEL_MANURE"       mapBoundId="AGRARHANDEL MANURE" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="MilkStation"  mapBoundId="Milchverkauf" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="sellingStationWool"  mapBoundId="sellingStationWool" />
+    <item isSellingPoint="true" locationType="TipTrigger" name="VERKAUF_HK_BAECKEREI" mapBoundId="Bäckerei" />    
+    <l10n>          
+        <text name="VERKAUF_HK_WIRTSCHAFT">
+            <sk>WIRTSCHAFT</sk>
+            <cz>WIRTSCHAFT</cz>
+            <en>WIRTSCHAFT</en>
+            <de>WIRTSCHAFT</de>
+        </text>   
+        <text name="VERKAUF_HK_AGRARHANDEL_FRUITS">
+            <sk>AGRARHANDEL FRUCHTVERKAUF</sk>
+            <cz>AGRARHANDEL FRUCHTVERKAUF</cz>
+            <en>AGRARHANDEL FRUCHTVERKAUF</en>
+            <de>AGRARHANDEL FRUCHTVERKAUF</de>
+        </text>      
+        <text name="VERKAUF_HK_VIEHAENDLER_GRAS">
+            <sk>VIEHAENDLER FRUCHTVERKAUF</sk>
+            <cz>VIEHAENDLER FRUCHTVERKAUF</cz>
+            <en>VIEHAENDLER FRUCHTVERKAUF</en>
+            <de>VIEHAENDLER FRUCHTVERKAUF</de>
+        </text>  
+        <text name="VERKAUF_HK_VIEHAENDLER">
+            <sk>FUTTERVERKAUF</sk>
+            <cz>FUTTERVERKAUF</cz>
+            <en>FUTTERVERKAUF</en>
+            <de>FUTTERVERKAUF</de>
+        </text>    
+        <text name="VERKAUF_HK_AGRARHANDEL_LIQUIDMANURE">
+            <sk>GULLEVERKAUF</sk>
+            <cz>GULLEVERKAUF</cz>
+            <en>GULLEVERKAUF</en>
+            <de>GULLEVERKAUF</de>
+        </text>         
+        <text name="VERKAUF_HK_AGRARHANDEL_MANURE">
+            <sk>MISTVERKAUF</sk>
+            <cz>MISTVERKAUF</cz>
+            <en>MISTVERKAUF</en>
+            <de>MISTVERKAUF</de>
+        </text>  
+        <text name="MilkStation">
+            <sk>MILCHVERKAUF</sk>
+            <cz>MILCHVERKAUF</cz>
+            <en>MILCHVERKAUF</en>
+            <de>MILCHVERKAUF</de>
+        </text> 
+        <text name="sellingStationWool">
+            <sk>PRÁDELNA</sk>
+            <cz>PŘÁDELNA</cz>
+            <en>LAUNDRY</en>
+            <de>LAUNDRY</de>
+        </text> 
+        <text name="VERKAUF_HK_BAECKEREI">
+            <sk>BÄCKEREI</sk>
+            <cz>BÄCKEREI</cz>
+            <en>BÄCKEREI</en>
+            <de>BÄCKEREI</de>
+        </text>                                                             
+    </l10n>  
+</mapconfig>

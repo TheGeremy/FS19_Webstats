@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapconfig> 
+    <l10n>
+        <text name="HK_OGF_BUNKERSILO">
+   			<sk>Malá silážna jama</sk>
+   			<cz>Silážní jáma na farmě</cz>		
+   			<en>Bunker Silo - Small</en>
+   			<de>Bunker-Silo klein</de>
+   		</text>	
+        <text name="HK_OGF_CHICKENS">
+            <sk>Kurín</sk>
+            <cz>Slepičárna</cz>
+            <en>Chicken House</en>
+            <de>Chicken House</de>
+        </text>   
+        <text name="HK_OGF_FARMSILO">
+            <sk>Silo farmy</sk>
+            <cz>Silo na farmě</cz>
+            <en>Farm Silo</en>
+            <de>Hochsilo Frucht</de>
+        </text>
+        <text name="HK_OGF_FUTTERSILO">
+            <sk>Silo na krmivo</sk>
+            <cz>Silo pro krmivo</cz>
+            <en>Silo</en>
+            <de>Futtersilo</de>
+        </text>
+        <text name="HK_OGF_HOF_KUHWEIDE">
+            <sk>Kravín</sk>
+            <cz>Kravín</cz>
+            <en>Cow pasture</en>
+            <de>Kuhweide</de>
+        </text>
+        <text name="HK_OGF_HOF_SCHWEINESTALL">
+            <sk>Prasací chliev</sk>
+            <cz>Prasečí chlív</cz>
+            <en>Pigsty</en>
+            <de>Schweinestall</de>
+        </text>
+        <text name="HK_OGF_HOF_WATER_TRIGGER">
+            <sk>Prívod vody</sk>
+            <cz>Přívod vody</cz>
+            <en>Water Trigger</en>
+            <de>Water Trigger</de>
+        </text>
+        <text name="HK_OGF_SEED_SILO">
+            <sk>Silo sadeníc</sk>
+            <cz>Silo sazenic </cz>
+            <en>Silo Seeds</en>
+            <de>Silo Seeds</de>
+        </text>
+        <text name="SCS_LIQUID_FERTILIZER">
+            <sk>Sklad tekutého hnojiva</sk>
+            <cz>Sklad tekutého hnojiva</cz>
+            <en>Liquid Fertilizer Tank</en>
+            <de>Liquid Fertilizer Tank</de>
+        </text>
+        <text name="waterTank">
+            <sk>Nádrž na vodu</sk>
+            <cz>Nádrž pro vodu</cz>
+            <en>Water Tank</en>
+            <de>Water Tank</de>
+        </text>                                         	
+        <text name="HK_FUTTER_SILO_KLEIN">
+            <sk>Silo na krmivo</sk>
+            <cz>Silo pro krmivo</cz>
+            <en>Small Food Silo</en>
+            <de>Futtersilo Klein</de>
+        </text>     	
+   		<text name="pig1">
+   			<sk>Ošipáreň</sk>
+   			<cz>Prasečák</cz>
+   			<en>Pig Husbandry</en>		
+   			<de>Pig Husbandry</de>
+   		</text>	    	
+        <text name="HK_HOF2_SILO_SEEDS">
+            <sk>Silo sadeníc</sk>
+            <cz>Silo sazenic </cz>
+            <en>Silo Seeds</en>
+            <de>Silo Seeds</de>
+        </text>
+        <text name="HK_HOF_4_KUHWEIDE">
+            <sk>Kravín</sk>
+            <cz>Kravín</cz>
+            <en>Cow pasture</en>
+            <de>Kuhweide</de>
+        </text>
+        <text name="silo">
+            <sk>Silo</sk>
+            <cz>Silo</cz>
+            <en>Silo</en>
+            <de>Silo</de>
+        </text>            	
+        <text name="HK_HOF_SILO_BIG_SCHEUNE">
+            <sk>Silo Stodoly</sk>
+            <cz>Silo Stodoly</cz>
+            <en>Barn Silo</en>
+            <de>Scheune Silo</de>
+        </text>
+        <text name="HK_HUNDEHUETTE">
+            <sk>Psia búda</sk>
+            <cz>Psí bouda</cz>
+            <en>Doghouse</en>
+            <de>Hundehuette</de>
+        </text>
+        <text name="HK_KUHWEIDE">
+            <sk>Kravín</sk>
+            <cz>Kravín</cz>
+            <en>Cow pasture</en>
+            <de>Kuhweide</de>
+        </text>
+        <text name="Liquid_Fertilizer">
+            <sk>Sklad tekutého hnojiva</sk>
+            <cz>Sklad tekutého hnojiva</cz>
+            <en>Liquid Fertilizer Tank</en>
+            <de>Liquid Fertilizer Tank</de>
+        </text>
+        <text name="Liquid_Herbicide">
+            <sk>Sklad kvapalný herbicíd</sk>
+            <cz>Sklad kapalný herbicid</cz>
+            <en>Liquid Herbicide Tank</en>
+            <de>Liquid Herbicide Tank</de>
+        </text>
+        <text name="SCS_SCHLAFTRIGGER">
+            <sk>Farmársky dom</sk>
+            <cz>Farmářský dům</cz>
+            <en>Farm house</en>
+            <de>Farm house</de>
+        </text>                                        
+        <text name="HK_CHICKEN_HOUSE">
+            <sk>Kurín</sk>
+            <cz>Slepičárna</cz>
+            <en>Chicken House</en>
+            <de>Chicken House</de>
+        </text> 
+        <text name="HK_FUTTERSILO">
+            <sk>Silo na krmivo</sk>
+            <cz>Silo pro krmivo</cz>
+            <en>Silo</en>
+            <de>Futtersilo</de>
+        </text>    	
+        <text name="HK_PFERDESTALL">
+			<sk>Stajne koní</sk>
+    		<cz>Koňské stáje</cz>
+            <en>Horse stable</en>
+            <de>Pferdestall</de>
+        </text>        
+        <text name="HK_HOF2_HOCHSILO_FRUCHT">
+            <sk>Silo farmy</sk>
+            <cz>Silo na farmě</cz>
+            <en>Farm Silo</en>
+            <de>Hochsilo Frucht</de>
+        </text>        
+<!--         
+        <text name="AlmostaFarmSilo">
+            <sk>Silo</sk>
+            <cz>Silo</cz>
+            <en>Silo</en>
+            <de>Silo</de>
+        </text>
+-->        
+    </l10n>  
+</mapconfig>
