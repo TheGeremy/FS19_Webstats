@@ -1,6 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
-	<l10n>			
+	<l10n>	
+		<text name="FrontloaderShovel">
+			<sk>Frontloader Shovel</sk>
+			<cz>Frontloader Shovel</cz>
+			<en>Frontloader Shovel</en>
+			<de>Frontloader Shovel</de>
+		</text>	
+		<text name="kroneTurbo3500">
+			<sk>Krone Turbo 3500</sk>
+			<cz>Krone Turbo 3500</cz>
+			<en>Krone Turbo 3500</en>
+			<de>Krone Turbo 3500</de>
+		</text>	
+		<text name="MF7700S">
+			<sk>Massey Ferguson 7700S</sk>
+			<cz>Massey Ferguson 7700S</cz>
+			<en>Massey Ferguson 7700S</en>
+			<de>Massey Ferguson 7700S</de>
+		</text>	
+		<text name="QuickeQ88">
+			<sk>Quicke Q88</sk>
+			<cz>Quicke Q88</cz>
+			<en>Quicke Q88</en>
+			<de>Quicke Q88</de>
+		</text>									
+		<text name="brantnerE8041">
+			<sk>Brantner E8041</sk>
+			<cz>Brantner E8041</cz>
+			<en>Brantner E8041</en>
+			<de>Brantner E8041</de>
+		</text>	
+		<text name="cutterTrailer">
+			<sk>Cutter Trailer</sk>
+			<cz>Cutter Trailer</cz>
+			<en>Cutter Trailer</en>
+			<de>Cutter Trailer</de>
+		</text>	
+		<text name="GE601">
+			<sk>GE601</sk>
+			<cz>GE601</cz>
+			<en>GE601</en>
+			<de>GE601</de>
+		</text>	
+		<text name="sulky">
+			<sk>Sulky</sk>
+			<cz>Sulky</cz>
+			<en>Sulky</en>
+			<de>Sulky</de>
+		</text>	
+		<text name="zhze5">
+			<sk>ZHZE5</sk>
+			<cz>ZHZE5</cz>
+			<en>ZHZE5</en>
+			<de>ZHZE5</de>
+		</text>			
+		<text name="KrukowiakOptimal40012MIX">
+			<sk>Krukowiak Optimal 40012MIX</sk>
+			<cz>Krukowiak Optimal 40012MIX</cz>
+			<en>Krukowiak Optimal 40012MIX</en>
+			<de>Krukowiak Optimal 40012MIX</de>
+		</text>	
+		<text name="small">
+			<sk>Small</sk>
+			<cz>Small</cz>
+			<en>Small</en>
+			<de>Small</de>
+		</text>													
+		<text name="genetixFertilizer">
+			<sk>Genetix Fertilizer</sk>
+			<cz>Genetix Fertilizer</cz>
+			<en>Genetix Fertilizer</en>
+			<de>Genetix Fertilizer</de>
+		</text>	
+		<text name="sulky">
+			<sk>Sulky</sk>
+			<cz>Sulky</cz>
+			<en>Sulky</en>
+			<de>Sulky</de>
+		</text>						
+		<text name="rsmNivaSK5">
+			<sk>Rsm Niva SK5</sk>
+			<cz>Rsm Niva SK5</cz>
+			<en>Rsm Niva SK5</en>
+			<de>Rsm Niva SK5</de>
+		</text>
+		<text name="sameFortis">
+			<sk>Same Fortis</sk>
+			<cz>Same Fortis</cz>
+			<en>Same Fortis</en>
+			<de>Same Fortis</de>
+		</text>		
+		<text name="Pionir_20">
+			<sk>Pionir 20</sk>
+			<cz>Pionir 20</cz>
+			<en>Pionir 20</en>
+			<de>Pionir 20</de>
+		</text>		
+		<text name="JD6030Premium">
+			<sk>JD6030 Premium</sk>
+			<cz>JD6030 Premium</cz>
+			<en>JD6030 Premium</en>
+			<de>JD6030 Premium</de>
+		</text>		
 		<text name="HAYPELLETS">
 			<sk>Senné pelety</sk>
 			<cz>Senné pelety</cz>
