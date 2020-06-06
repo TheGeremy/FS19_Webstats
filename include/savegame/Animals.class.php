@@ -104,7 +104,11 @@ class Animals {
 							}
 							foreach ( $module->breeding as $breeding ) {
 								$animal = strval ( $breeding ['fillType'] );
-								$count = self::$stables [$stable] ['animals'] [$animal] ['count'];
+								if (isset(self::$stables [$stable] ['animals'] [$animal] ['count'])) {
+									$count = self::$stables [$stable] ['animals'] [$animal] ['count'];
+								} else {
+									$count = 0;
+								}
 								if ($count > 1 && $productivity != 0) {
 									$l_animal = translate ( $animal );
 									$breeding = floatval ( $breeding ['percentage'] );
@@ -248,10 +252,12 @@ class Animals {
 					self::calculateTrougs ( $stable, 'HORSE' );					
 				} elseif (isset($animalType)) {
 					// var_dump("<br>");
-					// var_dump($animalType);
+					//var_dump($animalType);
 					// var_dump($animalTypeShort);					
 					self::calculateTrougs ( $stable, $animalTypeShort );					
-				} else {
+				} 
+				if (strpos($animalType,'CHICKEN') !== false) {
+					//var_dump($animalType);
 					if (isset(self::$stables [$stable] ['product'] ['wool'])) {
 						self::$stables [$stable] ['product'] ['egg'] = self::$stables [$stable] ['product'] ['wool'];
 						unset ( self::$stables [$stable] ['product'] ['wool'] );
