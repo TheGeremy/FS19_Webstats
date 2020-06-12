@@ -48,6 +48,9 @@ class Mission {
 				if ($details->getName () == 'bale') {
 					$mission->fruitTypeName = translate ( $details ['fillTypeName'] );
 				}
+				if ($details->getName () == 'sow') {
+					$mission->fruitTypeName = translate ( $details ['fruitTypeName'] );
+				}
 			}
 			self::$missions [] = get_object_vars ( $mission );
 		}
